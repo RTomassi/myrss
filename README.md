@@ -1,2 +1,7 @@
 # myrss
-A place for processing my rss feeds
+
+Hello world!
+
+This is a place for processing my rss news feeds.
+
+
