@@ -11,45 +11,131 @@ permissions:
 jobs:
   update-feeds:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
+    timeout-minutes: 8
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           persist-credentials: false
 
-      - name: Download and validate feeds
+      - name: Fetch feeds and maintain seven-day headline archive
         shell: bash
+        env:
+          REUTERS_RSS_URL: ${{ vars.REUTERS_RSS_URL }}
         run: |
           set -euo pipefail
-
           python3 - <<'PY'
+          import datetime as dt
+          import email.utils
+          import json
+          import os
           import urllib.request
           import xml.etree.ElementTree as ET
           from pathlib import Path
 
           feeds = {
-              "nyt.xml": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-              "ftm.xml": "https://www.ftm.nl/feed/",
+              "volkskrant.xml": ("de Volkskrant", "https://www.volkskrant.nl/rss.xml"),
+              "nyt.xml": ("New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"),
+              "ftm.xml": ("Follow the Money", "https://www.ftm.nl/feed/"),
+              "newyorker.xml": ("The New Yorker", "https://www.newyorker.com/feed/latest/rss"),
           }
+          reuters = os.environ.get("REUTERS_RSS_URL", "").strip()
+          if reuters:
+              feeds["reuters.xml"] = ("Reuters", reuters)
+          else:
+              print("Reuters: awaiting a verified feed URL (repository variable REUTERS_RSS_URL)")
 
-          for filename, url in feeds.items():
-              request = urllib.request.Request(
-                  url, headers={"User-Agent": "myrss-feed-reader/1.0"}
-              )
-              with urllib.request.urlopen(request, timeout=30) as response:
-                  data = response.read(2_000_001)
+          archive_path = Path("archive/headlines.json")
+          try:
+              archive = json.loads(archive_path.read_text(encoding="utf-8"))
+              if not isinstance(archive, list):
+                  archive = []
+          except FileNotFoundError:
+              archive = []
 
-              if len(data) > 2_000_000:
-                  raise ValueError(f"{filename}: feed exceeds 2 MB")
+          now = dt.datetime.now(dt.timezone.utc)
+          cutoff = now - dt.timedelta(days=7)
+          records = {}
 
-              root = ET.fromstring(data)
-              if root.tag not in ("rss", "{http://www.w3.org/2005/Atom}feed"):
-                  raise ValueError(f"{filename}: not an RSS or Atom feed")
+          def parse_date(value):
+              if not value:
+                  return None
+              try:
+                  parsed = email.utils.parsedate_to_datetime(value)
+              except (TypeError, ValueError):
+                  try:
+                      parsed = dt.datetime.fromisoformat(value.replace("Z", "+00:00"))
+                  except ValueError:
+                      return None
+              if parsed.tzinfo is None:
+                  parsed = parsed.replace(tzinfo=dt.timezone.utc)
+              return parsed.astimezone(dt.timezone.utc)
 
-              Path(filename).write_bytes(data)
-              print(f"Updated {filename}")
+          def keep(record):
+              when = parse_date(record.get("published", ""))
+              if when and cutoff <= when <= now + dt.timedelta(hours=2):
+                  url = record.get("url", "")
+                  if url.startswith(("https://", "http://")):
+                      records[url] = record
+
+          for item in archive:
+              if isinstance(item, dict):
+                  keep(item)
+
+          atom = "{http://www.w3.org/2005/Atom}"
+          successes = 0
+          for filename, (source, url) in feeds.items():
+              try:
+                  request = urllib.request.Request(
+                      url, headers={"User-Agent": "Mozilla/5.0 (compatible; myrss/1.0)"}
+                  )
+                  with urllib.request.urlopen(request, timeout=30) as response:
+                      data = response.read(2_000_001)
+                  if len(data) > 2_000_000:
+                      raise ValueError("Feed exceeds 2 MB")
+                  root = ET.fromstring(data)
+                  if root.tag == "rss":
+                      entries = root.findall("./channel/item")
+                      def field(e, name):
+                          return (e.findtext(name) or "").strip()
+                      extracted = [
+                          (field(e, "title"), field(e, "link"), field(e, "pubDate"))
+                          for e in entries
+                      ]
+                  elif root.tag == atom + "feed":
+                      extracted = []
+                      for e in root.findall(atom + "entry"):
+                          link = next((x.get("href", "") for x in e.findall(atom + "link")
+                                       if x.get("rel", "alternate") == "alternate"), "")
+                          extracted.append((
+                              (e.findtext(atom + "title") or "").strip(),
+                              link,
+                              (e.findtext(atom + "published") or
+                               e.findtext(atom + "updated") or "").strip()
+                          ))
+                  else:
+                      raise ValueError("Not RSS or Atom")
+                  if not extracted:
+                      raise ValueError("No feed entries found")
+                  Path(filename).write_bytes(data)
+                  successes += 1
+                  for title, link, published in extracted:
+                      if title and link and published:
+                          keep({"source": source, "title": title, "url": link,
+                                "published": published})
+                  print(f"{source}: {len(extracted)} entries")
+              except Exception as exc:
+                  print(f"WARNING: {source} failed: {exc}; keeping previous file")
+
+          if successes == 0:
+              raise SystemExit("No feeds could be refreshed")
+          archive_path.parent.mkdir(exist_ok=True)
+          archive_path.write_text(
+              json.dumps(sorted(records.values(), key=lambda x: parse_date(x["published"]),
+                                reverse=True), ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8"
+          )
+          print(f"Seven-day archive: {len(records)} headlines")
           PY
 
       - name: Commit changes
@@ -58,11 +144,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add nyt.xml ftm.xml
-
+          git add -- '*.xml' archive/headlines.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update RSS feeds"
+            git commit -m "Update RSS feeds and headline archive"
             git -c http.extraheader="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)" push
           fi
