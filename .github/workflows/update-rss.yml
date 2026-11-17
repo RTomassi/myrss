@@ -20,8 +20,6 @@ jobs:
 
       - name: Fetch feeds and maintain seven-day headline archive
         shell: bash
-        env:
-          REUTERS_RSS_URL: ${{ vars.REUTERS_RSS_URL }}
         run: |
           set -euo pipefail
           python3 - <<'PY'
@@ -39,11 +37,7 @@ jobs:
               "ftm.xml": ("Follow the Money", "https://www.ftm.nl/feed/"),
               "newyorker.xml": ("The New Yorker", "https://www.newyorker.com/feed/latest/rss"),
           }
-          reuters = os.environ.get("REUTERS_RSS_URL", "").strip()
-          if reuters:
-              feeds["reuters.xml"] = ("Reuters", reuters)
-          else:
-              print("Reuters: awaiting a verified feed URL (repository variable REUTERS_RSS_URL)")
+          feeds["reuters.xml"] = ("Reuters", "https://news.google.com/rss/search?q=site%3Areuters.com+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen")
 
           archive_path = Path("archive/headlines.json")
           try:
