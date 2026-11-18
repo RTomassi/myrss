@@ -1,18 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel>
-<title>MYRSS Daily Digest</title>
-<link>https://github.com/RTomassi/myrss</link>
-<description>Curated daily RSS digest: two articles each from de Volkskrant, New York Times, Follow the Money, Reuters and The New Yorker. Descriptions are based on RSS metadata.</description>
-<language>en</language>
-<pubDate>Tue, 17 Nov 2026 14:00:00 GMT</pubDate>
-<item><title>de Volkskrant | Irak exporteert weer olie naar Turkije via heropende pijpleiding om Straat van Hormuz te omzeilen</title><link>https://www.volkskrant.nl/buitenland/irak-exporteert-weer-olie-naar-turkije-via-heropende-pijpleiding-om-straat-van-hormuz-te-omzeilen~bd96d2f5/</link><description>Volgens de RSS-kop exporteert Irak opnieuw olie naar Turkije via een heropende pijpleiding, als alternatief voor de Straat van Hormuz.</description><pubDate>Tue, 17 Nov 2026 13:08:00 GMT</pubDate><guid isPermaLink="true">https://www.volkskrant.nl/buitenland/irak-exporteert-weer-olie-naar-turkije-via-heropende-pijpleiding-om-straat-van-hormuz-te-omzeilen~bd96d2f5/</guid><category>de Volkskrant</category></item>
-<item><title>de Volkskrant | Ecuadoraanse vissers spannen rechtszaak aan tegen regering-Trump na droneaanval in de Stille Oceaan</title><link>https://www.volkskrant.nl/buitenland/ecuadoraanse-vissers-spannen-rechtszaak-aan-tegen-regering-trump-na-droneaanval-in-de-stille-oceaan~bdfe8211/</link><description>Volgens de RSS-kop dagen Ecuadoraanse vissers de Amerikaanse regering voor de rechter na een droneaanval in de Stille Oceaan.</description><pubDate>Mon, 16 Nov 2026 23:49:00 GMT</pubDate><guid isPermaLink="true">https://www.volkskrant.nl/buitenland/ecuadoraanse-vissers-spannen-rechtszaak-aan-tegen-regering-trump-na-droneaanval-in-de-stille-oceaan~bdfe8211/</guid><category>de Volkskrant</category></item>
-<item><title>New York Times | Carney and Xi Announce Canada-China Trade Pact</title><link>https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html</link><description>The RSS summary reports a Canada–China trade agreement and contrasts the leaders' cordial relations with current Canada–US relations.</description><pubDate>Tue, 17 Nov 2026 09:46:43 +0000</pubDate><guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html</guid><category>New York Times</category></item>
-<item><title>New York Times | Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread</title><link>https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html</link><description>The RSS summary says health teams in eastern Congo face delays in seeking medical care and families' preference for treating relatives at home.</description><pubDate>Tue, 17 Nov 2026 10:07:56 +0000</pubDate><guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html</guid><category>New York Times</category></item>
-<item><title>Follow the Money | Deutsche Bank beschermde Trump en andere machtige klanten tegen witwasonderzoek, blijkt uit lek</title><link>https://www.ftm.nl/artikelen/deutsche-bank-beschermde-trump-en-andere-machtige-klanten-tegen-witwas-onderzoek-blijkt-uit-lek</link><description>FTM stelt op basis van gelekte gegevens dat Deutsche Bank machtige klanten beschermde tegen witwasonderzoek. Dit is een samenvatting van de RSS-informatie, niet van het volledige artikel.</description><pubDate>Tue, 17 Nov 2026 06:00:00 +0100</pubDate><guid isPermaLink="true">https://www.ftm.nl/artikelen/deutsche-bank-beschermde-trump-en-andere-machtige-klanten-tegen-witwas-onderzoek-blijkt-uit-lek</guid><category>Follow the Money</category></item>
-<item><title>Follow the Money | Universiteiten stoppen projecten met Chinese collega’s die óók werken voor de krijgsmacht</title><link>https://www.ftm.nl/artikelen/universiteiten-beperken-samenwerking-wetenschappers-leger-china</link><description>Volgens FTM zijn Eindhoven en Maastricht gestopt met samenwerking met zeven Chinese universiteiten die ook voor het Chinese leger werken.</description><pubDate>Mon, 16 Nov 2026 06:00:00 +0100</pubDate><guid isPermaLink="true">https://www.ftm.nl/artikelen/universiteiten-beperken-samenwerking-wetenschappers-leger-china</guid><category>Follow the Money</category></item>
-<item><title>The New Yorker | The Need for a Radical Rudeness</title><link>https://www.newyorker.com/news/fault-lines/the-need-for-a-radical-rudeness</link><description>An essay questioning the expectation that everyone should always be reachable by phone.</description><pubDate>Tue, 17 Nov 2026 11:00:00 +0000</pubDate><guid isPermaLink="true">https://www.newyorker.com/news/fault-lines/the-need-for-a-radical-rudeness</guid><category>The New Yorker</category></item>
-<item><title>The New Yorker | If You Give a Girl a Gua Sha . . .</title><link>https://www.newyorker.com/humor/shouts-murmurs/if-you-give-a-girl-a-gua-sha</link><description>A humorous piece about the accessories that follow a gua sha gift.</description><pubDate>Tue, 17 Nov 2026 11:00:00 +0000</pubDate><guid isPermaLink="true">https://www.newyorker.com/humor/shouts-murmurs/if-you-give-a-girl-a-gua-sha</guid><category>The New Yorker</category></item>
-<item><title>Reuters | Mongolian president announces resignation over alleged corruption</title><link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXZfUjRFY2sybHV6NUN4TFc0WUs5NUh4Mk0tMjhmd1pXSWNtVzVJMDZCdGg2ODRodzhJSUFrQU5oOWNHVGpFakRPV2dCSkFMMkNBTTgySmhYSkN1UTJ6aWtOWFU0TzlnYVNwZWVhUjRXODlfOVhPUmRad19WMm9Dd2VkaFBTMVdFdDNqZEpuLW1NaEo0T1JwS0tvUXFWbFhQRVltekJ3WVNFb3ZVUWF0aWJrTQ?oc=5</link><description>Reuters headline via Google News RSS: Mongolian president announces resignation over alleged corruption. Full article text was not available in the feed.</description><pubDate>Tue, 17 Nov 2026 08:26:09 GMT</pubDate><guid isPermaLink="true">https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXZfUjRFY2sybHV6NUN4TFc0WUs5NUh4Mk0tMjhmd1pXSWNtVzVJMDZCdGg2ODRodzhJSUFrQU5oOWNHVGpFakRPV2dCSkFMMkNBTTgySmhYSkN1UTJ6aWtOWFU0TzlnYVNwZWVhUjRXODlfOVhPUmRad19WMm9Dd2VkaFBTMVdFdDNqZEpuLW1NaEo0T1JwS0tvUXFWbFhQRVltekJ3WVNFb3ZVUWF0aWJrTQ?oc=5</guid><category>Reuters</category></item>
-<item><title>Reuters | Britain sanctions Israeli settlement firms in push to protect two-state solution</title><link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXk4clBMd2ltVDE1T2tJSlJRLUs5dTIzUTVXVVRkVWNMUTRzMEVFR2ZvVHNUelRhZXB5WDZGU2lmV2p3VDIzSWNwdVVRbnl3Y0JCWXQ1VnAtRmQwZWxsdU9GSDJ1ajh3U1pCRDMwRDdTblBYMUs4RE1udnNzSkU1alhwQm1QNHo3aF91M0Zod1JsNVV4RllPcHdkdEoySUxsRkhIZ2x5STF2LWdEbWF4M1czUUNySWJDdGc?oc=5</link><description>Reuters headline via Google News RSS: Britain sanctions Israeli settlement firms in push to protect two-state solution. Full article text was not available in the feed.</description><pubDate>Tue, 17 Nov 2026 11:30:36 GMT</pubDate><guid isPermaLink="true">https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXk4clBMd2ltVDE1T2tJSlJRLUs5dTIzUTVXVVRkVWNMUTRzMEVFR2ZvVHNUelRhZXB5WDZGU2lmV2p3VDIzSWNwdVVRbnl3Y0JCWXQ1VnAtRmQwZWxsdU9GSDJ1ajh3U1pCRDMwRDdTblBYMUs4RE1udnNzSkU1alhwQm1QNHo3aF91M0Zod1JsNVV4RllPcHdkdEoySUxsRkhIZ2x5STF2LWdEbWF4M1czUUNySWJDdGc?oc=5</guid><category>Reuters</category></item>
-</channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>MYRSS Daily Digest</title>
+  <link>https://rtomassi.github.io/myrss/digest.xml</link>
+  <description>Ten curated RSS-metadata summaries: two each from de Volkskrant, New York Times, Follow the Money, Reuters and The New Yorker. Reporting attributed to publishers; full articles not necessarily accessed.</description>
+  <language>en</language>
+  <pubDate>Wed, 18 Nov 2026 07:57:24 GMT</pubDate>
+  <lastBuildDate>Wed, 18 Nov 2026 07:57:24 GMT</lastBuildDate>
+  <atom:link href="https://rtomassi.github.io/myrss/digest.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>de Volkskrant | Iran bevestigt luchtaanval op Koeweit</title>
+    <link>https://www.volkskrant.nl/buitenland/iran-bevestigt-luchtaanval-op-koeweit~bd96d2f5/</link>
+    <description>De Volkskrant reports that Iran has confirmed an air strike on Kuwait. This is based on the headline; details have not been independently verified.</description>
+    <pubDate>Wed, 18 Nov 2026 04:50:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.volkskrant.nl/buitenland/iran-bevestigt-luchtaanval-op-koeweit~bd96d2f5/</guid>
+    <category>de Volkskrant</category>
+  </item>
+  <item>
+    <title>de Volkskrant | Rusland grootste netto-exporteur van CO2, Qatar stoot per inwoner het meeste uit</title>
+    <link>https://www.volkskrant.nl/buitenland/rusland-grootste-netto-exporteur-van-co2-qatar-stoot-per-inwoner-het-meeste-uit~bf5c8b69/</link>
+    <description>According to de Volkskrant's headline, Russia is the largest net exporter of CO2 and Qatar has the highest per-capita emissions. The feed supplies no detailed methodology.</description>
+    <pubDate>Wed, 18 Nov 2026 04:00:32 GMT</pubDate>
+    <guid isPermaLink="true">https://www.volkskrant.nl/buitenland/rusland-grootste-netto-exporteur-van-co2-qatar-stoot-per-inwoner-het-meeste-uit~bf5c8b69/</guid>
+    <category>de Volkskrant</category>
+  </item>
+  <item>
+    <title>New York Times | Tracking China’s Intensifying War of Words Against Japan</title>
+    <link>https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html</link>
+    <description>The Times describes a concerted Chinese messaging campaign portraying Japan as an aggressor and renewed military threat, according to its analysis.</description>
+    <pubDate>Wed, 18 Nov 2026 01:02:39 +0000</pubDate>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html</guid>
+    <category>New York Times</category>
+  </item>
+  <item>
+    <title>New York Times | Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration</title>
+    <link>https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html</link>
+    <description>Survivors of a US boat strike have filed a lawsuit against the Trump administration, the Times reports. Its RSS summary describes the military campaign as secretive and says more than 240 people have died.</description>
+    <pubDate>Tue, 17 Nov 2026 18:26:38 +0000</pubDate>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html</guid>
+    <category>New York Times</category>
+  </item>
+  <item>
+    <title>Follow the Money | Gelekte bank­documenten: Hongaarse partner van ING faciliteerde Russische witwas­praktijken</title>
+    <link>https://www.ftm.nl/artikelen/banklek-deutschebank-hongaarse-partner-van-ing-gelinkt-aan-russisch-witwassen</link>
+    <description>FTM reports that leaked documents link a major Hungarian bank to Russian money laundering and describe subsequent ties to Dutch bank ING. This summarises the RSS metadata, not the full investigation.</description>
+    <pubDate>Wed, 18 Nov 2026 07:00:00 +0100</pubDate>
+    <guid isPermaLink="true">https://www.ftm.nl/artikelen/banklek-deutschebank-hongaarse-partner-van-ing-gelinkt-aan-russisch-witwassen</guid>
+    <category>Follow the Money</category>
+  </item>
+  <item>
+    <title>Follow the Money | Universiteiten stoppen projecten met Chinese collega’s die óók werken voor de krijgsmacht</title>
+    <link>https://www.ftm.nl/artikelen/universiteiten-beperken-samenwerking-wetenschappers-leger-china</link>
+    <description>FTM reports that Eindhoven and Maastricht universities stopped projects with seven Chinese universities also working for China's military. The RSS summary says other institutions remain undecided.</description>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0100</pubDate>
+    <guid isPermaLink="true">https://www.ftm.nl/artikelen/universiteiten-beperken-samenwerking-wetenschappers-leger-china</guid>
+    <category>Follow the Money</category>
+  </item>
+  <item>
+    <title>Reuters | Bahrain says air defences intercepted Iranian attacks</title>
+    <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNMEJSYmJOTF9ISXdkYWVNd0Z3RnJvQnRjSlhEVWJ4bWo1UVVvblNOUnczc0FtOUlSODM5UzRNOUF5T3lIYTNrRVZKNEZTaVFQcnMwaG9JSWdnNkJmRVVtcTluWmFEU1k0dFVVVDJ4SWlEcUNpWEo1aktKYzFGblgxTldZSGVNRjV3N3VyMVNFelYxQ1d4Zlo3LXdQN2E4RUFuNjB4UWdYX1FxQ3pERUdCenJ3?oc=5</link>
+    <description>Reuters headline via Google News RSS: Bahrain says its air defences intercepted Iranian attacks. No full Reuters article text was available in the feed.</description>
+    <pubDate>Tue, 17 Nov 2026 23:15:00 GMT</pubDate>
+    <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisgFBVV95cUxNMEJSYmJOTF9ISXdkYWVNd0Z3RnJvQnRjSlhEVWJ4bWo1UVVvblNOUnczc0FtOUlSODM5UzRNOUF5T3lIYTNrRVZKNEZTaVFQcnMwaG9JSWdnNkJmRVVtcTluWmFEU1k0dFVVVDJ4SWlEcUNpWEo1aktKYzFGblgxTldZSGVNRjV3N3VyMVNFelYxQ1d4Zlo3LXdQN2E4RUFuNjB4UWdYX1FxQ3pERUdCenJ3?oc=5</guid>
+    <category>Reuters</category>
+  </item>
+  <item>
+    <title>Reuters | How India became a rice powerhouse - and why it's becoming a problem</title>
+    <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPLS1aa2RCdVBHNXQxZ29XN0RvNGVxa3AwNHpBODVJRXc0aThWX283QllXWmFfQzNxVUowS2xrUlR5M1BKMjV2LXowanYwVHZUVzZnaUVjMXVWRmdJSU4wR1ExOElxZktDbTNpZVlOeTlaYmUxSTNiNlJXZHJodUpMQTgwT095bnNHVWtfeVFSSnBlU3FxdEYtdGpNdG5tdExq?oc=5</link>
+    <description>Reuters headline via Google News RSS examines India's rise as a major rice producer and associated problems. No full Reuters article text was available in the feed.</description>
+    <pubDate>Wed, 18 Nov 2026 05:52:00 GMT</pubDate>
+    <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAFBVV95cUxPLS1aa2RCdVBHNXQxZ29XN0RvNGVxa3AwNHpBODVJRXc0aThWX283QllXWmFfQzNxVUowS2xrUlR5M1BKMjV2LXowanYwVHZUVzZnaUVjMXVWRmdJSU4wR1ExOElxZktDbTNpZVlOeTlaYmUxSTNiNlJXZHJodUpMQTgwT095bnNHVWtfeVFSSnBlU3FxdEYtdGpNdG5tdExq?oc=5</guid>
+    <category>Reuters</category>
+  </item>
+  <item>
+    <title>The New Yorker | The Making of Peter Bogdanovich, in His Own Words</title>
+    <link>https://www.newyorker.com/culture/the-front-row/the-making-of-peter-bogdanovich-in-his-own-words</link>
+    <description>A film essay on Peter Bogdanovich's posthumously published diaries, covering his transition from writer to director, according to the magazine's RSS summary.</description>
+    <pubDate>Tue, 17 Nov 2026 21:49:03 +0000</pubDate>
+    <guid isPermaLink="true">https://www.newyorker.com/culture/the-front-row/the-making-of-peter-bogdanovich-in-his-own-words</guid>
+    <category>The New Yorker</category>
+  </item>
+  <item>
+    <title>The New Yorker | The Radical Intimacies of Ryûsuke Hamaguchi</title>
+    <link>https://www.newyorker.com/culture/persons-of-interest/the-radical-intimacies-of-ryusuke-hamaguchi</link>
+    <description>A profile of Japanese director Ryûsuke Hamaguchi exploring end-of-life care and the limitations of cinema through his film All of a Sudden, according to the RSS summary.</description>
+    <pubDate>Tue, 17 Nov 2026 20:19:06 +0000</pubDate>
+    <guid isPermaLink="true">https://www.newyorker.com/culture/persons-of-interest/the-radical-intimacies-of-ryusuke-hamaguchi</guid>
+    <category>The New Yorker</category>
+  </item>
+</channel>
+</rss>
