@@ -15,7 +15,14 @@
 		<language>en-GB</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
-		<lastBuildDate>Wed, 18 Nov 2026 07:55:49 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 19 Nov 2026 07:55:02 +0100</lastBuildDate>
+					<item>
+				<title><![CDATA[De vergeten oorzaak van de huurcrisis: de koper woont in een fiscaal paleis]]></title>
+				<link>https://www.ftm.nl/artikelen/analyse-vrije-huursector-krimpt-door-fiscale-bevoordeling-koopwoningen</link>
+				<pubDate>Thu, 19 Nov 2026 06:00:00 +0100</pubDate>
+				<dc:creator><![CDATA[Thomas Bollen]]></dc:creator>
+				<description><![CDATA[Er verdwenen in twee jaar tijd 70 duizend woningen uit de private huursector. Hugo de Jonge en zijn Wet betaalbare huur krijgen de schuld, maar het echte probleem blijft buiten schot: de ongelijke behandeling van koop en huur.]]></description>				<guid>https://www.ftm.nl/artikelen/analyse-vrije-huursector-krimpt-door-fiscale-bevoordeling-koopwoningen</guid>
+				<enclosure url="https://www.ftm.nl/uploads/media_filter/6afd7e1c325a1/article_800_nocrop/ANP-572025292.jpg?v=2" type="image/jpeg" length="18473265" ></enclosure>			</item>
 					<item>
 				<title><![CDATA[Gelekte bank­documenten: Hongaarse partner van ING faciliteerde Russische witwas­praktijken]]></title>
 				<link>https://www.ftm.nl/artikelen/banklek-deutschebank-hongaarse-partner-van-ing-gelinkt-aan-russisch-witwassen</link>
@@ -121,12 +128,5 @@
 				<dc:creator><![CDATA[Jan Daalder]]></dc:creator>
 								<guid>https://www.ftm.nl/artikelen/wat-voor-zin-heeft-digitale-autonomie-als-je-niet-bereid-bent-af-te-stappen-van-gmail-en-google-docs</guid>
 							</item>
-					<item>
-				<title><![CDATA[Russische politicus lokt EU-parle­mentariërs naar Moskou]]></title>
-				<link>https://www.ftm.nl/artikelen/hoe-deze-russische-politicus-eu-parlementsleden-naar-moskou-lokt</link>
-				<pubDate>Thu, 12 Nov 2026 06:00:00 +0100</pubDate>
-				<dc:creator><![CDATA[Mirjana Jevtović]]></dc:creator>
-				<description><![CDATA[Hoewel het Europees Parlement de betrekkingen met de Russische Doema in 2014 officieel verbrak, hebben minstens veertien EU-parlementsleden regelmatig ontmoetingen met Russische collega’s. ‘We zijn buren. We hebben veel gemeenschappelijke belangen.’]]></description>				<guid>https://www.ftm.nl/artikelen/hoe-deze-russische-politicus-eu-parlementsleden-naar-moskou-lokt</guid>
-				<enclosure url="https://www.ftm.nl/uploads/media_filter/6af441640631c/article_800_nocrop/slutzky.jpg?v=0" type="image/jpeg" length="2824002" ></enclosure>			</item>
 			</channel>
 </rss>
