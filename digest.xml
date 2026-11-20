@@ -3,90 +3,20 @@
 <channel>
 <title>MYRSS Daily Digest</title>
 <link>https://rtomassi.github.io/myrss/digest.xml</link>
-<description>Daily world-affairs curation: two selections each from de Volkskrant, New York Times, Follow the Money, Reuters and The New Yorker. Most summaries rely on RSS headlines and descriptions; Reuters articles additionally checked. Source feeds last refreshed on 19 November 2026 around 07:00 UTC.</description>
-<language>en</language>
-<pubDate>Thu, 19 Nov 2026 17:05:37 GMT</pubDate>
-<lastBuildDate>Thu, 19 Nov 2026 17:05:37 GMT</lastBuildDate>
+<description>Ten curated world-affairs and wind-down articles, two per publication. Selection from the repository's latest seven-day archive and RSS feeds, prioritising the past 48 hours. Most summaries use publisher RSS metadata; two Reuters articles were checked against original reporting. Source feeds were last refreshed around 07:00 UTC on 20 November 2026, so later stories may be absent.</description>
+<language>en-GB</language>
+<pubDate>Fri, 20 Nov 2026 17:50:56 GMT</pubDate>
+<lastBuildDate>Fri, 20 Nov 2026 17:50:56 GMT</lastBuildDate>
 <atom:link href="https://rtomassi.github.io/myrss/digest.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>de Volkskrant | Brussel wil nieuwe miljardenlening om Oekraïne sterke positie aan de onder­handelings­tafel te geven</title>
-<link>https://www.volkskrant.nl/politiek/europese-commissie-wil-nieuwe-miljardenlening-om-oekraine-sterke-positie-aan-de-onderhandelingstafel-te-geven~b06bafcf/</link>
-<description>de Volkskrant reports that the European Commission wants a new multibillion-euro loan to strengthen Ukraine&apos;s negotiating position. Headline-only summary; no full article was accessed.</description>
-<pubDate>Wed, 18 Nov 2026 11:32:51 GMT</pubDate>
-<guid isPermaLink="true">https://www.volkskrant.nl/politiek/europese-commissie-wil-nieuwe-miljardenlening-om-oekraine-sterke-positie-aan-de-onderhandelingstafel-te-geven~b06bafcf/</guid>
-<category>de Volkskrant</category>
-</item>
-<item>
-<title>de Volkskrant | Persorganisatie: Israël demoniseerde Palestijnse journalisten en doodde ze erna</title>
-<link>https://www.volkskrant.nl/buitenland/persorganisatie-israel-demoniseerde-palestijnse-journalisten-en-doodde-ze-erna~bd96d2f5/</link>
-<description>According to de Volkskrant&apos;s headline, a press organisation alleges that Israel demonised Palestinian journalists before killing them. This is an attributed allegation, not independently established here; headline-only summary.</description>
-<pubDate>Thu, 19 Nov 2026 05:25:00 GMT</pubDate>
-<guid isPermaLink="true">https://www.volkskrant.nl/buitenland/persorganisatie-israel-demoniseerde-palestijnse-journalisten-en-doodde-ze-erna~bd96d2f5/</guid>
-<category>de Volkskrant</category>
-</item>
-<item>
-<title>New York Times | How the War in Iran Will Remake the Global Energy Order</title>
-<link>https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html</link>
-<description>The Times&apos; RSS summary says an International Energy Agency analysis finds that the Iran war&apos;s oil shock could accelerate adoption of alternative energy sources. Based on RSS metadata, not a full-article reading.</description>
-<pubDate>Thu, 19 Nov 2026 05:00:06 +0000</pubDate>
-<guid isPermaLink="true">https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html</guid>
-<category>New York Times</category>
-</item>
-<item>
-<title>New York Times | Putin Returns to APEC ‘Family Photo,’ Testing Western Leaders</title>
-<link>https://www.nytimes.com/2026/11/19/world/asia/putin-xi-trump-apec-family-photo.html</link>
-<description>The Times reports that Australian and Canadian leaders defended joining an APEC group photograph with Putin as a courtesy to China, despite domestic criticism. Based on the RSS summary.</description>
-<pubDate>Thu, 19 Nov 2026 06:46:07 +0000</pubDate>
-<guid isPermaLink="true">https://www.nytimes.com/2026/11/19/world/asia/putin-xi-trump-apec-family-photo.html</guid>
-<category>New York Times</category>
-</item>
-<item>
-<title>Follow the Money | De vergeten oorzaak van de huurcrisis: de koper woont in een fiscaal paleis</title>
-<link>https://www.ftm.nl/artikelen/analyse-vrije-huursector-krimpt-door-fiscale-bevoordeling-koopwoningen</link>
-<description>FTM argues that favourable tax treatment of homeownership, rather than only rental regulation, is an overlooked driver of the shrinking Dutch private rental sector. Its RSS summary says 70,000 homes left that sector in two years; this is FTM&apos;s account.</description>
-<pubDate>Thu, 19 Nov 2026 06:00:00 +0100</pubDate>
-<guid isPermaLink="true">https://www.ftm.nl/artikelen/analyse-vrije-huursector-krimpt-door-fiscale-bevoordeling-koopwoningen</guid>
-<category>Follow the Money</category>
-</item>
-<item>
-<title>Follow the Money | Gelekte bank­documenten: Hongaarse partner van ING faciliteerde Russische witwas­praktijken</title>
-<link>https://www.ftm.nl/artikelen/banklek-deutschebank-hongaarse-partner-van-ing-gelinkt-aan-russisch-witwassen</link>
-<description>FTM reports, citing leaked banking documents, that a major Hungarian bank linked to ING facilitated Russian money-laundering practices involving a Kremlin-connected oligarch. This reflects the publisher&apos;s RSS allegations, not independent verification.</description>
-<pubDate>Wed, 18 Nov 2026 07:00:00 +0100</pubDate>
-<guid isPermaLink="true">https://www.ftm.nl/artikelen/banklek-deutschebank-hongaarse-partner-van-ing-gelinkt-aan-russisch-witwassen</guid>
-<category>Follow the Money</category>
-</item>
-<item>
-<title>Reuters | EXCLUSIVE: UniCredit and Germany reach broad agreement on Commerzbank takeover</title>
-<link>https://www.reuters.com/business/finance/unicredit-germany-reach-broad-agreement-commerzbank-takeover-2026-11-18/</link>
-<description>Reuters reports that UniCredit and Germany reached broad agreement on key terms of a Commerzbank takeover, including retaining the German headquarters in Frankfurt. Reuters article reporting was consulted.</description>
-<pubDate>Wed, 18 Nov 2026 23:09:00 GMT</pubDate>
-<guid isPermaLink="true">https://www.reuters.com/business/finance/unicredit-germany-reach-broad-agreement-commerzbank-takeover-2026-11-18/</guid>
-<category>Reuters</category>
-</item>
-<item>
-<title>Reuters | EXCLUSIVE: Anthropic clinches biggest-ever IPO with $81 billion offering</title>
-<link>https://www.reuters.com/business/anthropic-clinches-biggest-ever-ipo-with-81-billion-offering-2026-11-18/</link>
-<description>Reuters reports that Anthropic&apos;s initial public offering raised about $81.31 billion at $83 per share, a record stock-market debut. Reuters article reporting was consulted.</description>
-<pubDate>Wed, 18 Nov 2026 23:19:26 GMT</pubDate>
-<guid isPermaLink="true">https://www.reuters.com/business/anthropic-clinches-biggest-ever-ipo-with-81-billion-offering-2026-11-18/</guid>
-<category>Reuters</category>
-</item>
-<item>
-<title>The New Yorker | “Sense of Water” Is an Iranian Exile’s Love Letter to Farsi</title>
-<link>https://www.newyorker.com/culture/screening-room/sense-of-water-is-an-iranian-exiles-love-letter-to-farsi</link>
-<description>Wind-down: The New Yorker&apos;s film piece describes Mohammad Rasoulof&apos;s &apos;Sense of Water&apos; as an Iranian exile&apos;s love letter to Farsi, drawing a parallel with the director&apos;s own flight to Germany. Based on the RSS summary.</description>
-<pubDate>Wed, 18 Nov 2026 17:11:53 +0000</pubDate>
-<guid isPermaLink="true">https://www.newyorker.com/culture/screening-room/sense-of-water-is-an-iranian-exiles-love-letter-to-farsi</guid>
-<category>The New Yorker</category>
-</item>
-<item>
-<title>The New Yorker | “On the Calculation of Volume” Enters a New Phase</title>
-<link>https://www.newyorker.com/books/what-were-reading/on-the-calculation-of-volume-enters-a-new-phase</link>
-<description>Wind-down: A literary review of Book V in Solvej Balle&apos;s time-loop series, in which its characters settle into November 18 as a more permanent home. Based on the RSS summary.</description>
-<pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.newyorker.com/books/what-were-reading/on-the-calculation-of-volume-enters-a-new-phase</guid>
-<category>The New Yorker</category>
-</item>
+<item><title>de Volkskrant | Drie doden bij Russische raketaanvallen op Kyiv, drie bruggen geraakt</title><link>https://www.volkskrant.nl/buitenland/drie-doden-bij-russische-raketaanvallen-op-kyiv-drie-bruggen-geraakt~b11373d3a/</link><description>de Volkskrant reports three deaths and damage to three bridges following Russian missile strikes on Kyiv. Headline-only account; the full article was not accessed.</description><pubDate>Fri, 20 Nov 2026 05:34:00 GMT</pubDate><guid isPermaLink="true">https://www.volkskrant.nl/buitenland/drie-doden-bij-russische-raketaanvallen-op-kyiv-drie-bruggen-geraakt~b11373d3a/</guid><category>de Volkskrant</category></item>
+<item><title>de Volkskrant | Bondgenoten van Oekraïne zetten zich in Berlijn af tegen topontmoeting Xi, Trump en Poetin</title><link>https://www.volkskrant.nl/buitenland/bondgenoten-van-oekraine-zetten-zich-in-berlijn-af-tegen-topontmoeting-xi-trump-en-poetin~ba1763c4/</link><description>According to de Volkskrant&apos;s headline, Ukraine&apos;s allies meeting in Berlin distanced themselves from the Xi-Trump-Putin summit. Headline-only account.</description><pubDate>Thu, 19 Nov 2026 20:43:00 GMT</pubDate><guid isPermaLink="true">https://www.volkskrant.nl/buitenland/bondgenoten-van-oekraine-zetten-zich-in-berlijn-af-tegen-topontmoeting-xi-trump-en-poetin~ba1763c4/</guid><category>de Volkskrant</category></item>
+<item><title>New York Times | Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds</title><link>https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html</link><description>The New York Times RSS summary reports that the International Court of Justice found Myanmar responsible for genocide against the Rohingya, describing this as the court&apos;s first such ruling against a state. Based on RSS metadata.</description><pubDate>Fri, 20 Nov 2026 01:37:20 +0000</pubDate><guid isPermaLink="true">https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html</guid><category>New York Times</category></item>
+<item><title>New York Times | Easing Back From Brexit: What to Expect at U.K. Summit With E.U.</title><link>https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html</link><description>The New York Times previews a UK-EU summit and a gradual rapprochement a decade after the Brexit referendum, amid global pressure. Based on RSS metadata.</description><pubDate>Fri, 20 Nov 2026 05:01:06 +0000</pubDate><guid isPermaLink="true">https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html</guid><category>New York Times</category></item>
+<item><title>Follow the Money | Hoe land­bouw­kennis uit Wageningen kan bijdragen aan de onderdrukking van Oeigoeren</title><link>https://www.ftm.nl/artikelen/wetenschap-wageningen-onderdrukking-oeigoeren-xinjiang</link><description>FTM&apos;s RSS summary reports that Dutch agricultural researchers in Xinjiang work with researchers from the XPCC, a paramilitary organisation implicated in land appropriation and repression of Uyghurs and other minorities. Publisher&apos;s investigation, not independently verified here.</description><pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate><guid isPermaLink="true">https://www.ftm.nl/artikelen/wetenschap-wageningen-onderdrukking-oeigoeren-xinjiang</guid><category>Follow the Money</category></item>
+<item><title>Follow the Money | Vijf onthullingen uit de gelekte Deutsche Bank-documenten</title><link>https://www.ftm.nl/artikelen/vijf-onthullingen-uit-de-gelekte-deutsche-bank-documenten</link><description>FTM presents five findings from a multinational investigation by more than 200 journalists across 55 other outlets into 15 million leaked Deutsche Bank documents. Based on the publisher&apos;s RSS summary.</description><pubDate>Fri, 20 Nov 2026 05:55:00 +0100</pubDate><guid isPermaLink="true">https://www.ftm.nl/artikelen/vijf-onthullingen-uit-de-gelekte-deutsche-bank-documenten</guid><category>Follow the Money</category></item>
+<item><title>Reuters | Taiwan tells Meta thousands of China-linked accounts seek to influence elections</title><link>https://www.reuters.com/world/china/taiwan-tells-meta-thousands-china-linked-accounts-seek-influence-elections-2026-11-20/</link><description>Reuters reports Taiwanese officials flagged nearly 2,700 suspected China-linked Threads accounts to Meta before local elections. Meta said it removed flagged low-quality accounts but said none had posted election-related content. Based on Reuters original reporting.</description><pubDate>Fri, 20 Nov 2026 05:34:34 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/taiwan-tells-meta-thousands-china-linked-accounts-seek-influence-elections-2026-11-20/</guid><category>Reuters</category></item>
+<item><title>Reuters | US Senate passes bipartisan bill to speed energy and infrastructure projects</title><link>https://www.reuters.com/legal/litigation/us-senate-passes-bipartisan-bill-speed-energy-infrastructure-projects-2026-11-20/</link><description>Reuters reports the US Senate passed a permitting reform bill 62-33, sending it to the House. The measure would accelerate project reviews and require large AI data centres to pay more of related grid upgrade costs; opponents warn of weakened environmental and tribal protections. Based on Reuters original reporting.</description><pubDate>Fri, 20 Nov 2026 03:17:00 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/legal/litigation/us-senate-passes-bipartisan-bill-speed-energy-infrastructure-projects-2026-11-20/</guid><category>Reuters</category></item>
+<item><title>The New Yorker | We Played the New Grand Theft Auto</title><link>https://www.newyorker.com/newsletter/the-daily/we-played-the-new-grand-theft-auto</link><description>Wind-down: Julian Lucas reviews the new Grand Theft Auto in The New Yorker&apos;s daily newsletter. Based on the RSS summary.</description><pubDate>Fri, 20 Nov 2026 00:30:00 +0000</pubDate><guid isPermaLink="true">https://www.newyorker.com/newsletter/the-daily/we-played-the-new-grand-theft-auto</guid><category>The New Yorker</category></item>
+<item><title>The New Yorker | Why the Courtroom Keeps Us Watching</title><link>https://www.newyorker.com/podcast/critics-at-large/why-the-courtroom-keeps-us-watching</link><description>Wind-down: The New Yorker critics discuss the enduring appeal of courtroom dramas, including the tech-focused legal series Cupertino. Based on the RSS summary.</description><pubDate>Thu, 19 Nov 2026 11:00:00 +0000</pubDate><guid isPermaLink="true">https://www.newyorker.com/podcast/critics-at-large/why-the-courtroom-keeps-us-watching</guid><category>The New Yorker</category></item>
 </channel>
 </rss>
