@@ -3,20 +3,90 @@
 <channel>
 <title>MYRSS Daily Digest</title>
 <link>https://rtomassi.github.io/myrss/digest.xml</link>
-<description>Ten curated world-affairs and wind-down articles, two per publication. Selection from the repository's latest seven-day archive and RSS feeds, prioritising the past 48 hours. Most summaries use publisher RSS metadata; two Reuters articles were checked against original reporting. Source feeds were last refreshed around 07:00 UTC on 20 November 2026, so later stories may be absent.</description>
+<description>World-affairs digest curated from the latest seven-day repository archive and source RSS feeds, prioritising the past 48 hours. Two articles each from de Volkskrant, New York Times, Follow the Money, Reuters and The New Yorker. Most descriptions rely on RSS metadata; Reuters selections additionally checked against original reporting. Repository source feeds last refreshed around 07:00 UTC on 21 November, so later news may be absent.</description>
 <language>en-GB</language>
-<pubDate>Fri, 20 Nov 2026 17:50:56 GMT</pubDate>
-<lastBuildDate>Fri, 20 Nov 2026 17:50:56 GMT</lastBuildDate>
+<pubDate>Sat, 21 Nov 2026 17:44:44 GMT</pubDate>
+<lastBuildDate>Sat, 21 Nov 2026 17:44:44 GMT</lastBuildDate>
 <atom:link href="https://rtomassi.github.io/myrss/digest.xml" rel="self" type="application/rss+xml"/>
-<item><title>de Volkskrant | Drie doden bij Russische raketaanvallen op Kyiv, drie bruggen geraakt</title><link>https://www.volkskrant.nl/buitenland/drie-doden-bij-russische-raketaanvallen-op-kyiv-drie-bruggen-geraakt~b11373d3a/</link><description>de Volkskrant reports three deaths and damage to three bridges following Russian missile strikes on Kyiv. Headline-only account; the full article was not accessed.</description><pubDate>Fri, 20 Nov 2026 05:34:00 GMT</pubDate><guid isPermaLink="true">https://www.volkskrant.nl/buitenland/drie-doden-bij-russische-raketaanvallen-op-kyiv-drie-bruggen-geraakt~b11373d3a/</guid><category>de Volkskrant</category></item>
-<item><title>de Volkskrant | Bondgenoten van Oekraïne zetten zich in Berlijn af tegen topontmoeting Xi, Trump en Poetin</title><link>https://www.volkskrant.nl/buitenland/bondgenoten-van-oekraine-zetten-zich-in-berlijn-af-tegen-topontmoeting-xi-trump-en-poetin~ba1763c4/</link><description>According to de Volkskrant&apos;s headline, Ukraine&apos;s allies meeting in Berlin distanced themselves from the Xi-Trump-Putin summit. Headline-only account.</description><pubDate>Thu, 19 Nov 2026 20:43:00 GMT</pubDate><guid isPermaLink="true">https://www.volkskrant.nl/buitenland/bondgenoten-van-oekraine-zetten-zich-in-berlijn-af-tegen-topontmoeting-xi-trump-en-poetin~ba1763c4/</guid><category>de Volkskrant</category></item>
-<item><title>New York Times | Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds</title><link>https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html</link><description>The New York Times RSS summary reports that the International Court of Justice found Myanmar responsible for genocide against the Rohingya, describing this as the court&apos;s first such ruling against a state. Based on RSS metadata.</description><pubDate>Fri, 20 Nov 2026 01:37:20 +0000</pubDate><guid isPermaLink="true">https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html</guid><category>New York Times</category></item>
-<item><title>New York Times | Easing Back From Brexit: What to Expect at U.K. Summit With E.U.</title><link>https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html</link><description>The New York Times previews a UK-EU summit and a gradual rapprochement a decade after the Brexit referendum, amid global pressure. Based on RSS metadata.</description><pubDate>Fri, 20 Nov 2026 05:01:06 +0000</pubDate><guid isPermaLink="true">https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html</guid><category>New York Times</category></item>
-<item><title>Follow the Money | Hoe land­bouw­kennis uit Wageningen kan bijdragen aan de onderdrukking van Oeigoeren</title><link>https://www.ftm.nl/artikelen/wetenschap-wageningen-onderdrukking-oeigoeren-xinjiang</link><description>FTM&apos;s RSS summary reports that Dutch agricultural researchers in Xinjiang work with researchers from the XPCC, a paramilitary organisation implicated in land appropriation and repression of Uyghurs and other minorities. Publisher&apos;s investigation, not independently verified here.</description><pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate><guid isPermaLink="true">https://www.ftm.nl/artikelen/wetenschap-wageningen-onderdrukking-oeigoeren-xinjiang</guid><category>Follow the Money</category></item>
-<item><title>Follow the Money | Vijf onthullingen uit de gelekte Deutsche Bank-documenten</title><link>https://www.ftm.nl/artikelen/vijf-onthullingen-uit-de-gelekte-deutsche-bank-documenten</link><description>FTM presents five findings from a multinational investigation by more than 200 journalists across 55 other outlets into 15 million leaked Deutsche Bank documents. Based on the publisher&apos;s RSS summary.</description><pubDate>Fri, 20 Nov 2026 05:55:00 +0100</pubDate><guid isPermaLink="true">https://www.ftm.nl/artikelen/vijf-onthullingen-uit-de-gelekte-deutsche-bank-documenten</guid><category>Follow the Money</category></item>
-<item><title>Reuters | Taiwan tells Meta thousands of China-linked accounts seek to influence elections</title><link>https://www.reuters.com/world/china/taiwan-tells-meta-thousands-china-linked-accounts-seek-influence-elections-2026-11-20/</link><description>Reuters reports Taiwanese officials flagged nearly 2,700 suspected China-linked Threads accounts to Meta before local elections. Meta said it removed flagged low-quality accounts but said none had posted election-related content. Based on Reuters original reporting.</description><pubDate>Fri, 20 Nov 2026 05:34:34 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/taiwan-tells-meta-thousands-china-linked-accounts-seek-influence-elections-2026-11-20/</guid><category>Reuters</category></item>
-<item><title>Reuters | US Senate passes bipartisan bill to speed energy and infrastructure projects</title><link>https://www.reuters.com/legal/litigation/us-senate-passes-bipartisan-bill-speed-energy-infrastructure-projects-2026-11-20/</link><description>Reuters reports the US Senate passed a permitting reform bill 62-33, sending it to the House. The measure would accelerate project reviews and require large AI data centres to pay more of related grid upgrade costs; opponents warn of weakened environmental and tribal protections. Based on Reuters original reporting.</description><pubDate>Fri, 20 Nov 2026 03:17:00 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/legal/litigation/us-senate-passes-bipartisan-bill-speed-energy-infrastructure-projects-2026-11-20/</guid><category>Reuters</category></item>
-<item><title>The New Yorker | We Played the New Grand Theft Auto</title><link>https://www.newyorker.com/newsletter/the-daily/we-played-the-new-grand-theft-auto</link><description>Wind-down: Julian Lucas reviews the new Grand Theft Auto in The New Yorker&apos;s daily newsletter. Based on the RSS summary.</description><pubDate>Fri, 20 Nov 2026 00:30:00 +0000</pubDate><guid isPermaLink="true">https://www.newyorker.com/newsletter/the-daily/we-played-the-new-grand-theft-auto</guid><category>The New Yorker</category></item>
-<item><title>The New Yorker | Why the Courtroom Keeps Us Watching</title><link>https://www.newyorker.com/podcast/critics-at-large/why-the-courtroom-keeps-us-watching</link><description>Wind-down: The New Yorker critics discuss the enduring appeal of courtroom dramas, including the tech-focused legal series Cupertino. Based on the RSS summary.</description><pubDate>Thu, 19 Nov 2026 11:00:00 +0000</pubDate><guid isPermaLink="true">https://www.newyorker.com/podcast/critics-at-large/why-the-courtroom-keeps-us-watching</guid><category>The New Yorker</category></item>
+<item>
+<title>de Volkskrant | FT: Trump wil voor aantreden nieuw Congres in januari akkoord tussen Rusland en Oekraïne</title>
+<link>https://www.volkskrant.nl/buitenland/ft-trump-wil-voor-aantreden-nieuw-congres-in-januari-akkoord-tussen-rusland-en-oekraine~b11373d3a/</link>
+<description>According to de Volkskrant&apos;s headline citing the Financial Times, Trump wants a Russia–Ukraine agreement before the new US Congress takes office in January. Headline-only account; not independently confirmed.</description>
+<pubDate>Fri, 20 Nov 2026 20:57:00 GMT</pubDate>
+<guid isPermaLink="true">https://www.volkskrant.nl/buitenland/ft-trump-wil-voor-aantreden-nieuw-congres-in-januari-akkoord-tussen-rusland-en-oekraine~b11373d3a/</guid>
+<category>de Volkskrant</category>
+</item>
+<item>
+<title>de Volkskrant | ‘Ergste klimaattop ooit’ eindigt met afsplitsing coalitie klimaatlanden én temperatuurrecord op aarde: 2,1°C</title>
+<link>https://www.volkskrant.nl/wetenschap/liveblog-klimaattop-antalya~b4a19353/</link>
+<description>de Volkskrant&apos;s climate summit liveblog headline describes a fractured COP31 outcome and reports a 2.1°C global temperature record. Headline-only account; verify the evolving liveblog for context.</description>
+<pubDate>Fri, 20 Nov 2026 15:11:00 GMT</pubDate>
+<guid isPermaLink="true">https://www.volkskrant.nl/wetenschap/liveblog-klimaattop-antalya~b4a19353/</guid>
+<category>de Volkskrant</category>
+</item>
+<item>
+<title>New York Times | Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia</title>
+<link>https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html</link>
+<description>The New York Times RSS summary says Iraqi army and police entered Kataib Hezbollah-controlled territory for the first time in more than a decade. It remains unclear whether the militia will withdraw.</description>
+<pubDate>Fri, 20 Nov 2026 16:18:21 +0000</pubDate>
+<guid isPermaLink="true">https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html</guid>
+<category>New York Times</category>
+</item>
+<item>
+<title>New York Times | ‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.</title>
+<link>https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html</link>
+<description>The New York Times RSS summary says Polish officials described three incidents involving suspected Russian objects as likely provocations during allied military exercises; no injuries or damage were reported.</description>
+<pubDate>Fri, 20 Nov 2026 20:30:59 +0000</pubDate>
+<guid isPermaLink="true">https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html</guid>
+<category>New York Times</category>
+</item>
+<item>
+<title>Follow the Money | Zo werd deze oud-Booking-ceo belastingvrij groot­grondbezitter en alternatieve bank in de Achterhoek</title>
+<link>https://www.ftm.nl/artikelen/zo-werd-deze-oud-booking-ceo-belastingvrij-groot-grondbezitter-en-alternatieve-bank-in-de-achterhoek</link>
+<description>FTM reports that former Booking CEO Kees Koolen used small parcels of land in the Achterhoek in arrangements to acquire farms without paying transfer tax or to assist other farmers. Based on FTM&apos;s RSS summary; not independently verified.</description>
+<pubDate>Sat, 21 Nov 2026 06:00:00 +0100</pubDate>
+<guid isPermaLink="true">https://www.ftm.nl/artikelen/zo-werd-deze-oud-booking-ceo-belastingvrij-groot-grondbezitter-en-alternatieve-bank-in-de-achterhoek</guid>
+<category>Follow the Money</category>
+</item>
+<item>
+<title>Follow the Money | Hoe land­bouw­kennis uit Wageningen kan bijdragen aan de onderdrukking van Oeigoeren</title>
+<link>https://www.ftm.nl/artikelen/wetenschap-wageningen-onderdrukking-oeigoeren-xinjiang</link>
+<description>FTM reports that Dutch agricultural scientists in Xinjiang cooperate with researchers from the XPCC, a paramilitary organisation implicated in land appropriation and repression of Uyghurs and other minorities. Based on publisher RSS metadata.</description>
+<pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
+<guid isPermaLink="true">https://www.ftm.nl/artikelen/wetenschap-wageningen-onderdrukking-oeigoeren-xinjiang</guid>
+<category>Follow the Money</category>
+</item>
+<item>
+<title>Reuters | EXCLUSIVE: Nvidia&apos;s accounting is a focus of US SEC investigation, sources say - Reuters</title>
+<link>https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/</link>
+<description>Reuters reports that the US SEC is examining possible accounting issues at Nvidia, according to two informed sources. The scope and timing are unclear; an investigation does not establish wrongdoing. Based on original Reuters reporting.</description>
+<pubDate>Fri, 20 Nov 2026 21:37:28 GMT</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/</guid>
+<category>Reuters</category>
+</item>
+<item>
+<title>Reuters | EXCLUSIVE: Trump official floated ceding Guyanese territory to Venezuela, sources say - Reuters</title>
+<link>https://www.reuters.com/world/americas/trump-official-floated-ceding-guyanese-territory-venezuela-sources-say-2026-11-19/</link>
+<description>Reuters reports that a former Trump administration official floated territorial talks that could give Venezuela partial control of Guyana&apos;s Essequibo region. Guyana sought clarification; the US State Department says its border policy has not changed. Based on original Reuters reporting.</description>
+<pubDate>Thu, 19 Nov 2026 11:48:00 GMT</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/world/americas/trump-official-floated-ceding-guyanese-territory-venezuela-sources-say-2026-11-19/</guid>
+<category>Reuters</category>
+</item>
+<item>
+<title>The New Yorker | Three Things to Do This Winter</title>
+<link>https://www.newyorker.com/newsletter/the-daily/three-things-to-do-this-winter</link>
+<description>Wind-down: The New Yorker daily newsletter recommends winter cultural releases and performances. Based on the publisher&apos;s RSS summary.</description>
+<pubDate>Fri, 20 Nov 2026 23:30:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.newyorker.com/newsletter/the-daily/three-things-to-do-this-winter</guid>
+<category>The New Yorker</category>
+</item>
+<item>
+<title>The New Yorker | The Look-at-Me Spectacle of Actors Playing Actors in “Elsinore” and “I Play Rocky”</title>
+<link>https://www.newyorker.com/culture/the-current-cinema/the-look-at-me-spectacle-of-actors-playing-actors-in-elsinore-and-i-play-rocky</link>
+<description>Wind-down: The New Yorker&apos;s cinema review argues that strong performances exceed the conventional filmmaking in two biographical dramas, Elsinore and I Play Rocky. Based on the publisher&apos;s RSS summary.</description>
+<pubDate>Fri, 20 Nov 2026 23:07:15 +0000</pubDate>
+<guid isPermaLink="true">https://www.newyorker.com/culture/the-current-cinema/the-look-at-me-spectacle-of-actors-playing-actors-in-elsinore-and-i-play-rocky</guid>
+<category>The New Yorker</category>
+</item>
 </channel>
 </rss>
