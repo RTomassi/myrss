@@ -1,92 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-<title>MYRSS Daily Digest</title>
-<link>https://rtomassi.github.io/myrss/digest.xml</link>
-<description>World-affairs digest curated from the latest seven-day repository archive and source RSS feeds, prioritising the past 48 hours. Two articles each from de Volkskrant, New York Times, Follow the Money, Reuters and The New Yorker. Most descriptions rely on RSS metadata; Reuters selections additionally checked against original reporting. Repository source feeds last refreshed around 07:00 UTC on 21 November, so later news may be absent.</description>
-<language>en-GB</language>
-<pubDate>Sat, 21 Nov 2026 17:44:44 GMT</pubDate>
-<lastBuildDate>Sat, 21 Nov 2026 17:44:44 GMT</lastBuildDate>
-<atom:link href="https://rtomassi.github.io/myrss/digest.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>de Volkskrant | FT: Trump wil voor aantreden nieuw Congres in januari akkoord tussen Rusland en Oekraïne</title>
-<link>https://www.volkskrant.nl/buitenland/ft-trump-wil-voor-aantreden-nieuw-congres-in-januari-akkoord-tussen-rusland-en-oekraine~b11373d3a/</link>
-<description>According to de Volkskrant&apos;s headline citing the Financial Times, Trump wants a Russia–Ukraine agreement before the new US Congress takes office in January. Headline-only account; not independently confirmed.</description>
-<pubDate>Fri, 20 Nov 2026 20:57:00 GMT</pubDate>
-<guid isPermaLink="true">https://www.volkskrant.nl/buitenland/ft-trump-wil-voor-aantreden-nieuw-congres-in-januari-akkoord-tussen-rusland-en-oekraine~b11373d3a/</guid>
-<category>de Volkskrant</category>
-</item>
-<item>
-<title>de Volkskrant | ‘Ergste klimaattop ooit’ eindigt met afsplitsing coalitie klimaatlanden én temperatuurrecord op aarde: 2,1°C</title>
-<link>https://www.volkskrant.nl/wetenschap/liveblog-klimaattop-antalya~b4a19353/</link>
-<description>de Volkskrant&apos;s climate summit liveblog headline describes a fractured COP31 outcome and reports a 2.1°C global temperature record. Headline-only account; verify the evolving liveblog for context.</description>
-<pubDate>Fri, 20 Nov 2026 15:11:00 GMT</pubDate>
-<guid isPermaLink="true">https://www.volkskrant.nl/wetenschap/liveblog-klimaattop-antalya~b4a19353/</guid>
-<category>de Volkskrant</category>
-</item>
-<item>
-<title>New York Times | Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia</title>
-<link>https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html</link>
-<description>The New York Times RSS summary says Iraqi army and police entered Kataib Hezbollah-controlled territory for the first time in more than a decade. It remains unclear whether the militia will withdraw.</description>
-<pubDate>Fri, 20 Nov 2026 16:18:21 +0000</pubDate>
-<guid isPermaLink="true">https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html</guid>
-<category>New York Times</category>
-</item>
-<item>
-<title>New York Times | ‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.</title>
-<link>https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html</link>
-<description>The New York Times RSS summary says Polish officials described three incidents involving suspected Russian objects as likely provocations during allied military exercises; no injuries or damage were reported.</description>
-<pubDate>Fri, 20 Nov 2026 20:30:59 +0000</pubDate>
-<guid isPermaLink="true">https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html</guid>
-<category>New York Times</category>
-</item>
-<item>
-<title>Follow the Money | Zo werd deze oud-Booking-ceo belastingvrij groot­grondbezitter en alternatieve bank in de Achterhoek</title>
-<link>https://www.ftm.nl/artikelen/zo-werd-deze-oud-booking-ceo-belastingvrij-groot-grondbezitter-en-alternatieve-bank-in-de-achterhoek</link>
-<description>FTM reports that former Booking CEO Kees Koolen used small parcels of land in the Achterhoek in arrangements to acquire farms without paying transfer tax or to assist other farmers. Based on FTM&apos;s RSS summary; not independently verified.</description>
-<pubDate>Sat, 21 Nov 2026 06:00:00 +0100</pubDate>
-<guid isPermaLink="true">https://www.ftm.nl/artikelen/zo-werd-deze-oud-booking-ceo-belastingvrij-groot-grondbezitter-en-alternatieve-bank-in-de-achterhoek</guid>
-<category>Follow the Money</category>
-</item>
-<item>
-<title>Follow the Money | Hoe land­bouw­kennis uit Wageningen kan bijdragen aan de onderdrukking van Oeigoeren</title>
-<link>https://www.ftm.nl/artikelen/wetenschap-wageningen-onderdrukking-oeigoeren-xinjiang</link>
-<description>FTM reports that Dutch agricultural scientists in Xinjiang cooperate with researchers from the XPCC, a paramilitary organisation implicated in land appropriation and repression of Uyghurs and other minorities. Based on publisher RSS metadata.</description>
-<pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
-<guid isPermaLink="true">https://www.ftm.nl/artikelen/wetenschap-wageningen-onderdrukking-oeigoeren-xinjiang</guid>
-<category>Follow the Money</category>
-</item>
-<item>
-<title>Reuters | EXCLUSIVE: Nvidia&apos;s accounting is a focus of US SEC investigation, sources say - Reuters</title>
-<link>https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/</link>
-<description>Reuters reports that the US SEC is examining possible accounting issues at Nvidia, according to two informed sources. The scope and timing are unclear; an investigation does not establish wrongdoing. Based on original Reuters reporting.</description>
-<pubDate>Fri, 20 Nov 2026 21:37:28 GMT</pubDate>
-<guid isPermaLink="true">https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/</guid>
-<category>Reuters</category>
-</item>
-<item>
-<title>Reuters | EXCLUSIVE: Trump official floated ceding Guyanese territory to Venezuela, sources say - Reuters</title>
-<link>https://www.reuters.com/world/americas/trump-official-floated-ceding-guyanese-territory-venezuela-sources-say-2026-11-19/</link>
-<description>Reuters reports that a former Trump administration official floated territorial talks that could give Venezuela partial control of Guyana&apos;s Essequibo region. Guyana sought clarification; the US State Department says its border policy has not changed. Based on original Reuters reporting.</description>
-<pubDate>Thu, 19 Nov 2026 11:48:00 GMT</pubDate>
-<guid isPermaLink="true">https://www.reuters.com/world/americas/trump-official-floated-ceding-guyanese-territory-venezuela-sources-say-2026-11-19/</guid>
-<category>Reuters</category>
-</item>
-<item>
-<title>The New Yorker | Three Things to Do This Winter</title>
-<link>https://www.newyorker.com/newsletter/the-daily/three-things-to-do-this-winter</link>
-<description>Wind-down: The New Yorker daily newsletter recommends winter cultural releases and performances. Based on the publisher&apos;s RSS summary.</description>
-<pubDate>Fri, 20 Nov 2026 23:30:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.newyorker.com/newsletter/the-daily/three-things-to-do-this-winter</guid>
-<category>The New Yorker</category>
-</item>
-<item>
-<title>The New Yorker | The Look-at-Me Spectacle of Actors Playing Actors in “Elsinore” and “I Play Rocky”</title>
-<link>https://www.newyorker.com/culture/the-current-cinema/the-look-at-me-spectacle-of-actors-playing-actors-in-elsinore-and-i-play-rocky</link>
-<description>Wind-down: The New Yorker&apos;s cinema review argues that strong performances exceed the conventional filmmaking in two biographical dramas, Elsinore and I Play Rocky. Based on the publisher&apos;s RSS summary.</description>
-<pubDate>Fri, 20 Nov 2026 23:07:15 +0000</pubDate>
-<guid isPermaLink="true">https://www.newyorker.com/culture/the-current-cinema/the-look-at-me-spectacle-of-actors-playing-actors-in-elsinore-and-i-play-rocky</guid>
-<category>The New Yorker</category>
-</item>
-</channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
+<title>MYRSS Daily Digest</title><link>https://rtomassi.github.io/myrss/digest.xml</link><description>Ten curated selections, two each from de Volkskrant, New York Times, Follow the Money, Reuters and The New Yorker. Priority: last 48 hours. Source RSS feeds were last refreshed around 07:00 UTC on 22 November 2026; later developments may be absent. Most descriptions are RSS-based; Reuters selections checked against original reporting.</description><language>en-GB</language><pubDate>Sun, 22 Nov 2026 17:06:17 GMT</pubDate><lastBuildDate>Sun, 22 Nov 2026 17:06:17 GMT</lastBuildDate><atom:link href="https://rtomassi.github.io/myrss/digest.xml" rel="self" type="application/rss+xml"/>
+<item><title>de Volkskrant | Akkoord over moordrobots verder uit zicht, VS en Rusland willen niet</title><link>https://www.volkskrant.nl/economie/akkoord-over-moordrobots-verder-uit-zicht-vs-en-rusland-willen-niet~b7a6b41d/</link><description>De Volkskrant reports that efforts to reach a binding agreement on lethal autonomous weapons remain stalled, with the United States and Russia opposing restrictions. Based on the publisher's RSS headline.</description><pubDate>Sat, 21 Nov 2026 13:51:00 GMT</pubDate><guid isPermaLink="true">https://www.volkskrant.nl/economie/akkoord-over-moordrobots-verder-uit-zicht-vs-en-rusland-willen-niet~b7a6b41d/</guid><category>de Volkskrant</category></item>
+<item><title>de Volkskrant | Russische media: Topvrouw grootste Russische webshop Wildberries treedt af na plaatsing op sanctielijst EU</title><link>https://www.volkskrant.nl/buitenland/russische-media-topvrouw-grootste-russische-webshop-wildberries-treedt-af-na-plaatsing-op-sanctielijst-eu~b11373d3a/</link><description>According to Russian media cited by de Volkskrant, the head of Wildberries has stepped down after inclusion on an EU sanctions list. Based on RSS headline reporting.</description><pubDate>Sat, 21 Nov 2026 20:45:00 GMT</pubDate><guid isPermaLink="true">https://www.volkskrant.nl/buitenland/russische-media-topvrouw-grootste-russische-webshop-wildberries-treedt-af-na-plaatsing-op-sanctielijst-eu~b11373d3a/</guid><category>de Volkskrant</category></item>
+<item><title>New York Times | Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.</title><link>https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html</link><description>The New York Times reports deadly unrest involving supporters of exiled former prime minister Sheikh Hasina, who was sentenced to death in absentia. Based on RSS summary.</description><pubDate>Sun, 22 Nov 2026 03:44:19 +0000</pubDate><guid isPermaLink="true">https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html</guid><category>New York Times</category></item>
+<item><title>New York Times | China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal</title><link>https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html</link><description>The New York Times reports allegations by officials that China's intelligence agency pursued advanced AI chips and related intelligence years before the recent Nvidia scandal. Based on RSS summary.</description><pubDate>Sun, 22 Nov 2026 04:28:43 +0000</pubDate><guid isPermaLink="true">https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html</guid><category>New York Times</category></item>
+<item><title>Follow the Money | Hoe cocaïnegeld België binnendringt: ‘Het zat vroeger niet zo diep in het systeem’</title><link>https://www.ftm.nl/artikelen/hoe-cocainegeld-belgie-binnendringt-het-zat-vroeger-niet-zo-diep-in-het-systeem</link><description>FTM interviews senior Belgian justice officials about the penetration of cocaine proceeds into Belgium and the difficulty of disrupting trafficking's business model. Based on RSS summary.</description><pubDate>Sun, 22 Nov 2026 06:00:00 +0100</pubDate><guid isPermaLink="true">https://www.ftm.nl/artikelen/hoe-cocainegeld-belgie-binnendringt-het-zat-vroeger-niet-zo-diep-in-het-systeem</guid><category>Follow the Money</category></item>
+<item><title>Follow the Money | FTM25: Deutsche Bank, China en de Woo</title><link>https://www.ftm.nl/artikelen/ftm-25-aflevering-1</link><description>FTM's 25-minute podcast revisits its reporting on Deutsche Bank, China and Dutch freedom-of-information requests. A recap rather than a new investigation; based on RSS summary.</description><pubDate>Sat, 21 Nov 2026 07:30:00 +0100</pubDate><guid isPermaLink="true">https://www.ftm.nl/artikelen/ftm-25-aflevering-1</guid><category>Follow the Money</category></item>
+<item><title>Reuters | Myanmar's army-backed government calls ASEAN decision 'unfair and imbalanced'</title><link>https://www.reuters.com/world/asia-pacific/myanmars-army-backed-government-calls-asean-decision-unfair-imbalanced-2026-11-22/</link><description>Myanmar's military-backed authorities criticised ASEAN's decision to deny them full representation at summits, calling it discriminatory. Checked against Reuters' original report.</description><pubDate>Sun, 22 Nov 2026 04:01:00 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/myanmars-army-backed-government-calls-asean-decision-unfair-imbalanced-2026-11-22/</guid><category>Reuters</category></item>
+<item><title>Reuters | Denmark pushes EU to tighten travel curbs on Russians after foiled plot</title><link>https://www.reuters.com/world/europe/denmark-pushes-eu-tighten-curbs-russians-after-foiled-plot-message-member-states-2026-11-21/</link><description>Denmark urged EU-wide restrictions on Russian tourist visas and non-biometric passports after Danish authorities alleged a Russian-backed assassination plot. Russia disputes the accusation. Checked against Reuters' original report.</description><pubDate>Sat, 21 Nov 2026 11:27:09 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/denmark-pushes-eu-tighten-curbs-russians-after-foiled-plot-message-member-states-2026-11-21/</guid><category>Reuters</category></item>
+<item><title>The New Yorker | Matt Salinger Doesn’t Know Where the Ducks Go</title><link>https://www.newyorker.com/magazine/2026/11/30/matt-salinger-doesnt-know-where-the-ducks-go</link><description>Matt Salinger reflects on his father J. D. Salinger's novel The Catcher in the Rye and Holden Caulfield's famous question about the ducks in Central Park. Based on RSS summary.</description><pubDate>Sat, 21 Nov 2026 11:00:00 +0000</pubDate><guid isPermaLink="true">https://www.newyorker.com/magazine/2026/11/30/matt-salinger-doesnt-know-where-the-ducks-go</guid><category>The New Yorker</category></item>
+<item><title>The New Yorker | Reading in Reverse</title><link>https://www.newyorker.com/culture/the-weekend-essay/reading-in-reverse</link><description>A personal essay experiments with reading a book backwards, sentence by sentence. Based on RSS summary.</description><pubDate>Sat, 21 Nov 2026 11:00:00 +0000</pubDate><guid isPermaLink="true">https://www.newyorker.com/culture/the-weekend-essay/reading-in-reverse</guid><category>The New Yorker</category></item>
+</channel></rss>
