@@ -9,189 +9,276 @@
             <link>https://www.volkskrant.nl</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Nov 2026 07:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 06:54:45 GMT</lastBuildDate>
         <atom:link href="https://www.volkskrant.nl/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Nov 2026 07:04:00 GMT</pubDate>
+        <pubDate>Tue, 24 Nov 2026 04:30:00 GMT</pubDate>
         <copyright><![CDATA[De Persgroep Publishing Nederland NV]]></copyright>
         <language><![CDATA[nl-NL]]></language>
         <item>
-            <title><![CDATA[Opnieuw burgerdoden na Russische droneaanvallen op voorsteden Kyiv]]></title>
-            <link>https://www.volkskrant.nl/buitenland/opnieuw-burgerdoden-na-russische-droneaanvallen-op-voorsteden-kyiv~b11373d3a/</link>
-            <guid isPermaLink="false">11373d3a</guid>
-            <pubDate>Sun, 22 Nov 2026 22:10:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280630751/feature-crop/320/320/onder-het-puin-van-het-flatgebouw-wordt-nog-steeds-gezocht-naar">
-                <media:thumbnail url="https://image.volkskrant.nl/280630751/feature-crop/320/320/onder-het-puin-van-het-flatgebouw-wordt-nog-steeds-gezocht-naar"/>
+            <title><![CDATA[Nvidia-topman Jensen Huang heeft een beschermengel in het Witte Huis]]></title>
+            <link>https://www.volkskrant.nl/buitenland/nvidia-topman-jensen-huang-heeft-een-beschermengel-in-het-witte-huis~b285380a/</link>
+            <guid isPermaLink="false">285380a</guid>
+            <pubDate>Tue, 24 Nov 2026 02:50:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280166132/roi/320/320/1623.37/814.3199999999999/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280166132/roi/320/320/1623.37/814.3199999999999/afbeelding"/>
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Israëlische premierskandidaat noemt kolonistengeweld op Westoever ‘Joods terrorisme’]]></title>
-            <link>https://www.volkskrant.nl/buitenland/israelische-premierskandidaat-noemt-kolonistengeweld-op-westoever-joods-terrorisme~bd96d2f5/</link>
-            <guid isPermaLink="false">d96d2f5</guid>
-            <pubDate>Mon, 23 Nov 2026 07:04:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280457920/feature-crop/320/320/de-israelische-premierskandidaat-gadi-eisenkot">
-                <media:thumbnail url="https://image.volkskrant.nl/280457920/feature-crop/320/320/de-israelische-premierskandidaat-gadi-eisenkot"/>
+            <title><![CDATA[Democraten hekelen Trumps lobby voor terugkeer Huang bij Nvidia]]></title>
+            <link>https://www.volkskrant.nl/tech/democraten-hekelen-trumps-lobby-voor-terugkeer-huang-bij-nvidia~b7417701/</link>
+            <guid isPermaLink="false">7417701</guid>
+            <pubDate>Mon, 23 Nov 2026 19:30:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280189459/feature-crop/320/320/nvidia-topman-jensen-huang-voorafgaand-aan-een-bijeenkomst-in">
+                <media:thumbnail url="https://image.volkskrant.nl/280189459/feature-crop/320/320/nvidia-topman-jensen-huang-voorafgaand-aan-een-bijeenkomst-in"/>
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Woningcorporaties bouwen steeds meer sociale huurwoningen, maar moeten daarvoor steeds meer lenen]]></title>
-            <link>https://www.volkskrant.nl/binnenland/woningcorporaties-bouwen-steeds-meer-sociale-huurwoningen-maar-moeten-daarvoor-steeds-meer-lenen~b0085522/</link>
-            <guid isPermaLink="false">0085522</guid>
-            <pubDate>Mon, 23 Nov 2026 04:00:44 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/276857860/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/276857860/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Opnieuw staking streekvervoer vandaag en morgen, uitval verschilt per regio]]></title>
-            <link>https://www.volkskrant.nl/binnenland/opnieuw-staking-streekvervoer-vandaag-en-morgen-uitval-verschilt-per-regio~b096e9ed/</link>
-            <guid isPermaLink="false">096e9ed</guid>
-            <pubDate>Mon, 23 Nov 2026 04:00:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/277567553/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/277567553/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[NYT: Alice Huang had contact met Chinese inlichtingendienst tijdens affaire met Nvidia-topman]]></title>
-            <link>https://www.volkskrant.nl/buitenland/nyt-alice-huang-had-contact-met-chinese-inlichtingendienst-tijdens-affaire-met-nvidia-topman~b23a9e4f/</link>
-            <guid isPermaLink="false">23a9e4f</guid>
-            <pubDate>Mon, 23 Nov 2026 02:37:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280364714/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280364714/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Democraten stevenen af op 260 zetels in Huis van Afgevaardigden, grootste meerderheid sinds Clinton-tijdperk]]></title>
+            <title><![CDATA[Trump dringt aan op versnelde uitvoering van de doodstraf, ondanks mislukte executies]]></title>
             <link>https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/</link>
             <guid isPermaLink="false">e80fb9e</guid>
-            <pubDate>Sun, 22 Nov 2026 21:05:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280203970/feature-crop/320/320/chuck-hubbard-na-een-bijeenkomst-van-toekomstige-democratische">
-                <media:thumbnail url="https://image.volkskrant.nl/280203970/feature-crop/320/320/chuck-hubbard-na-een-bijeenkomst-van-toekomstige-democratische"/>
+            <pubDate>Tue, 24 Nov 2026 04:30:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280672208/feature-crop/320/320/president-donald-trump-haalde-uit-naar-de-californische-gouverneur">
+                <media:thumbnail url="https://image.volkskrant.nl/280672208/feature-crop/320/320/president-donald-trump-haalde-uit-naar-de-californische-gouverneur"/>
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Hevige droneaanvallen op Soedanese hoofdstad Khartoem, ook VN-gebouw getroffen]]></title>
-            <link>https://www.volkskrant.nl/buitenland/hevige-droneaanvallen-op-soedanese-hoofdstad-khartoem-ook-vn-gebouw-getroffen~b1795344/</link>
-            <guid isPermaLink="false">1795344</guid>
-            <pubDate>Sun, 22 Nov 2026 19:23:35 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280629354/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280629354/feature-crop/320/320/afbeelding"/>
+            <title><![CDATA[SCP: nieuwkomers die werken, leren de taal niet. En wie druk is met het leren van de taal, vindt juist later werk]]></title>
+            <link>https://www.volkskrant.nl/economie/scp-nieuwkomers-die-werken-leren-de-taal-niet-en-wie-druk-is-met-het-leren-van-de-taal-vindt-juist-later-werk~bd769064/</link>
+            <guid isPermaLink="false">d769064</guid>
+            <pubDate>Mon, 23 Nov 2026 23:01:38 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/227090585/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/227090585/feature-crop/320/320/afbeelding"/>
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Halsema doet oproep om internetblokkade rondom ontvoerde meisje Insiya te omzeilen]]></title>
-            <link>https://www.volkskrant.nl/binnenland/halsema-doet-oproep-om-internetblokkade-rondom-ontvoerde-meisje-insiya-te-omzeilen~bb9776f4/</link>
-            <guid isPermaLink="false">b9776f4</guid>
-            <pubDate>Sun, 22 Nov 2026 15:49:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280629700/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280629700/feature-crop/320/320/afbeelding"/>
+            <title><![CDATA[Opnieuw doden en gewonden door Israëlische aanval op Gaza]]></title>
+            <link>https://www.volkskrant.nl/buitenland/opnieuw-doden-en-gewonden-door-israelische-aanval-op-gaza~b7968ae6/</link>
+            <guid isPermaLink="false">7968ae6</guid>
+            <pubDate>Tue, 24 Nov 2026 01:20:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/279966064/feature-crop/320/320/de-israelische-president-isaac-herzog">
+                <media:thumbnail url="https://image.volkskrant.nl/279966064/feature-crop/320/320/de-israelische-president-isaac-herzog"/>
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Influencer terug in Nederland na opsluiting in ICE-detentiecentrum]]></title>
-            <link>https://www.volkskrant.nl/binnenland/influencer-terug-in-nederland-na-opsluiting-in-ice-detentiecentrum~bc19d9cb/</link>
-            <guid isPermaLink="false">c19d9cb</guid>
-            <pubDate>Sun, 22 Nov 2026 10:23:28 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280347895/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280347895/feature-crop/320/320/afbeelding"/>
+            <title><![CDATA[Europese sonde na acht jaar in baan rond Mercurius gebracht om mysteries rond planeet te ontrafelen]]></title>
+            <link>https://www.volkskrant.nl/buitenland/europese-sonde-na-acht-jaar-in-baan-rond-mercurius-gebracht-om-mysteries-rond-planeet-te-ontrafelen~b556b721/</link>
+            <guid isPermaLink="false">556b721</guid>
+            <pubDate>Mon, 23 Nov 2026 23:28:30 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280669285/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280669285/feature-crop/320/320/afbeelding"/>
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Universiteit Leiden ziet af van nieuwe samen­wer­king met Chinese universiteit, docenten trokken eerder al aan bel]]></title>
-            <link>https://www.volkskrant.nl/buitenland/universiteit-leiden-ziet-af-van-nieuwe-samen-wer-king-met-chinese-universiteit-docenten-trokken-eerder-al-aan-bel~b45568f8c/</link>
-            <guid isPermaLink="false">45568f8c</guid>
-            <pubDate>Sun, 22 Nov 2026 11:53:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280259776/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280259776/feature-crop/320/320/afbeelding"/>
+            <title><![CDATA[Luchtalarm klinkt kort in Polen, burgers opgeroepen om te schuilen]]></title>
+            <link>https://www.volkskrant.nl/buitenland/luchtalarm-klinkt-kort-in-polen-burgers-opgeroepen-om-te-schuilen~b34eb585/</link>
+            <guid isPermaLink="false">34eb585</guid>
+            <pubDate>Tue, 24 Nov 2026 00:15:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280666846/feature-crop/320/320/de-navo-gaat-een-awacs-vliegtuig-auxiliary-warfare-system-naar">
+                <media:thumbnail url="https://image.volkskrant.nl/280666846/feature-crop/320/320/de-navo-gaat-een-awacs-vliegtuig-auxiliary-warfare-system-naar"/>
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Zuid-Koreaanse onderwijs­minister stapt op: ‘We waren onvoldoende voorbe­reid op AI-fraude bij toelatingsexamens’]]></title>
-            <link>https://www.volkskrant.nl/buitenland/zuid-koreaanse-onderwijs-minister-stapt-op-we-waren-onvoldoende-voorbe-reid-op-ai-fraude-bij-toelatingsexamens~b1415e05/</link>
-            <guid isPermaLink="false">1415e05</guid>
-            <pubDate>Sun, 22 Nov 2026 09:49:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280395321/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280395321/feature-crop/320/320/afbeelding"/>
+            <title><![CDATA[Deense Hoge Raad vindt omstreden ‘gettowet’ niet discriminerend]]></title>
+            <link>https://www.volkskrant.nl/buitenland/deense-hoge-raad-vindt-omstreden-gettowet-niet-discriminerend~bb578cbe/</link>
+            <guid isPermaLink="false">b578cbe</guid>
+            <pubDate>Mon, 23 Nov 2026 19:01:23 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280666036/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280666036/feature-crop/320/320/afbeelding"/>
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Italiaanse juwelenontwerper en zakenman Paolo Bulgari (89) overleden]]></title>
-            <link>https://www.volkskrant.nl/cultuur-media/italiaanse-juwelenontwerper-en-zakenman-paolo-bulgari-89-overleden~bee9c541/</link>
-            <guid isPermaLink="false">ee9c541</guid>
-            <pubDate>Sun, 22 Nov 2026 04:38:56 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280606278/roi/320/320/2317.44/652.5/epa05651430-l-r-italian-ambassador-stefano-sannino-thyssen">
-                <media:thumbnail url="https://image.volkskrant.nl/280606278/roi/320/320/2317.44/652.5/epa05651430-l-r-italian-ambassador-stefano-sannino-thyssen"/>
+            <title><![CDATA[Waarheidscommissie: veel meer doden in Filipijnse oorlog tegen drugs dan bekend]]></title>
+            <link>https://www.volkskrant.nl/buitenland/waarheidscommissie-veel-meer-doden-in-filipijnse-oorlog-tegen-drugs-dan-bekend~bca205e2/</link>
+            <guid isPermaLink="false">ca205e2</guid>
+            <pubDate>Mon, 23 Nov 2026 18:07:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280664932/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280664932/feature-crop/320/320/afbeelding"/>
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Kleuter (5) uit Brabant overlijdt na het eten van een giftige paddenstoel]]></title>
-            <link>https://www.volkskrant.nl/binnenland/kleuter-5-uit-brabant-overlijdt-na-het-eten-van-een-giftige-paddenstoel~bdb879ec/</link>
-            <guid isPermaLink="false">db879ec</guid>
-            <pubDate>Sat, 21 Nov 2026 18:07:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/279218431/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/279218431/feature-crop/320/320/afbeelding"/>
+            <title><![CDATA[Israëlische explosieven hebben Gazastrook veranderd in ‘giftige woestenij’, concluderen onderzoekers]]></title>
+            <link>https://www.volkskrant.nl/buitenland/israelische-explosieven-hebben-gazastrook-veranderd-in-giftige-woestenij-concluderen-onderzoekers~bcd9a16af/</link>
+            <guid isPermaLink="false">cd9a16af</guid>
+            <pubDate>Mon, 23 Nov 2026 16:58:48 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/277044706/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/277044706/feature-crop/320/320/afbeelding"/>
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Kamerleden: nieuwe wet moet ‘mensonterende’ uitbuiting van buitenlandse draagmoeders voorkomen]]></title>
-            <link>https://www.volkskrant.nl/binnenland/kamerleden-nieuwe-wet-moet-mensonterende-uitbuiting-van-buitenlandse-draagmoeders-voorkomen~b249d859/</link>
-            <guid isPermaLink="false">249d859</guid>
-            <pubDate>Mon, 23 Nov 2026 04:00:45 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280432532/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280432532/feature-crop/320/320/afbeelding"/>
+            <title><![CDATA[Rekenvaardigheid vmbo-leerlingen flink verbeterd, resultaten op havo en vwo dalen]]></title>
+            <link>https://www.volkskrant.nl/binnenland/rekenvaardigheid-vmbo-leerlingen-flink-verbeterd-resultaten-op-havo-en-vwo-dalen~b5f363bb/</link>
+            <guid isPermaLink="false">5f363bb</guid>
+            <pubDate>Mon, 23 Nov 2026 16:47:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/274646021/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/274646021/feature-crop/320/320/afbeelding"/>
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Nederlandse wensouders vestigen hun hoop op draagmoeders in Georgië of Noord-Cyprus]]></title>
-            <link>https://www.volkskrant.nl/binnenland/nederlandse-wensouders-vestigen-hun-hoop-op-draagmoeders-in-georgie-of-noord-cyprus~b971020c/</link>
-            <guid isPermaLink="false">971020c</guid>
+            <title><![CDATA[Wolven afschieten? Het kabinet denkt dat het nu wél kan, maar een nieuwe juridische strijd lijkt onvermijdelijk]]></title>
+            <link>https://www.volkskrant.nl/binnenland/wolven-afschieten-het-kabinet-denkt-dat-het-nu-wel-kan-maar-een-nieuwe-juridische-strijd-lijkt-onvermijdelijk~bfe26bad/</link>
+            <guid isPermaLink="false">fe26bad</guid>
+            <pubDate>Mon, 23 Nov 2026 16:40:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/253242351/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/253242351/feature-crop/320/320/afbeelding"/>
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[FC Utrecht was het niet van plan, maar deed het uiteindelijk toch: trainer Anthony Correia is ontslagen]]></title>
+            <link>https://www.volkskrant.nl/sport/fc-utrecht-was-het-niet-van-plan-maar-deed-het-uiteindelijk-toch-trainer-anthony-correia-is-ontslagen~b717f7b6/</link>
+            <guid isPermaLink="false">717f7b6</guid>
+            <pubDate>Mon, 23 Nov 2026 14:45:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280652432/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280652432/feature-crop/320/320/afbeelding"/>
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[Honderden scholen in Duitsland en Denemarken krijgen bommelding, onduidelijk waar dreiging vandaan komt]]></title>
+            <link>https://www.volkskrant.nl/buitenland/liveblog-hybride-oorlog-rusland-eu-navo~b08413ca/</link>
+            <guid isPermaLink="false">08413ca</guid>
+            <pubDate>Mon, 23 Nov 2026 11:04:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280560466/feature-crop/320/320/de-deense-inlichtingenchef-rasmus-kieffer-kristensen-beschuldigt">
+                <media:thumbnail url="https://image.volkskrant.nl/280560466/feature-crop/320/320/de-deense-inlichtingenchef-rasmus-kieffer-kristensen-beschuldigt"/>
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[Gisèle Pelicot diep geschokt over naaktfoto’s die uitgever meestuurt bij een boek over haar verkrachting]]></title>
+            <link>https://www.volkskrant.nl/buitenland/gisele-pelicot-diep-geschokt-over-naaktfoto-s-die-uitgever-meestuurt-bij-een-boek-over-haar-verkrachting~bb2ebd38/</link>
+            <guid isPermaLink="false">b2ebd38</guid>
+            <pubDate>Mon, 23 Nov 2026 20:31:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280664807/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280664807/feature-crop/320/320/afbeelding"/>
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[Diederik Gommers stapt per direct op als afdelingshoofd na kritisch rapport over werkcultuur op ic Erasmus MC]]></title>
+            <link>https://www.volkskrant.nl/binnenland/diederik-gommers-stapt-per-direct-op-als-afdelingshoofd-na-kritisch-rapport-over-werkcultuur-op-ic-erasmus-mc~b0f6d1be/</link>
+            <guid isPermaLink="false">0f6d1be</guid>
+            <pubDate>Mon, 23 Nov 2026 18:13:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/209296764/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/209296764/feature-crop/320/320/afbeelding"/>
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[Sir Steve McQueen, winnaar van de Erasmusprijs, kaart al zijn hele kunstenaarschap onrecht aan]]></title>
+            <link>https://www.volkskrant.nl/cultuur-media/sir-steve-mcqueen-winnaar-van-de-erasmusprijs-kaart-al-zijn-hele-kunstenaarschap-onrecht-aan~ba380cb0/</link>
+            <guid isPermaLink="false">a380cb0</guid>
+            <pubDate>Sun, 22 Nov 2026 16:34:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/237368299/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/237368299/feature-crop/320/320/afbeelding"/>
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[Andy Burnham verwerpt kritiek oud-premiers op ‘zijn’ Brexit-deal met Brussel]]></title>
+            <link>https://www.volkskrant.nl/buitenland/andy-burnham-verwerpt-kritiek-oud-premiers-op-zijn-brexit-deal-met-brussel~b26543fb/</link>
+            <guid isPermaLink="false">26543fb</guid>
+            <pubDate>Mon, 23 Nov 2026 17:47:23 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280582364/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280582364/feature-crop/320/320/afbeelding"/>
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[Voor de stakers in het streekvervoer is het menens: ‘Na drie dagen werken lig je gewoon dood in de hoek’]]></title>
+            <link>https://www.volkskrant.nl/binnenland/voor-de-stakers-in-het-streekvervoer-is-het-menens-na-drie-dagen-werken-lig-je-gewoon-dood-in-de-hoek~b26c8ff9/</link>
+            <guid isPermaLink="false">26c8ff9</guid>
+            <pubDate>Mon, 23 Nov 2026 18:09:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280661716/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280661716/feature-crop/320/320/afbeelding"/>
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[De klimaattop is dood, leve de klimaattop! Zó gaat het verder met het klimaatbeleid van de wereld]]></title>
+            <link>https://www.volkskrant.nl/wetenschap/de-klimaattop-is-dood-leve-de-klimaattop-zo-gaat-het-verder-met-het-klimaatbeleid-van-de-wereld~bdd570b6/</link>
+            <guid isPermaLink="false">dd570b6</guid>
+            <pubDate>Mon, 23 Nov 2026 15:46:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280281428/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280281428/feature-crop/320/320/afbeelding"/>
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[‘Niemand wil echt van de klimaattoppen af, er met elkaar over praten blijft toch beter dan dat niet doen’]]></title>
+            <link>https://www.volkskrant.nl/economie/niemand-wil-echt-van-de-klimaattoppen-af-met-elkaar-blijven-praten-is-toch-beter-dan-dat-niet-doen~bc07d401/</link>
+            <guid isPermaLink="false">c07d401</guid>
+            <pubDate>Mon, 23 Nov 2026 07:00:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280636886/feature-crop/320/320/climate-cop-31-turkey">
+                <media:thumbnail url="https://image.volkskrant.nl/280636886/feature-crop/320/320/climate-cop-31-turkey"/>
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[Oekraïne slaat toe tot in Libië, Russisch oorlogsschip Merkury zou zijn gezonken]]></title>
+            <link>https://www.volkskrant.nl/buitenland/oekraine-slaat-toe-tot-in-libie-russisch-oorlogsschip-merkury-zou-zijn-gezonken~b4cb57f2/</link>
+            <guid isPermaLink="false">4cb57f2</guid>
+            <pubDate>Mon, 23 Nov 2026 11:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Het luchtalarm klonk als een gewond dier dat in een verlaten bos om hulp riep’]]></title>
+            <link>https://www.volkskrant.nl/buitenland/het-luchtalarm-klonk-als-een-gewond-dier-dat-in-een-verlaten-bos-om-hulp-riep~b8788814/</link>
+            <guid isPermaLink="false">8788814</guid>
+            <pubDate>Mon, 23 Nov 2026 15:56:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280662536/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280662536/feature-crop/320/320/afbeelding"/>
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[Brussel wil geen deelname van Russische sporters onder eigen vlag bij wedstrijden in de EU]]></title>
+            <link>https://www.volkskrant.nl/politiek/brussel-wil-geen-deelname-van-russische-sporters-onder-eigen-vlag-bij-wedstrijden-in-de-eu~b3729561/</link>
+            <guid isPermaLink="false">3729561</guid>
+            <pubDate>Mon, 23 Nov 2026 15:23:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280546242/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280546242/feature-crop/320/320/afbeelding"/>
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[Giftig speelgoed in de schoen? Hier moeten hulpsinterklazen op letten]]></title>
+            <link>https://www.volkskrant.nl/beter-leven/giftig-speelgoed-in-de-schoen-hier-moeten-hulpsinterklazen-op-letten~b21c103b/</link>
+            <guid isPermaLink="false">21c103b</guid>
+            <pubDate>Mon, 23 Nov 2026 09:50:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280405759/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280405759/feature-crop/320/320/afbeelding"/>
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[Van Circus Zandvoort tot het Groninger Museum: 5 hoogtepunten uit deze atlas van postmoderne architectuur]]></title>
+            <link>https://www.volkskrant.nl/cultuur-media/van-circus-zandvoort-tot-het-groninger-museum-5-hoogtepunten-uit-deze-atlas-van-postmoderne-architectuur~b464a789/</link>
+            <guid isPermaLink="false">464a789</guid>
+            <pubDate>Sun, 22 Nov 2026 14:40:44 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280513444/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280513444/feature-crop/320/320/afbeelding"/>
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[Met de gezelligheid die hij uitstraalde, zette EU-correspondent Tijn Sadée (1964-2026) politici op het verkeerde been]]></title>
+            <link>https://www.volkskrant.nl/televisie/met-de-gezelligheid-die-hij-uitstraalde-zette-eu-correspondent-tijn-sadee-1964-2026-politici-op-het-verkeerde-been~bf46573f/</link>
+            <guid isPermaLink="false">f46573f</guid>
+            <pubDate>Mon, 23 Nov 2026 15:28:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/210199751/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/210199751/feature-crop/320/320/afbeelding"/>
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[Stephan bleef geloven in waterstof, nu wordt zijn brandstof ineens concurrerend met diesel. ‘Ook bestelbusjes zullen massaal overstappen’]]></title>
+            <link>https://www.volkskrant.nl/economie/stephan-bleef-geloven-in-waterstof-nu-wordt-zijn-brandstof-ineens-concurrerend-met-diesel-ook-bestelbusjes-zullen-massaal-overstappen~b18937c3/</link>
+            <guid isPermaLink="false">18937c3</guid>
+            <pubDate>Mon, 23 Nov 2026 04:00:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280515621/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280515621/feature-crop/320/320/afbeelding"/>
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[Het ellebogenwerk is nu overal zichtbaar: ‘Trump 2.0 gaat steeds meer lijken op Trump 1.0’]]></title>
+            <link>https://www.volkskrant.nl/buitenland/het-ellebogenwerk-is-nu-overal-zichtbaar-trump-2-0-gaat-steeds-meer-lijken-op-trump-1-0~b63c5bfc/</link>
+            <guid isPermaLink="false">63c5bfc</guid>
+            <pubDate>Sun, 22 Nov 2026 20:32:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280564761/feature-crop/320/320/dc-trump-holds-a-press-conference">
+                <media:thumbnail url="https://image.volkskrant.nl/280564761/feature-crop/320/320/dc-trump-holds-a-press-conference"/>
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[Bouwen in tijden van een overbelast stroomnet: Utrecht denkt de oplossing te hebben]]></title>
+            <link>https://www.volkskrant.nl/economie/bouwen-in-tijden-van-een-overbelast-stroomnet-utrecht-denkt-de-oplossing-te-hebben~b6ed7729/</link>
+            <guid isPermaLink="false">6ed7729</guid>
             <pubDate>Fri, 20 Nov 2026 04:00:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280199351/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280199351/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[‘Slechtste klimaattop ooit’ zat eraan te komen, maar hoe nu verder?]]></title>
-            <link>https://www.volkskrant.nl/economie/slechtste-klimaattop-ooit-zat-eraan-te-komen-maar-hoe-nu-verder~b10cbdb8/</link>
-            <guid isPermaLink="false">10cbdb8</guid>
-            <pubDate>Sun, 22 Nov 2026 18:15:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280622495/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280622495/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Zo verliep de chaotische slotvergadering van de klimaattop: ‘U heeft ons geen respect gegeven’]]></title>
-            <link>https://www.volkskrant.nl/economie/klimaattop-mislukt-zo-verliep-de-chaotische-slotvergadering~bc110f99/</link>
-            <guid isPermaLink="false">c110f99</guid>
-            <pubDate>Sun, 22 Nov 2026 14:15:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280623888/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280623888/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Klimaattoppen mislukten wel vaker. In Den Haag, bijvoorbeeld]]></title>
-            <link>https://www.volkskrant.nl/wetenschap/liveblog-klimaattop-antalya~b4a19353/</link>
-            <guid isPermaLink="false">4a19353</guid>
-            <pubDate>Sun, 22 Nov 2026 14:14:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280546246/roi/320/320/2282.8799999999997/1299.1999999999998/turkey-hosts-un-climate-change-conference-cop-31-in-antalya">
-                <media:thumbnail url="https://image.volkskrant.nl/280546246/roi/320/320/2282.8799999999997/1299.1999999999998/turkey-hosts-un-climate-change-conference-cop-31-in-antalya"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[‘Mijn moeder knuffelde ons niet, ze dacht dat het problemen zou geven’]]></title>
-            <link>https://www.volkskrant.nl/binnenland/mijn-moeder-knuffelde-ons-niet-ze-dacht-dat-het-problemen-zou-geven~b12d6492/</link>
-            <guid isPermaLink="false">12d6492</guid>
-            <pubDate>Sun, 22 Nov 2026 20:03:46 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280531706/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280531706/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Is het aan mij om iemand in te lichten dat zij via een donor is verwekt?]]></title>
-            <link>https://www.volkskrant.nl/volkskrant-magazine/is-het-aan-mij-om-iemand-in-te-lichten-dat-zij-via-een-donor-is-verwekt~b334840d/</link>
-            <guid isPermaLink="false">334840d</guid>
-            <pubDate>Thu, 19 Nov 2026 15:00:06 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280186365/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280186365/feature-crop/320/320/afbeelding"/>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280186110/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280186110/feature-crop/320/320/afbeelding"/>
             </media:content>
         </item>
         <item>
@@ -204,138 +291,39 @@
             </media:content>
         </item>
         <item>
-            <title><![CDATA[FvD royeert leden na uitzending ‘Zembla’, maar intussen strooien andere met likes en hartjes onder nazicontent]]></title>
-            <link>https://www.volkskrant.nl/binnenland/fvd-royeert-leden-na-uitzending-zembla-maar-intussen-strooien-andere-met-likes-en-hartjes-onder-nazicontent~b46dfefe/</link>
-            <guid isPermaLink="false">46dfefe</guid>
-            <pubDate>Sat, 21 Nov 2026 04:00:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/265050495/feature-crop/320/320/nederland-den-haag-12112025-de-nieuwe-tweede-kamer-wordt-geinstalleerd">
-                <media:thumbnail url="https://image.volkskrant.nl/265050495/feature-crop/320/320/nederland-den-haag-12112025-de-nieuwe-tweede-kamer-wordt-geinstalleerd"/>
+            <title><![CDATA[Annemarie Denier van der Gon (100): ‘Mijn moeder knuffelde ons niet, ze dacht dat het problemen zou geven’]]></title>
+            <link>https://www.volkskrant.nl/binnenland/annemarie-denier-van-der-gon-100-mijn-moeder-knuffelde-ons-niet-ze-dacht-dat-het-problemen-zou-geven~b12d6492/</link>
+            <guid isPermaLink="false">12d6492</guid>
+            <pubDate>Sun, 22 Nov 2026 20:03:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280531706/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280531706/feature-crop/320/320/afbeelding"/>
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Wie zijn de neonazi’s die elkaar in kooien te lijf gaan en wat willen deze ‘active clubs’?]]></title>
-            <link>https://www.volkskrant.nl/binnenland/wie-zijn-de-neonazi-s-die-elkaar-in-kooien-te-lijf-gaan-en-wat-willen-deze-active-clubs~bb8331e7/</link>
-            <guid isPermaLink="false">b8331e7</guid>
-            <pubDate>Fri, 20 Nov 2026 16:00:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280476497/feature-crop/320/320/stills-kooivechten-fvd">
-                <media:thumbnail url="https://image.volkskrant.nl/280476497/feature-crop/320/320/stills-kooivechten-fvd"/>
+            <title><![CDATA[‘Haar taal is helder, haar zinnen beweeglijk, haar woorden trefzeker en haar intentie warm’ ]]></title>
+            <link>https://www.volkskrant.nl/boeken/babs-gons-winnaar-johannes-vermeerprijs-verpakt-haar-harde-woorden-in-zachte-ontbijtkoek~b937901f/</link>
+            <guid isPermaLink="false">937901f</guid>
+            <pubDate>Mon, 23 Nov 2026 04:00:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/276167023/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/276167023/feature-crop/320/320/afbeelding"/>
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Sensatie: wiskundige bewijst met AI de ‘heiligste’ hypothese van de wiskunde]]></title>
-            <link>https://www.volkskrant.nl/wetenschap/sensatie-wiskundige-bewijst-met-ai-de-heiligste-hypothese-van-de-wiskunde~bab4a64c/</link>
-            <guid isPermaLink="false">ab4a64c</guid>
-            <pubDate>Sat, 21 Nov 2026 22:23:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280607094/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280607094/feature-crop/320/320/afbeelding"/>
+            <title><![CDATA[Bij De Graafschap ben je voor of tegen de harde kern die de eigen spelersbus blokkeerde: ‘Dit ging echt te ver’]]></title>
+            <link>https://www.volkskrant.nl/sport/bij-de-graafschap-ben-je-voor-of-tegen-de-harde-kern-die-de-eigen-spelersbus-blokkeerde-dit-ging-echt-te-ver~b560c221/</link>
+            <guid isPermaLink="false">560c221</guid>
+            <pubDate>Sun, 22 Nov 2026 15:00:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280625170/roi/320/320/3218/3645/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280625170/roi/320/320/3218/3645/afbeelding"/>
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Hoe AI het werk van wiskundigen voorgoed heeft veranderd: ‘Het is nu jij, ik en de AI’]]></title>
-            <link>https://www.volkskrant.nl/wetenschap/hoe-ai-het-werk-van-wiskundigen-voorgoed-heeft-veranderd-het-is-nu-jij-ik-en-de-ai~b582a699/</link>
-            <guid isPermaLink="false">582a699</guid>
-            <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/279898080/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/279898080/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Ook met nieuwe coach Pochettino verliest Manchester United: 4-0 tegen rivaal Liverpool]]></title>
-            <link>https://www.volkskrant.nl/sport/ook-met-nieuwe-coach-pochettino-verliest-manchester-united-4-0-tegen-rivaal-liverpool~b3c9a065/</link>
-            <guid isPermaLink="false">3c9a065</guid>
-            <pubDate>Sun, 22 Nov 2026 19:18:47 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280637166/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280637166/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Hockeyers van landskampioen Rotterdam zijn het kwijt: ‘We zitten in een dip waar we maar niet uit komen’]]></title>
-            <link>https://www.volkskrant.nl/sport/hockeyers-van-landskampioen-rotterdam-zijn-het-kwijt-we-zitten-in-een-dip-waar-we-maar-niet-uit-komen~b51885a7/</link>
-            <guid isPermaLink="false">51885a7</guid>
-            <pubDate>Sun, 22 Nov 2026 18:23:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280636203/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280636203/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Simpele zege van Ajax op ADO Den Haag (3-0) in het weinig inspirerende stiltecentrum Arena]]></title>
-            <link>https://www.volkskrant.nl/sport/simpele-zege-van-ajax-op-ado-den-haag-3-0-in-het-weinig-inspirerende-stiltecentrum-arena~b9550fd2/</link>
-            <guid isPermaLink="false">9550fd2</guid>
-            <pubDate>Sun, 22 Nov 2026 16:54:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280625905/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280625905/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Op de 500 meter in Seoul pakte Jens van ’t Wout het ditmaal slimmer aan: ‘Wat er de vorige keer gebeurde zat in mijn hoofd’]]></title>
-            <link>https://www.volkskrant.nl/sport/op-de-500-meter-in-seoul-pakte-jens-van-t-wout-het-ditmaal-slimmer-aan-wat-er-de-vorige-keer-gebeurde-zat-in-mijn-hoofd~b9228461/</link>
-            <guid isPermaLink="false">9228461</guid>
-            <pubDate>Sun, 22 Nov 2026 15:23:12 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280616689/roi/320/320/2920/1093/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280616689/roi/320/320/2920/1093/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Olympische titel heeft Metoděj Jíleks honger niet gestild, maar motiveert hem juist om harder te werken]]></title>
-            <link>https://www.volkskrant.nl/sport/olympische-titel-heeft-metodej-jileks-honger-niet-gestild-maar-motiveert-hem-juist-om-harder-te-werken~bc1af7fb/</link>
-            <guid isPermaLink="false">c1af7fb</guid>
-            <pubDate>Sun, 22 Nov 2026 14:59:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280627556/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280627556/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Verstappen wint inhaalfestival in Las Vegas en boekt daarmee zijn 75ste zege in de Formule 1]]></title>
-            <link>https://www.volkskrant.nl/sport/verstappen-wint-inhaalfestival-in-las-vegas-en-boekt-daarmee-zijn-75ste-zege-in-de-formule-1~b0cdea857/</link>
-            <guid isPermaLink="false">0cdea857</guid>
-            <pubDate>Sun, 22 Nov 2026 06:18:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280620646/roi/320/320/2685/2034/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280620646/roi/320/320/2685/2034/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Feyenoord opnieuw onderuit, Excelsior wint voor het eerst sinds 1980 in de Kuip]]></title>
-            <link>https://www.volkskrant.nl/sport/feyenoord-opnieuw-onderuit-excelsior-wint-voor-het-eerst-sinds-1980-in-de-kuip~bf2a939b/</link>
-            <guid isPermaLink="false">f2a939b</guid>
-            <pubDate>Sat, 21 Nov 2026 22:15:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280601044/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280601044/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[NEC-veteraan Tadić verliest meer dan hij in jaren heeft gedaan, en nu ook van PSV (1-4), maar ‘lijden is soms fijn en je leert er meer van’]]></title>
-            <link>https://www.volkskrant.nl/sport/nec-veteraan-tadic-verliest-meer-dan-hij-in-jaren-heeft-gedaan-en-nu-ook-van-psv-1-4-maar-lijden-is-soms-fijn-en-je-leert-er-meer-van~b6cb500c/</link>
-            <guid isPermaLink="false">6cb500c</guid>
-            <pubDate>Sat, 21 Nov 2026 17:48:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280599815/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280599815/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[De ‘oudjes’ in de Formule 1 blijven dromen van een episch slot van hun carrière. Hoe realistisch is dat?]]></title>
-            <link>https://www.volkskrant.nl/sport/de-oudjes-in-de-formule-1-blijven-dromen-van-een-episch-slot-van-hun-carriere-hoe-realistisch-is-dat~b3c1db85f/</link>
-            <guid isPermaLink="false">3c1db85f</guid>
-            <pubDate>Sat, 21 Nov 2026 12:00:31 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280510110/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280510110/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[In de 17-jarige Cavan Sullivan hebben Amerikaanse voetbalfans hun volgende wonderkind gevonden]]></title>
-            <link>https://www.volkskrant.nl/sport/in-de-17-jarige-cavan-sullivan-hebben-amerikaanse-voetbalfans-hun-volgende-wonderkind-gevonden~be5f95b8/</link>
-            <guid isPermaLink="false">e5f95b8</guid>
-            <pubDate>Sat, 21 Nov 2026 06:00:24 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280511469/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280511469/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[‘Danny en de Blikjesjagers’ biedt een kritische maar humane blik op de mensen achter de alarmerende krantenkoppen]]></title>
-            <link>https://www.volkskrant.nl/televisie/danny-en-de-blikjesjagers-biedt-een-kritische-maar-humane-blik-op-de-mensen-achter-de-alarmerende-krantenkoppen~b358042e/</link>
-            <guid isPermaLink="false">358042e</guid>
-            <pubDate>Sun, 22 Nov 2026 13:32:59 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280596321/feature-crop/320/320/een-vrouw-met-een-zak-statiegeldblikjes-in-danny-en-de-blik">
-                <media:thumbnail url="https://image.volkskrant.nl/280596321/feature-crop/320/320/een-vrouw-met-een-zak-statiegeldblikjes-in-danny-en-de-blik"/>
+            <title><![CDATA[Na alle ups en downs in zijn leven wil komiek Josh Thomas in ‘Jiggle Jiggle’ weer gewoon lol hebben]]></title>
+            <link>https://www.volkskrant.nl/theater/na-alle-ups-en-downs-in-zijn-leven-wil-komiek-josh-thomas-in-jiggle-jiggle-weer-gewoon-lol-hebben~bb60306e/</link>
+            <guid isPermaLink="false">b60306e</guid>
+            <pubDate>Sun, 22 Nov 2026 18:20:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280630682/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280630682/feature-crop/320/320/afbeelding"/>
             </media:content>
         </item>
         <item>
@@ -411,90 +399,48 @@
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Overlijden Jason Bhugwandass raakt velen in het hart: ‘Laten we naar elkaar omkijken zoals Jason dat als geen ander kon’]]></title>
-            <link>https://www.volkskrant.nl/binnenland/overlijden-jason-bhugwandass-raakt-velen-in-het-hart-laten-we-naar-elkaar-omkijken-zoals-jason-dat-als-geen-ander-kon~b153652d/</link>
-            <guid isPermaLink="false">153652d</guid>
-            <pubDate>Sat, 21 Nov 2026 04:00:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/241604544/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/241604544/feature-crop/320/320/afbeelding"/>
+            <title><![CDATA[Stuur vluchtelingen niet naar een land dat geen politieke vrijheid kent]]></title>
+            <link>https://www.volkskrant.nl/columns-opinie/opinie-stuur-vluchtelingen-niet-naar-een-land-dat-geen-politieke-vrijheid-kent~b9a1c6d7/</link>
+            <guid isPermaLink="false">9a1c6d7</guid>
+            <pubDate>Tue, 24 Nov 2026 04:00:17 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280653810/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280653810/feature-crop/320/320/afbeelding"/>
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Het corrupte verdienmodel van de familie Trump wordt een verliesmodel: bedrijven keren zich van hem af]]></title>
-            <link>https://www.volkskrant.nl/economie/het-corrupte-verdienmodel-van-de-familie-trump-wordt-een-verliesmodel-bedrijven-keren-zich-van-hem-af~b6733bfb/</link>
-            <guid isPermaLink="false">6733bfb</guid>
-            <pubDate>Sat, 21 Nov 2026 04:00:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280546908/roi/320/320/1366.56/1422.7199999999998/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280546908/roi/320/320/1366.56/1422.7199999999998/afbeelding"/>
+            <title><![CDATA[Klimaatmoraal mag niet afhankelijk zijn van wat een ander doet of nalaat]]></title>
+            <link>https://www.volkskrant.nl/columns-opinie/klimaatmoraal-mag-niet-afhankelijk-zijn-van-wat-een-ander-doet-of-nalaat~bf7793c5/</link>
+            <guid isPermaLink="false">f7793c5</guid>
+            <pubDate>Mon, 23 Nov 2026 19:01:02 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/265261181/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/265261181/feature-crop/320/320/afbeelding"/>
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Nederland betaalt voor kruisraketten op de Krimbrug: hoe dicht komen we bij de oorlog?]]></title>
-            <link>https://www.volkskrant.nl/buitenland/nederland-betaalt-voor-kruisraketten-op-de-krimbrug-hoe-dicht-komen-we-bij-de-oorlog~bd81d164/</link>
-            <guid isPermaLink="false">d81d164</guid>
-            <pubDate>Fri, 20 Nov 2026 15:15:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280524769/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280524769/feature-crop/320/320/afbeelding"/>
+            <title><![CDATA[Mode is geen eufemisme voor online erotiek]]></title>
+            <link>https://www.volkskrant.nl/columns-opinie/mode-is-geen-eufemisme-voor-online-erotiek~b30814e7/</link>
+            <guid isPermaLink="false">30814e7</guid>
+            <pubDate>Mon, 23 Nov 2026 16:00:04 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280537212/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280537212/feature-crop/320/320/afbeelding"/>
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Dit zijn de favoriete zoete recepten van Nick Toet, Noni Kooiman, Cees Holtkamp, Yvette van Boven en Hidde de Brabander]]></title>
-            <link>https://www.volkskrant.nl/volkskrant-magazine/dit-zijn-de-favoriete-zoete-recepten-van-nick-toet-noni-kooiman-cees-holtkamp-yvette-van-boven-en-hidde-de-brabander~b433c543/</link>
-            <guid isPermaLink="false">433c543</guid>
-            <pubDate>Thu, 19 Nov 2026 15:00:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280218833/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280218833/feature-crop/320/320/afbeelding"/>
+            <title><![CDATA[Screen kandidaat-Statenleden grondig voordat het te laat is]]></title>
+            <link>https://www.volkskrant.nl/columns-opinie/opinie-screen-kandidaat-statenleden-grondig-voordat-het-te-laat-is~b788921b/</link>
+            <guid isPermaLink="false">788921b</guid>
+            <pubDate>Mon, 23 Nov 2026 19:01:11 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/228707265/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/228707265/feature-crop/320/320/afbeelding"/>
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Verwey-Jonker Instituut gaf jarenlang stem aan marginale groepen, nu is het failliet. Hoe kan dat?]]></title>
-            <link>https://www.volkskrant.nl/binnenland/verwey-jonker-instituut-gaf-jarenlang-stem-aan-marginale-groepen-nu-is-het-failliet-hoe-kan-dat~b594ba2f/</link>
-            <guid isPermaLink="false">594ba2f</guid>
-            <pubDate>Sat, 21 Nov 2026 19:37:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280004898/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280004898/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Zo zouden sociale media er óók uit kunnen zien: ‘Niemand mag aan verslaving verdienen’]]></title>
-            <link>https://www.volkskrant.nl/tech/zo-zouden-sociale-media-er-ook-uit-kunnen-zien-niemand-mag-aan-verslaving-verdienen~b80a8f9d/</link>
-            <guid isPermaLink="false">80a8f9d</guid>
-            <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280471759/feature-crop/320/320/vriendelijkse-sociale-media-tamme-social-media-democratische">
-                <media:thumbnail url="https://image.volkskrant.nl/280471759/feature-crop/320/320/vriendelijkse-sociale-media-tamme-social-media-democratische"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Burgemeester Mark Boumans (VVD) verlaat voorlopig de politiek: ‘Je zou kunnen zeggen: de VVD heeft lang genoeg geregeerd’]]></title>
-            <link>https://www.volkskrant.nl/politiek/burgemeester-mark-boumans-vvd-verlaat-voorlopig-de-politiek-je-zou-kunnen-zeggen-de-vvd-heeft-lang-genoeg-geregeerd~b4e2ce77/</link>
-            <guid isPermaLink="false">4e2ce77</guid>
-            <pubDate>Fri, 20 Nov 2026 15:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hoe schrijf je consciëntieus ook alweer? Opzoeken met AI kan niet bij het Groot Dictee]]></title>
-            <link>https://www.volkskrant.nl/wetenschap/hoe-schrijf-je-conscientieus-ook-alweer-opzoeken-met-ai-kan-niet-bij-het-groot-dictee~b1a5617f/</link>
-            <guid isPermaLink="false">1a5617f</guid>
-            <pubDate>Sat, 21 Nov 2026 14:42:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280584067/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280584067/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Hoezo stijf en geremd? In zijn jonge jaren was prins Claus een man met charisma]]></title>
-            <link>https://www.volkskrant.nl/boeken/hoezo-stijf-en-geremd-in-zijn-jonge-jaren-was-prins-claus-een-man-met-charisma~b187f69f/</link>
-            <guid isPermaLink="false">187f69f</guid>
-            <pubDate>Thu, 19 Nov 2026 15:43:13 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280445362/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280445362/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Samuel Welten: ‘Ik wilde eigenlijk nooit volkszanger worden. Ik luister die muziek zelf ook niet’]]></title>
-            <link>https://www.volkskrant.nl/volkskrant-magazine/samuel-welten-ik-wilde-eigenlijk-nooit-volkszanger-worden-ik-luister-die-muziek-zelf-ook-niet~b8f6dc1d/</link>
-            <guid isPermaLink="false">8f6dc1d</guid>
-            <pubDate>Thu, 19 Nov 2026 15:00:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280153007/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280153007/feature-crop/320/320/afbeelding"/>
+            <title><![CDATA[Blijf betrokken bij de Sahel, onze belangrijke buurregio]]></title>
+            <link>https://www.volkskrant.nl/columns-opinie/opinie-blijf-betrokken-bij-de-sahel-onze-belangrijke-buurregio~bd859a78/</link>
+            <guid isPermaLink="false">d859a78</guid>
+            <pubDate>Mon, 23 Nov 2026 15:00:17 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/153929652/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/153929652/feature-crop/320/320/afbeelding"/>
             </media:content>
         </item>
         <item>
@@ -507,33 +453,6 @@
             </media:content>
         </item>
         <item>
-            <title><![CDATA[De winnaars van de AI-revolutie komen misschien eerder uit China]]></title>
-            <link>https://www.volkskrant.nl/columns-opinie/de-winnaars-van-de-ai-revolutie-komen-misschien-eerder-uit-china~bffa0ceb/</link>
-            <guid isPermaLink="false">ffa0ceb</guid>
-            <pubDate>Sun, 22 Nov 2026 19:00:17 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/265261181/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/265261181/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Patiënten verdienen meer dan een gokpolis]]></title>
-            <link>https://www.volkskrant.nl/columns-opinie/patienten-verdienen-meer-dan-een-gokpolis~b35190f5/</link>
-            <guid isPermaLink="false">35190f5</guid>
-            <pubDate>Sun, 22 Nov 2026 14:08:29 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/263847736/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/263847736/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Sociaal advocaat zijn is juist een droombaan]]></title>
-            <link>https://www.volkskrant.nl/columns-opinie/opinie-sociaal-advocaat-zijn-is-juist-een-droombaan~b524b309/</link>
-            <guid isPermaLink="false">524b309</guid>
-            <pubDate>Sun, 22 Nov 2026 09:00:35 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/64648683/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/64648683/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
             <title><![CDATA[Een ‘hot en sexy’-kop bij een foto van de nieuwe vrouwelijke Democraten is ongemakkelijk]]></title>
             <link>https://www.volkskrant.nl/columns-opinie/een-hot-en-sexy-kop-bij-een-foto-van-de-nieuwe-vrouwelijke-democraten-is-ongemakkelijk~b10dce4ca/</link>
             <guid isPermaLink="false">10dce4ca</guid>
@@ -543,21 +462,39 @@
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Wie gaat er eigenlijk over een grens wanneer een dier bijt of steigert?]]></title>
-            <link>https://www.volkskrant.nl/columns-opinie/opinie-wie-gaat-er-eigenlijk-over-een-grens-wanneer-een-dier-bijt-of-steigert~bf4e1063/</link>
-            <guid isPermaLink="false">f4e1063</guid>
-            <pubDate>Fri, 20 Nov 2026 19:00:10 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280434012/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280434012/feature-crop/320/320/afbeelding"/>
+            <title><![CDATA[AI reikt zo ver als de vondst van het vuur. John Steinbecks woorden uit 1952 branden gaten in het nu]]></title>
+            <link>https://www.volkskrant.nl/columns-van-de-dag/ai-reikt-zo-ver-als-de-vondst-van-het-vuur-john-steinbecks-woorden-uit-1952-branden-gaten-in-het-nu~bd6d9835/</link>
+            <guid isPermaLink="false">d6d9835</guid>
+            <pubDate>Tue, 24 Nov 2026 04:00:19 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/271874317/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/271874317/feature-crop/320/320/afbeelding"/>
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Stel ook voor senioren een maatschappelijke diensttijd in]]></title>
-            <link>https://www.volkskrant.nl/columns-opinie/opinie-stel-ook-voor-senioren-een-maatschappelijke-diensttijd-in~b8d3a2ca/</link>
-            <guid isPermaLink="false">8d3a2ca</guid>
-            <pubDate>Sat, 21 Nov 2026 15:00:25 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/124787465/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/124787465/feature-crop/320/320/afbeelding"/>
+            <title><![CDATA[Is gaming ook een goede belegging?]]></title>
+            <link>https://www.volkskrant.nl/columns-van-de-dag/is-gaming-ook-een-goede-belegging~bd4589a9/</link>
+            <guid isPermaLink="false">d4589a9</guid>
+            <pubDate>Tue, 24 Nov 2026 04:00:17 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/271874508/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/271874508/feature-crop/320/320/afbeelding"/>
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[Voor iemand die compleet zoekende en somber is nadat haar geliefde haar in de steek heeft gelaten, is Rubinstein toch heel helder en grappig]]></title>
+            <link>https://www.volkskrant.nl/columns-van-de-dag/voor-iemand-die-compleet-zoekende-en-somber-is-nadat-haar-geliefde-haar-in-de-steek-heeft-gelaten-is-rubinstein-toch-heel-helder-en-grappig~b9e2ab20/</link>
+            <guid isPermaLink="false">9e2ab20</guid>
+            <pubDate>Mon, 23 Nov 2026 13:56:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/273000803/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/273000803/feature-crop/320/320/afbeelding"/>
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[Onrust in het Beneden Pijl Ziekenhuis: operatiekamerpolitiek leidt tot zorgcrisis]]></title>
+            <link>https://www.volkskrant.nl/columns-van-de-dag/onrust-in-het-beneden-pijl-ziekenhuis-operatiekamerpolitiek-leidt-tot-zorgcrisis~b234a02e/</link>
+            <guid isPermaLink="false">234a02e</guid>
+            <pubDate>Mon, 23 Nov 2026 13:00:58 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/273455222/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/273455222/feature-crop/320/320/afbeelding"/>
             </media:content>
         </item>
         <item>
@@ -615,39 +552,12 @@
             </media:content>
         </item>
         <item>
-            <title><![CDATA[Besturen met gooi- en smijtwerk is vragen om problemen (voor je opvolger)]]></title>
-            <link>https://www.volkskrant.nl/columns-van-de-dag/besturen-met-gooi-en-smijtwerk-is-vragen-om-problemen-voor-je-opvolger~b7ad812b/</link>
-            <guid isPermaLink="false">7ad812b</guid>
-            <pubDate>Sat, 21 Nov 2026 04:00:45 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/271903681/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/271903681/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Met het verzoek aan Sybrand Buma wordt een nieuw niveau van raadselachtigheid bereikt]]></title>
-            <link>https://www.volkskrant.nl/columns-van-de-dag/met-het-verzoek-aan-sybrand-buma-wordt-een-nieuw-niveau-van-raadselachtigheid-bereikt~b0135989/</link>
-            <guid isPermaLink="false">0135989</guid>
-            <pubDate>Sat, 21 Nov 2026 04:00:45 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/271902658/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/271902658/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Wat het betekent om vriendelijkheid op één te zetten]]></title>
-            <link>https://www.volkskrant.nl/columns-van-de-dag/wat-het-betekent-om-vriendelijkheid-op-een-te-zetten~b18e20d1/</link>
-            <guid isPermaLink="false">18e20d1</guid>
-            <pubDate>Thu, 19 Nov 2026 17:00:44 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/271902332/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/271902332/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[De mens baart de probleemwolf en jaagt ons nu ook graag de stuipen op het lijf met de bruine beer]]></title>
-            <link>https://www.volkskrant.nl/wetenschap/de-mens-baart-de-probleemwolf-en-jaagt-ons-nu-ook-graag-de-stuipen-op-het-lijf-met-de-bruine-beer~bf715257/</link>
-            <guid isPermaLink="false">f715257</guid>
-            <pubDate>Thu, 19 Nov 2026 17:00:43 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/271900719/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/271900719/feature-crop/320/320/afbeelding"/>
+            <title><![CDATA[‘Later wil ik iets met dieren doen. Maakt niet uit wat, iets met zielige dieren mag ook’]]></title>
+            <link>https://www.volkskrant.nl/mensen/later-wil-ik-iets-met-dieren-doen-maakt-niet-uit-wat-iets-met-zielige-dieren-mag-ook~b9f92de2/</link>
+            <guid isPermaLink="false">9f92de2</guid>
+            <pubDate>Mon, 23 Nov 2026 10:32:00 GMT</pubDate>
+            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280546813/feature-crop/320/320/afbeelding">
+                <media:thumbnail url="https://image.volkskrant.nl/280546813/feature-crop/320/320/afbeelding"/>
             </media:content>
         </item>
         <item>
@@ -684,78 +594,6 @@
             <pubDate>Thu, 12 Nov 2026 15:00:00 GMT</pubDate>
             <media:content type="image/jpeg" url="https://image.volkskrant.nl/279663979/feature-crop/320/320/afbeelding">
                 <media:thumbnail url="https://image.volkskrant.nl/279663979/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Negen jaar na ‘Pachinko’ is Min Jin Lee terug met een roman over Koreaanse bijlesscholen. Is die net zo goed?]]></title>
-            <link>https://www.volkskrant.nl/boeken/negen-jaar-na-pachinko-is-min-jin-lee-terug-met-een-roman-over-koreaanse-bijlesscholen-is-die-net-zo-goed~b3728373/</link>
-            <guid isPermaLink="false">3728373</guid>
-            <pubDate>Thu, 19 Nov 2026 15:25:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280432172/roi/320/320/980/470/min-jin-lee-american-hagwon">
-                <media:thumbnail url="https://image.volkskrant.nl/280432172/roi/320/320/980/470/min-jin-lee-american-hagwon"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Poëzie voor piranha’s, een antiwokepiraat: Pim Lammers is op z’n best als hij buiten de gebaande paden gaat]]></title>
-            <link>https://www.volkskrant.nl/boeken/poezie-voor-piranha-s-een-antiwokepiraat-pim-lammers-is-op-z-n-best-als-hij-buiten-de-gebaande-paden-gaat~bd3d5de3/</link>
-            <guid isPermaLink="false">d3d5de3</guid>
-            <pubDate>Thu, 19 Nov 2026 15:35:24 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280432162/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280432162/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Alara Adilow schrijft een drillrapper de literatuur in. En wat blijkt: het is net een gewone jongen]]></title>
-            <link>https://www.volkskrant.nl/boeken/alara-adilow-schrijft-een-drillrapper-de-literatuur-in-en-wat-blijkt-het-is-net-een-gewone-jongen~b9c92d12/</link>
-            <guid isPermaLink="false">9c92d12</guid>
-            <pubDate>Thu, 19 Nov 2026 16:05:32 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280625400/roi/320/320/1000/470/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280625400/roi/320/320/1000/470/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Zelden vallen vorm en inhoud zo perfect samen als in de verhalen van Claire Keegan]]></title>
-            <link>https://www.volkskrant.nl/boeken/zelden-vallen-vorm-en-inhoud-zo-perfect-samen-als-in-de-verhalen-van-claire-keegan~bafc96e4/</link>
-            <guid isPermaLink="false">afc96e4</guid>
-            <pubDate>Thu, 19 Nov 2026 15:15:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280432291/roi/320/320/902/2488/claire-keegan-door-de-blauwe-velden">
-                <media:thumbnail url="https://image.volkskrant.nl/280432291/roi/320/320/902/2488/claire-keegan-door-de-blauwe-velden"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Youngadultschrijver Eloy Moreno brengt alle negatieve kanten van sociale media samen in één roman]]></title>
-            <link>https://www.volkskrant.nl/boeken/youngadultschrijver-eloy-moreno-brengt-alle-negatieve-kanten-van-sociale-media-samen-in-een-roman~bd6bc8fa/</link>
-            <guid isPermaLink="false">d6bc8fa</guid>
-            <pubDate>Thu, 19 Nov 2026 14:58:22 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280432401/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280432401/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Stefan Hertmans wilde geen dagboeken schrijven. Gelukkig heeft hij het toch gedaan]]></title>
-            <link>https://www.volkskrant.nl/boeken/stefan-hertmans-wilde-geen-dagboeken-schrijven-gelukkig-heeft-hij-het-toch-gedaan~b370b11c/</link>
-            <guid isPermaLink="false">370b11c</guid>
-            <pubDate>Thu, 19 Nov 2026 15:08:00 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280432331/feature-crop/320/320/stefan-hertmans-smeltwater-en-de-middagzon">
-                <media:thumbnail url="https://image.volkskrant.nl/280432331/feature-crop/320/320/stefan-hertmans-smeltwater-en-de-middagzon"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[In een druk en levendig Antwerpen proberen de personages van Max Greyson stil te staan]]></title>
-            <link>https://www.volkskrant.nl/boeken/in-een-druk-en-levendig-antwerpen-proberen-de-personages-van-max-greyson-stil-te-staan~b136d82b/</link>
-            <guid isPermaLink="false">136d82b</guid>
-            <pubDate>Thu, 19 Nov 2026 15:16:19 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280432259/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280432259/feature-crop/320/320/afbeelding"/>
-            </media:content>
-        </item>
-        <item>
-            <title><![CDATA[Bert Wagendorp wekt de Gilded Age fraai tot leven in zijn vierde boek over Abel Sikkink]]></title>
-            <link>https://www.volkskrant.nl/boeken/bert-wagendorp-wekt-de-gilded-age-fraai-tot-leven-in-zijn-vierde-boek-over-abel-sikkink~b8be679c/</link>
-            <guid isPermaLink="false">8be679c</guid>
-            <pubDate>Thu, 19 Nov 2026 15:13:51 GMT</pubDate>
-            <media:content type="image/jpeg" url="https://image.volkskrant.nl/280432306/feature-crop/320/320/afbeelding">
-                <media:thumbnail url="https://image.volkskrant.nl/280432306/feature-crop/320/320/afbeelding"/>
             </media:content>
         </item>
         <item>
