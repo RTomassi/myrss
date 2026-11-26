@@ -1,5 +1,1019 @@
 [
   {
+    "source": "New York Times",
+    "title": "Study Hard, Get Ahead?",
+    "url": "https://www.nytimes.com/2026/11/25/world/youth-protests-education-tariffs-thanksgiving.html",
+    "published": "Thu, 26 Nov 2026 06:38:37 +0000"
+  },
+  {
+    "source": "New York Times",
+    "title": "13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain",
+    "url": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
+    "published": "Thu, 26 Nov 2026 06:30:00 +0000"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Nieuwe koolstofheffingen voor grote importeurs kosten ruim 120 miljoen in eerste halfjaar",
+    "url": "https://www.volkskrant.nl/economie/nieuwe-koolstofheffingen-voor-grote-importeurs-kosten-ruim-120-miljoen-in-eerste-halfjaar~b7e97506/",
+    "published": "Thu, 26 Nov 2026 05:30:03 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Steeds meer Nederlandse bedrijven omarmen AI, toename sterkst in midden- en kleinbedrijf",
+    "url": "https://www.volkskrant.nl/tech/steeds-meer-nederlandse-bedrijven-omarmen-ai-toename-sterkst-in-midden-en-kleinbedrijf~b58de124/",
+    "published": "Thu, 26 Nov 2026 05:30:01 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "India orders tougher surveillance of packaged water, scrutiny set to cover PepsiCo, Coca-Cola - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWGpnUFlKQjNQWFVLc2puYVVuczBUMGxBUzh6WGtQZzBKQjY4bkJmSnBIV2I4dEhzS1JaRjd2LUhVNVN3MFJPamRNd3NCWUJHWWIwQXIxWUN1NDZ5XzhpWUxjQk9tRTJKbWJJdnpobHFTREIzUFhJdF92bWM1LUM0ZkdLWmVHenVOVXVXRmRRZGZNcjVDdXhrZUlQQmRsNkpZdmVlQmYxSzlYVlNOR2VhRW15Q1FYcWF1UDYwaVRpYWlaZkIxZ0hkcS1laUFDUjRpOWt2TUdsWEJDVFpKZVpxa2theW00dUE?oc=5",
+    "published": "Thu, 26 Nov 2026 05:28:00 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Doorbraak in vijf oude zedenzaken door nieuw DNA-onderzoek NFI",
+    "url": "https://www.volkskrant.nl/binnenland/doorbraak-in-vijf-oude-zedenzaken-door-nieuw-dna-onderzoek-nfi~b78f48e1/",
+    "published": "Thu, 26 Nov 2026 05:07:00 GMT"
+  },
+  {
+    "source": "Follow the Money",
+    "title": "Tienduizenden patiënten zonder medicinale wiet nadat ministerie contract met kweker stopzette",
+    "url": "https://www.ftm.nl/artikelen/tienduizenden-patienten-zonder-medicinale-wiet-nadat-ministerie-contract-met-kweker-stopzette",
+    "published": "Thu, 26 Nov 2026 06:05:00 +0100"
+  },
+  {
+    "source": "Reuters",
+    "title": "Wife of Japanese journalist detained in Russia pleads for his release - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN2JsNUo2WDkwM2FhQkF0c2xyUVE1SzdkNHZ5ZWg4WFdMb00tazNMamd1SG9ESElkSno0RVRieE1sYVZCX0p5T0dxT2JsTmxMVjU1ZHZqa1pFYXg2S2pGZWRBLWVjc1BYb0VPeGVsT1V0TmlobmJCMGRlTkRsUDQzUThSZ3RBT3hGUWZXZ0VpYXp4aHBTemh5SzJZN1FXUDVsaUZrU05RYThrU1VPekJRbEFoQmxaelYyMHc?oc=5",
+    "published": "Thu, 26 Nov 2026 05:03:00 GMT"
+  },
+  {
+    "source": "New York Times",
+    "title": "London Banning Noise and Capping Fares for Its Pedicabs",
+    "url": "https://www.nytimes.com/2026/11/26/world/europe/london-pedicab-regulations-music-ban-nyc.html",
+    "published": "Thu, 26 Nov 2026 05:01:11 +0000"
+  },
+  {
+    "source": "New York Times",
+    "title": "They Bought Their Dream Home. Their Neighbors Want to Evict Them.",
+    "url": "https://www.nytimes.com/2026/11/26/world/europe/pasolini-house-eviction-court.html",
+    "published": "Thu, 26 Nov 2026 05:01:11 +0000"
+  },
+  {
+    "source": "New York Times",
+    "title": "Was Japan Prime Minister Takaichi Snubbed at China’s Big Summit?",
+    "url": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html",
+    "published": "Thu, 26 Nov 2026 05:01:04 +0000"
+  },
+  {
+    "source": "New York Times",
+    "title": "Can Roof Tiles Reduce Indoor Heat? India Is Finding Out.",
+    "url": "https://www.nytimes.com/2026/11/26/world/asia/india-extreme-heat-housing-roof-tiles.html",
+    "published": "Thu, 26 Nov 2026 05:00:24 +0000"
+  },
+  {
+    "source": "New York Times",
+    "title": "The Unbearable Heat of Delhi’s Summer Nights",
+    "url": "https://www.nytimes.com/2026/11/26/world/asia/the-unbearable-heat-of-delhis-summer-nights.html",
+    "published": "Thu, 26 Nov 2026 05:00:18 +0000"
+  },
+  {
+    "source": "Follow the Money",
+    "title": "Podcast | De ruimte raakt overvol: welkom in de kosmische flipperkast",
+    "url": "https://www.ftm.nl/artikelen/podcast-de-ruimte-raakt-overvol-welkom-in-de-kosmische-flipperkast",
+    "published": "Thu, 26 Nov 2026 06:00:00 +0100"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Navo-baas Mark Rutte en Trump roepen Rusland op Oekraïne-oorlog niet uit te breiden",
+    "url": "https://www.volkskrant.nl/buitenland/navo-baas-mark-rutte-en-trump-roepen-rusland-op-oekraine-oorlog-niet-uit-te-breiden~b34eb585/",
+    "published": "Thu, 26 Nov 2026 04:32:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVE1ZllSR0xRNHFVUjR0WWJjQXF2MllxbUV3WUQ2Vno2WFFCbzkyODBvWjE1WmtscC1rdkVLdVJXUDhUUXFiMDZQbS01akV2UjhQQUFwMWp2aWdrdm5ZQy11b0tvX3BkSVU1WmdUV2J4N2l0UF9tcHVqRzBuWkxhRUVsU1FtMTl1aEhRWkx3RFI2VDlraEhKemFOV0ZEX0todDFpTTBsTndhZk0zclNaWk5lNA?oc=5",
+    "published": "Thu, 26 Nov 2026 04:20:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Musk pledges two SpaceX shares for every American child - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNklmekFZWmFURnFwVlBHa2FlTGZwYkxaSkNSRUxMV2lsanFDc2hkdGF1RGhHWlJoUTBicHFXY1B3dWxHa0xmdU5mYzFBbGpYN3Z5N2xTS2U1bVBJeVZQVHRucldkRVhsVlVfNldnTWpRclIzSjJQa0tMMnBFVGhDTS1HYzdwVlctaXowdDJtdVJaNkxLcXo2Tk9Odi1XZnI0c1JScHZycXhWRUNUZmQ4?oc=5",
+    "published": "Thu, 26 Nov 2026 04:15:00 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "EU-leiders in Brussel voor een top die gedoemd is te mislukken",
+    "url": "https://www.volkskrant.nl/politiek/eu-leiders-in-brussel-voor-een-top-die-gedoemd-is-te-mislukken~b7a7b60a/",
+    "published": "Thu, 26 Nov 2026 04:00:08 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Is de comeback van een CEO goed voor de aandelenkoers?",
+    "url": "https://www.volkskrant.nl/columns-van-de-dag/is-de-comeback-van-een-ceo-goed-voor-de-aandelenkoers~bb69c47c/",
+    "published": "Thu, 26 Nov 2026 04:00:08 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Sta niet langer toe dat vrouwen structureel minder betaald krijgen",
+    "url": "https://www.volkskrant.nl/columns-opinie/opinie-sta-niet-langer-toe-dat-vrouwen-structureel-minder-betaald-krijgen~b5e53c2c/",
+    "published": "Thu, 26 Nov 2026 04:00:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Gold ticks up after hitting 15-month low; Fed outlook in focus - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNczNWcXJNQVFwUEZ5UjlTc1o0ZFE5NVFYZzA2eTJURHRsMmRMRmc1LTZ1TWszbFYyN05QRHRiQ1VIb1ZxUE9pTUs5WDVya1M0WFJEQ3lCN3J0T3h4bndfa1NyZFB4VFFaby1NWVdRRlFZeGlKdDNnYkRZN0c0eFZQY3VSWS11NW9SbUdndElMZk9oNk1kd0haVWh0Rl9VcTA1MDg1REE1cHZXWk14Umc?oc=5",
+    "published": "Thu, 26 Nov 2026 03:39:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: US officials divided over Chinese spying allegations following Jensen Huang's return - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcXVqeXRkckRvMDl4OWJsUlhwZk5qNDNKZWl5MGxrSWFXSmdUWW14QmJvTXFUSFBXekdMc2lHZ2h0WjY2MjdJWjdhYTB6SUR0NTRaYmVQbUVMVUIyd1NJY1h2N0VDMGJoNHV2MkFYb29wS1R1WVFnWkgxVmNid1g0UVhka29CS3JzUWNvMTFaZTFucGJ6cG1RV2pDc2NUUWRrNnRYcF9uMVM2cEpFNEdrRlJsMHotUkRFR2pneW93?oc=5",
+    "published": "Thu, 26 Nov 2026 03:38:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Oil rises on supply concerns as Iran claims mine strikes on ships - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHpfX3p2RFoxU2l0SGZVbVdSejdGYkc0NFpERWlxVEtab0pQbGd1NUtqQ3c0cXprdWItUF9fRmVVVElET3BNbklnbElwaC1UZ0xoNnd4dE9Wb2dFVDFGN2JyQ3YyUVhfTWxsNGFWNFNURG5kX1pMdVBtb2QyLXFMaXZPM0ZPdGdud1hWdHFuTEpNQXBtdUh6RmpWcW1jelhTU0JHdmp3dWphb0hB?oc=5",
+    "published": "Thu, 26 Nov 2026 03:08:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Indian shares pause after recent rally; US tariffs in focus - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS1dVNjE1VmF6TUZ4WkxrMEg4SFJFZE1uOEVGV0xHUi14S2U4M1hPUjFCQlhRNVNORkRaODZmUEl6YzFPNFRIMWNxNDFDUGQyeWFnSnA3SGIzX3NMakcyWE44ZlJmN0pJNFZVSy1idThrNk5FTnJQeUtKMHVKN2VvQkpKR1pTWWJFNHExRUhiRndROVlLUXRWWTVGaFhGUFVIN2NsLTI1akRuNEgzNjkwWll5STlpQ3c?oc=5",
+    "published": "Thu, 26 Nov 2026 02:41:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Indonesian rescuers resume search for 13 people trapped inside illegal mine after 13 confirmed dead - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLW1ZVElueVNoRkw0NVNoNUFNV0VsMHpqamI1Q2NjWEE2UHFLd1hMa09hNlhVTHA5d3UzNXhFVzBwMzhJY1I3VC00REw1R3AwckhtSmZLV2NYYXBHZWNLX2REQnFHdWZJS0s0a0Vtek9PeUtfVVNmN1VHNzVLTU1LbzBvcUhPNWVDVTV3UUVwbFZYQ1JIZU5XNFZhVVZhOHdVRjl5NWdfamhlSmp6NnRKV2ZxdHBZaEFyRUZSalNuNzBQbXpUeG5GVEJ2eGtRajhK?oc=5",
+    "published": "Thu, 26 Nov 2026 02:37:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Air cargo demand from AI data centres shows no sign of slowing, SATS CEO says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGJIcm9ZVllVLXpXNEx0M2d3VE5CSmhwcS1nNzl6S1I0eGp2bE1HZk90UzA3dDVKWVdlRHNhSGd1YmNiYlRkX1NybzRJQ1lHb3A0VDhCSk1JUXFlckQ0YTRORzhIVmpQa21hNElGUjRxcl9yVl9Oc0JyZUJaVzhxR01PYnMwM2VraEx1dmhBOVZkSUxnOVM0a2ItQ1JmblZtQjd5T0MtN0N4eENxSzgwQTBKRlJwQWtvUWRJZFlZM1M?oc=5",
+    "published": "Thu, 26 Nov 2026 02:33:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Dollar rally takes a pause for Thanksgiving - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeGRxVzhWY18xWGQzRlVEbmZBbU9lcnR5WEpveVIybFY3X0I5bVNXN2Q2NWZUTUl6eGJYQUZoeHEwSFJqYzhGZDV4Yk9OV29Qc0dXSXFEbm9PY09FQlhNWVlQb2ZEN0FlelZvQVJyT2N3WU42X3phd3ZYVVczQ0RORDFwaW5vd0NxTnozeEpYU3VIVF9NcGtGYng0VWRnT0hk?oc=5",
+    "published": "Thu, 26 Nov 2026 01:44:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Stocks rally in Asia, US tariffs not as dire as feared - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWRTQ2N0czgwTVhPdVhvZDUzeDNDRUJ6cFd0MWx1N05aSTJHaUlOdTQ5X2xieEVueHJ3VTRrb0ppNEtzbFVBRm1fU3VvV0xpMWVlUWg3c0NvWXJxS2ZabkwwejhwenhCVmhYRUdweUwwdHhTTWd1bTh2QlR1dFpvVDFHVQ?oc=5",
+    "published": "Thu, 26 Nov 2026 01:35:00 GMT"
+  },
+  {
+    "source": "New York Times",
+    "title": "How to Celebrate Thanksgiving as an Expat",
+    "url": "https://www.nytimes.com/2026/11/25/world/asia/friendsgiving-thanksgiving-expats.html",
+    "published": "Thu, 26 Nov 2026 01:25:49 +0000"
+  },
+  {
+    "source": "Reuters",
+    "title": "South Korea's central bank raises rates, upgrades 2027 growth outlook - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSTJjdUdXNzZ0QVUtZS1QMGowZkw1ellJM1ZkZUMzYVQ1OVp5ME5vQnRTMHgyYm9YVFRxcm11TkdSUmJ6RV9nYlY0YnkzZnhuNkNWa0g0MmNQVDhNMTRiYVN0M1lUbERad1Rqb1h0U3BCa2RJam5DVXBXUk8zNy1CNDlVaXQwRE56Ykl6NjhXTy1Bc21Lbm1sc214UlNVLUdOajVQWlprbG1mRnlIQVNyaWpNSDFBa0Fo?oc=5",
+    "published": "Thu, 26 Nov 2026 01:05:00 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Australië neemt wet voor online veiligheid aan; techreuzen riskeren boetes van miljoenen dollars",
+    "url": "https://www.volkskrant.nl/tech/liveblog-tech-musk-ai-meta-amazon~b96b97a1/",
+    "published": "Thu, 26 Nov 2026 00:35:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "US judge blocks FCC from targeting Disney-owned ABC stations - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa3U4SjN4dnBlQUVGemRWMkxMdndfMXJjMHBmNUtvRDMtVmJhRWhZVS1kZzd0UHVUend5T3NJRlV2elRaTW1jQ3Y1QjNpVEtWRlltZ0x2WE5kSVNQbWdUZ1BpWmtyZHFQYjVmTUphNk1wWlRlbU8wTUpuUjdHa0ZXc19tV3hFUEFMY3Q3WVphZDdTeGRKUGRDWTU1YmxoRWl0anJCUTc2NA?oc=5",
+    "published": "Thu, 26 Nov 2026 00:34:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Vietnam seeks US trade deal as tariffs threaten clothing, footwear exports - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS0FSUjN0THdiZzJpSzctaWg1Vks2dVhSTlNVWTJuZElHcEQ5WGNUX3BVWUgxVmdESnJ5WHExUFloSUlWQTdtZ0g4UEtLTUwzczE4bHB1V3lEczBpcE9qeE5aZjZJZ1lXeGlGQTh0NDM1WnlFTjlONFRGd3ViTHJzMEQxOGhkMUZpUmxBd1A0WE1TdTFmTDhJdFVBQ05kY2dHNDZkWURzc2s2MXFnRTUyNTgwZllaTFhSdVpFQjl3?oc=5",
+    "published": "Thu, 26 Nov 2026 00:30:00 GMT"
+  },
+  {
+    "source": "New York Times",
+    "title": "Africa C.D.C. Chief Faces Turmoil Over Management Amid Ebola Crisis",
+    "url": "https://www.nytimes.com/2026/11/25/world/africa/acdc-kaseya-staff-ebola.html",
+    "published": "Thu, 26 Nov 2026 00:11:25 +0000"
+  },
+  {
+    "source": "Reuters",
+    "title": "Duran Duran guitarist and songwriter Andy Taylor dies at 65 - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUUgwd0sxUHFEbjgzZERYVTV3U3F0c3BPa3A5LVhNMmt3WDA2azVETnY4MFdSTzJINEI0cmd1cEE2V3FWaDB3UzhabzM2MFlGLWwzUndzTjlURW1uNm1NSll6dkhaVFZ2TjRUMGlxcmVYRkItRWw0N0ZUMHpaUE5SbXJFcFBkX0g2TExDUGtlZVVYNFlMazUxRGVOZlR3eTQ?oc=5",
+    "published": "Wed, 25 Nov 2026 23:49:38 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGZ4TFg5REgyY0VnandHQjZIMFN1cnNBOEJVQTBDaU1IWDFLVUxmdHFTXzRLVnVKc3pHd3lTYk9lRHZBOWV1Skd5V0VzVU05ZDRjZXdZekl5cWFneWI2b3ptS09taEhjNzZIcGhuWVdydDk5cnpkcElkMUdTZkJjTjROT09sOG5adVUxNVpNeGp5UmxaaHl2bzh6TklXMlp2eVQyVW9idi1QV25LcnpIeFBjMEF4RzNNbkNIU3JOUlN6WWVqSjRtTlFZMA?oc=5",
+    "published": "Wed, 25 Nov 2026 23:42:10 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "AI stock rout deepens but damage is limited by afternoon bounce - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmNMM0doWElDVk9BdjNGZnJHakNCUFg1blQzSlk0eW9zeVduV3ZKcEtJd0hpUkxDMVhnRE9rY1lLUzF1eENZaFh0SUNKbmRjanN3YWtZakZud2RYUnlSRkk5b1RZT2VfbFJPXzhZVEVyYnFnRHBwYVlGdFQzaEt2Z2VjaGVXWUE0Qmd5bjZYandmR2M2QXBSY2tKem80OGNlSzh3?oc=5",
+    "published": "Wed, 25 Nov 2026 23:39:08 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "For Trump, doubling down on tariffs is about power, not popularity - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGF3UXNuQWFId2NPaERJLTVlLUhkQlp0WGpPNWRaamVTN3BmVFc5YkY3NVkzNHhJLUx6aTN4c2hZVnRucS13S1hMVlJWMEhzNllrYjJDSzczMndmRm5EeUhreW1qb0dpUG1HdTBrdnUtdGRLdFRVaDBWcFFEOXBsZ3gxMXlMNjJFbWk4ZzVtYXF3bWF2Z2NzZ3dTMmE5THV4VGdnRw?oc=5",
+    "published": "Wed, 25 Nov 2026 23:31:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Taiwan says it is confident of keeping previously agreed tariffs with US - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcG1xdFN1WlF6MWxzVDZhdVZhOUpVMGprdUVpSE1hbUxZRjB2Q0RuTE9JOVRmX1pJYlVDUDJYdW1hVGk2UmRJVWxwbVNYOUlSOWlJb2NpRnRsSlppc1RoUUpONl9ndEQzTVYwY3RKdm1RZFNGX2xEemFBcVN1M2dWSUU3cXB6UWRZU1l3eWp2dTZQQ25Lcm8tX0hObGVneWFZR3V1ZlJoOXctQUZmdGREb1hjS3htWlhNRHN6UjRXTkxQUQ?oc=5",
+    "published": "Wed, 25 Nov 2026 23:31:00 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Gitarist Andy Taylor (65), bekend van Duran Duran, overleden: ‘Hij bracht een onuitwisbaar vuur in onze muziek’",
+    "url": "https://www.volkskrant.nl/muziek/gitarist-andy-taylor-65-bekend-van-duran-duran-overleden-hij-bracht-een-onuitwisbaar-vuur-in-onze-muziek~bfc28afa/",
+    "published": "Wed, 25 Nov 2026 23:27:42 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "US airlines face higher costs from proposed Embraer duty - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWpyd1BJdFpVWVVZa2U5Zzcxa2trQ29NTFItblc0Q0VJaWx3TEZvUjkwb1BlWXUwZW1vUXZSNkZSODduRzM5a1diUGJOdE1zc0dlb2lxNGhUaDhTVUJQUzk2b1JSZTRzSDBPenkxTVU0T2QtYlhsb2RGX0o1OG4tNkltblFaMUVRMk9hUEZsU2hGUlRVNnpNN3JIVGtWMkpUR0g0S3pSQUlYdkpUdTdfWkFQRGs?oc=5",
+    "published": "Wed, 25 Nov 2026 23:25:43 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "New York court upholds Mayor Mamdani's rent freeze - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV3htcncwLVJOWDZFWFM0UWgtTmV3WGJ4elZVOFlrX3E3Z21aV1FqaHF3Ty1sQjA1RDZDdW9ndG9TVnBUMkpZS3JCMmE5RmZ2U2oxb2VZNms3Z3BSd0FUSmFjWWRuNmVJeWMyR2lOcXFDWG5ONGhuc2FXdWNtNWRXVWFheDV5eEhTWFQ4QlVlX3VQZHJaOVlJUmRn?oc=5",
+    "published": "Wed, 25 Nov 2026 23:16:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Japan's data centre boom faces growing revolt from urban residents - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlVCUVVnb3Y5Yl9xbDVqMG5uX2Vtb2NEVWhlQTE5MHkwT1dsNDlVSUl1b0NmWVAxR3k5MFJJdk01WEtta2tCQWc5M1BhUGY3MUpXNlliWlVyaldFTUpCdmFDdVpNYWpqTTNuS1BxcE5HWkNkUkZmMi1oOTZJdjhOWm00bms2M0xaeUdnaS1EZjU1b3RPZW45WTFpU3B5dDRaZVdWTTZ2ZE9HZ2xCUjI2VUFfVzBUM0Q5Z1JtQVFSN01zaG9o?oc=5",
+    "published": "Wed, 25 Nov 2026 23:02:00 GMT"
+  },
+  {
+    "source": "The New Yorker",
+    "title": "An Affair with an Economist",
+    "url": "https://www.newyorker.com/newsletter/the-daily/an-affair-with-an-economist",
+    "published": "Wed, 25 Nov 2026 23:00:00 +0000"
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: Billionaire Boehly signs US-backed share swap deal to buy Lukoil global assets - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM05VWXNudnhTWW1BY2VFUHpZRzdNSjU4TG1Ob3NYZTRKM0tNUWNGQmxyNEp6NW0yTEJWaTZabF9UNW9CUUZTclBhaGpnQmZ6WVRZTVhqS3dpOTBsZEtaOGZnMzFPQlR5MDRpZThJNmU0cXc5Q0trMDNhdWtxVjV4V1lMYzYyR1RHU0lBNDdWZDlzOWxBN1J1Wm0xWlJkNEVMaVNXUXdQcTRuUHlvczlnMTd1VGRWQQ?oc=5",
+    "published": "Wed, 25 Nov 2026 22:54:57 GMT"
+  },
+  {
+    "source": "New York Times",
+    "title": "Mexico Investigates Possible Cartel Links of Prosecutor Who Aided C.I.A.",
+    "url": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
+    "published": "Wed, 25 Nov 2026 22:30:27 +0000"
+  },
+  {
+    "source": "New York Times",
+    "title": "Gordon Ramsay to Host Revival of BBC’s ‘Top Gear’",
+    "url": "https://www.nytimes.com/2026/11/25/arts/television/gordon-ramsay-top-gear-revival.html",
+    "published": "Wed, 25 Nov 2026 22:23:18 +0000"
+  },
+  {
+    "source": "New York Times",
+    "title": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
+    "url": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
+    "published": "Wed, 25 Nov 2026 22:16:50 +0000"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Europa en VK geven drie grootste geurbedrijven boete van half miljard wegens kartelvorming",
+    "url": "https://www.volkskrant.nl/economie/europa-en-vk-geven-drie-grootste-geurbedrijven-boete-van-half-miljard-wegens-kartelvorming~b57faaed/",
+    "published": "Wed, 25 Nov 2026 22:16:18 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "US economy roars ahead in third quarter, inflation remains high in October - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalBrRjhRWHdhRDduMzduLU1kN1lGVFpzNFllX0RzdjJXMjdtajRZS1l1dms2MFJFbkhJQmx3Qzgydi1nTTJnQ1JPLUtoa1R5LWZjWjItUXJhXzhoZG51NU9ENzVBQjVSZWFpdHlqbV9PSkVncWtjUlptdXhjd0ZKRXZ6d2Y1dw?oc=5",
+    "published": "Wed, 25 Nov 2026 22:06:55 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "How the Trump administration determined Jensen Huang is not a national security threat - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0IzSk1IWkpMeGFmZWlDR2RseE11U3ZSbXlIOGdQalJyOS1rakJjUUxYZDYwd2ZYZERTQTdNNTQzR1dVMmRwVU1KNmhxc2ZtOXhwczJJckVxT0dUSHJnZEJpUnp0MXVVX1VqSElzQkJLc25neHJEZEYzZ0R5LXdnb01hNGZaTFFrbEc3c1haRVZpUUFldnRZY3NqVmlSRGVNVEloQ1Q2Q29VQzlRSWxtSUdnVHNIUGVwZ2VuekdHS1I1UQ?oc=5",
+    "published": "Wed, 25 Nov 2026 21:55:12 GMT"
+  },
+  {
+    "source": "New York Times",
+    "title": "Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes",
+    "url": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
+    "published": "Wed, 25 Nov 2026 21:37:07 +0000"
+  },
+  {
+    "source": "Reuters",
+    "title": "Trump's newest order curtailing birthright citizenship is blocked by second judge - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVNKamgtYTNRNHFWRVliOUF5X3pqbzBEdzBWZmRKUUZDX3FoaDhaNFB2Z3pza2dSS2NHOUtzYW9jblRqSnY2Q0VESXJYSTlnbVRibzZ4c1I2eWZrMEVkTUNOTGI4VlFRc1dLdGUyNFZPTGZlX0pGMkpkTTVBWGoyNi1RUWZ2cjBDcGdtTGpBeWJBTTJFbldlVFZ0OW93N1NPVW8zN1JfTHlxdWRVZDZ6YVRqMmtFZjE1UzBPRzVfNURCMUtGSi1vTVhyZXN6UQ?oc=5",
+    "published": "Wed, 25 Nov 2026 21:35:04 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Israël doodt nog een Hamas-kopstuk, inclusief vrouw en twee tienerdochters",
+    "url": "https://www.volkskrant.nl/buitenland/israel-doodt-nog-een-hamas-kopstuk-inclusief-vrouw-en-twee-tienerdochters~b7968ae6/",
+    "published": "Wed, 25 Nov 2026 21:34:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Airline Norse Atlantic says financial situation 'critical,' shares plunge - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnBxTTlMWW9sR2p0cHd4OXk3enppYzRYOTFkOENpamtod1VHTExCQjRqZ1cxRWRjZ04wZlp4NzR1SVdQaGpPeWNTLVpmN09fc3R0WGxUMUFUQ0tOekxYV3ZSY2w2WTQtUDR6N2pETVotWWRlV1VrRVhXYTFYY19SRXRfZ3Z5bmFnb2xVVjNjRkJPdG9qRE4yRGxMMVNyMjlEdXBvSEw1SjMxYVFvNjVEckszYw?oc=5",
+    "published": "Wed, 25 Nov 2026 21:29:22 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "SpaceX mag een miljoen satellieten als datacentra de ruimte inschieten",
+    "url": "https://www.volkskrant.nl/tech/spacex-mag-een-miljoen-satellieten-als-datacentra-de-ruimte-inschieten~b7417701/",
+    "published": "Wed, 25 Nov 2026 21:28:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Russian forces hit Kyiv with ballistic missiles, mayor says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUhrdXc0NFhybXpCcmF1VjM2RlFseVBqOW0xdXJBQlZWT0w5TmZRTjFTbEpjWTVlZHBmMHZMQ0tVcm5OMnk5RjhKWklxQlFfY1hDQTB4dmZNQWwwd2tLb0xLNGRNbUpNXzNCZGw0Sm1fNlhkSEUzNUZvQ2hkVHNOMGhOOFJlSnZJcXQ4UldFb01FY2J2YmpLUW1NTi1rWnRBb3c?oc=5",
+    "published": "Wed, 25 Nov 2026 21:28:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "North Korea's Kim urges wider tactical nuclear weapons deployment on facility tour, KCNA says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWmxZanZuLVM5QUcwTnVIS2FTQlJQQk1nQzRUd2dzUTRvUzZxbkpRMmxMdG1SUUNSLUgtNlRfbTRjcHpab2hGMHczTU02aDl6NnJOd2tXWlJ5MGJtQ0QtZDQ2SW4xOEVNVk55T1E4bmJEU2x6T3R0UUVmVnYzSllaZnRLNzRhOFp6dU80dEtUWTByZDloR1U4RlI1U1M1dF9wTnFaTTRYOUl1V05IVU43M0NtdC1TTVB6cWtoOGFLald3bU4xc2xlM1pBNkgyM0U?oc=5",
+    "published": "Wed, 25 Nov 2026 21:22:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Macy's Thanksgiving Day Parade postponed due to weather for first time in 100 years - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObWhPYmVCWGllQUlkVVlDc2xCb1puNVJmRzRxb0M0TkxUXzJhUF96ZW9HalhkbHdCODVNcW40ZXZrTEhWR0ZpUHZZU1JmZ29TbXdZR2ZLMlNnMzJ2eUhaUXp4VkJOV2RvVnNweTdWbkFuUWptYmRCblc5aXBtOXlQSy1TSHpHQjRrUUpuYXIweEZtbldKSTltWG9US2p3eGZ6UTlBSjE5YW1qdGNsdVI3Y0wxeURLdF9IS1d3c3NuNVpxdTJfQmN5UmpjZ1ZZbFlW?oc=5",
+    "published": "Wed, 25 Nov 2026 21:13:00 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Oekraïne vernietigt voor het eerst een Russische drone met een laserwapen",
+    "url": "https://www.volkskrant.nl/buitenland/oekraine-vernietigt-voor-het-eerst-een-russische-drone-met-een-laserwapen~b9bf4688/",
+    "published": "Wed, 25 Nov 2026 21:11:05 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Boekenbon Literatuurprijs naar Ester Naomi Perquin, die ‘bittere onderwerpen aanraakt in lichtzoete stijl’",
+    "url": "https://www.volkskrant.nl/cultuur-media/boekenbon-literatuurprijs-naar-ester-naomi-perquin-die-bittere-onderwerpen-aanraakt-in-lichtzoete-stijl~bf72ba58/",
+    "published": "Wed, 25 Nov 2026 21:02:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Fed policymakers at odds over causes of high inflation - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Vtdjdia2xUaVF5bWxRSVlPUTZjc1JmWG9Uam1QSHpNcXZuREdQVmRyX2hkNEtMbWhFd1VFb3l6QVJGYkJHZlZXUDJLVlM4cDdDR0RSVTRPMmZaUHAtMlhtSDlQeFF4UGJadUhrQmhlaWlJT1cwSG9IRnF1cC1COEtKdTBsUWVsXzhkYWhUWHNKTjJsUVJuNw?oc=5",
+    "published": "Wed, 25 Nov 2026 20:50:24 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Volatility-weary investors side swiped as tariff mayhem adds to tech pain - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGd2TDZySmQ2VXE4QUhfUG1OOGU3S3l4eWVDMGFKLWNVRlp1dE1zYnNmOUNYTGpQeGZtS3RrWC11R0x0aEo2YnBsU2Y1NTEwT2V2eF9fQmhfLXc1ekFmajRGUWg0NVZheFBtUy15RWd6NkpsZzFSZTY1M1FIYjI5b2htVWVYemdvRDQyTUFQbw?oc=5",
+    "published": "Wed, 25 Nov 2026 20:50:19 GMT"
+  },
+  {
+    "source": "New York Times",
+    "title": "Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu",
+    "url": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
+    "published": "Wed, 25 Nov 2026 20:45:09 +0000"
+  },
+  {
+    "source": "Reuters",
+    "title": "US authorizes SpaceX to deploy 1 million satellites for data centers in space - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVk5uRnprd285MEw5V2prcHR6bXljVGN4cUZuOHA4eHJUZkFzOVFnS1QtYnZaal8yYUYxa0t1cW84WjVzQWpub0czSGxUblh3STB6WnZxcThWZUxNRDk2emliZ0tfTmk5U3YxY3FZRXdEYWNyb2VMTmlkZE5RNWZHOS12OWdjSkpNdzhGU0Z4NWo3VmpSZHNXWGNJZUFpZjl2T2xuUkRKRXBpOTFqVFdFLXFvV0xHd1czWDFKbFU3OWFGU21B?oc=5",
+    "published": "Wed, 25 Nov 2026 20:44:01 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "US FinCEN takes some systems offline after cyber incident, official says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQWM5VEUyRVVFMDgwbkZqY3NGWVE1RXhFWjA1S1NseTlHQzUxMkVLSnpTNU5NbnV6ejRwd0hHSTNadk1CRzdubk9MRjExMWc3RUZ1YVVqRnczOFY3VGRzNm5LcHAyQ295dThkdGNkWUV4b2t0MDFQbDhZbE03XzQ2Um1EWE9QNHBkSjFKc05GZkFPNjZnYi16REtjcmJDZ1kxZ0ZmVTd1LV9lVWM1Z01xal9mRQ?oc=5",
+    "published": "Wed, 25 Nov 2026 20:42:56 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Fed survey shows continued economic growth, sticky inflation in recent weeks - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5vWXNOWWIxaUVxUEVsRDBCWmpwYmd6eWJMLW1tcnJMVmxvR08ybXFaYWlFcVZ2YU1fYk9hbWotWlBXTzVValBHSFFzNjM1QlpyVWNCXzFPTFRZMUtWeHp0SThmaWxRMTVYVXp3UlM2R3pKQnVNS2hiZ1VERU9EVnFGNlA5dGZEa1NtZ1o5REVxM3ZzX2ZpOXRaN0lydzlDZk1VQ2FlS212U3dw?oc=5",
+    "published": "Wed, 25 Nov 2026 20:42:46 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Retailers face rising AI cyberattack threat ahead of Black Friday, many uninsured - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQXpGTVZodUxhM09Jb0ZEQ1JXcmt0VkoxUndncmc3cXhoSWNmWlduNlJmRlA3VzhuRktZT2F6ZjJoTGZ5eVZEa01xZ3A2OHBaVjA4dDJkUTR4TkNNUnc5ay1XazlBcHAzSkVuQVpEVGtsMGlPVlNzLVM0X3F3WnJMZklqMTJnMWszSkxBMEZRLWx5cXgyRE9aSEJtSDlELWRCVjByTGhqT0hPQ200Ui03TUJfaGd1NXRjLUVVM21ObUlSSWd0bEktdmtua0VMWlpoRHFadg?oc=5",
+    "published": "Wed, 25 Nov 2026 20:42:25 GMT"
+  },
+  {
+    "source": "New York Times",
+    "title": "Island Paradise of Mauritius Has Sun, Beaches and Too Many Dogs",
+    "url": "https://www.nytimes.com/2026/11/25/world/africa/maritius-stray-dogs.html",
+    "published": "Wed, 25 Nov 2026 20:40:27 +0000"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Europese missie ziet ‘krater ter grootte van sportstadion’, veroorzaakt door kosmische kogel die Nasa in 2022 op verre planetoïde schoot",
+    "url": "https://www.volkskrant.nl/wetenschap/europese-missie-ziet-krater-ter-grootte-van-sportstadion-veroorzaakt-door-kosmische-kogel-die-nasa-in-2022-op-verre-planetoide-schoot~b63027904/",
+    "published": "Wed, 25 Nov 2026 20:25:06 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Man steekt zichzelf in brand in centrum van Warschau",
+    "url": "https://www.volkskrant.nl/buitenland/man-steekt-zichzelf-in-brand-in-centrum-van-warschau~b5e8a8a2/",
+    "published": "Wed, 25 Nov 2026 20:01:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "How China got access to Nvidia's AI chips despite rules to stop them - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU05FY1hvQmJod19oM3p3aTZQaS1CdktCWEZsSnk0TmVWREE1a0tmVW5kVnBxdG5VNU1TX2FmWnZ1aTc1UEQyblFkSklCZ3NlcU1XQUZQVDUwTXZ6R3BoVjlRb1RPY0pTNGdmUUdNZkw0Zi1oanJOcXFieGlBdzRTN05pa3FsaVhUWVk0UWpzc0hkN2kySGF6bGRpU1Y1a2IyNi1iaUFQZThLNVZON0E?oc=5",
+    "published": "Wed, 25 Nov 2026 19:58:10 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "EU postpones discussion to approve Tesla's self-driving tech - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY2Y4eUpOVTVYVmhONGo0aGJyUF8yYXlZb3hCR3E4UGxUMk4xT08yTjlRSThYaEROejVsaVRhdjlFOEZpNmNYbVhUa1puUGxRLVIyT2NkejFuWjF5emVLeVY3V0EtQV9lVTRXZ3MzOEE4WndGdDBfcXhmcGwtRlI2bEUzR2pPNnBkUnJMTjNwMXFsYTRJNGRPWXU1LVJLSjc5ZDR6M3RlNFJwZVBzaGc0RnVha2FCREVZMTdtMEpMRQ?oc=5",
+    "published": "Wed, 25 Nov 2026 19:36:04 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Pakistan's PIA to shift UK flights to own fleet after Norse Atlantic suspension - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkFGakJWZVBjNkpWNGJSajBSZFVudDhWdVhpYU4xWjROeWRjZ05JMHpDa0oxekJDeUUxQTVIVHc3cUZYQktSbmV1bVFZT2VsR0tJVW1NWk9maVVmU0RrY1J0U050cU14S2s5MEZLS28xM3lIVDEzcThxbmlGWXBvOGxaZkNEbEZJdGN5aFRxSndmU0RhSGVyN0tsaS1SWkl1WFJ2ajZZcWJnMEJSS2NZd3A0QUp4MFdPRk1jWlg2SWdhaEFqdlpLZlRTT1JLcVla?oc=5",
+    "published": "Wed, 25 Nov 2026 19:32:39 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Een nazi die naar nazi’s kijkt, zal altijd zeggen dat het nu wel heel dichtbij komt",
+    "url": "https://www.volkskrant.nl/columns-van-de-dag/een-nazi-die-naar-nazi-s-kijkt-zal-altijd-zeggen-dat-het-nu-wel-heel-dichtbij-komt~bbe089b1/",
+    "published": "Wed, 25 Nov 2026 19:30:06 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Salvadoran migrant Kilmar Abrego Garcia lands in Spain after US departure deal - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWW0yaWlzUi0wM216d2FrV0R0b0xEbTd6TTJPcnE0MVVOREpjWFY3TnFmbEUzeGkxQUpxQ2xhcVNUeHdSV0tCRnZ1aGRPbHVwSGZfZkthQUJLcFZ3MjlvWFVXUlAzSGFzaDloX3dqZ1h3YXVQZ2lFb2Z0ZDR0SnRUM2VyME9Ta2piYlUwWjRKdEJ3cWFsVmc1NTNxNGF1cXd1eGlXSVVZQ2FWYlRmZWZQTE80bXc0bzZJbzBTSVdRQWtFOFct?oc=5",
+    "published": "Wed, 25 Nov 2026 19:12:55 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "S&P Global places Nvidia rating on 'CreditWatch Negative' on rising management and governance risks - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamtqRVI0MHhzRTB5Tk1wMDNXRGhEYi1zVzFJT3hBMFNzUmt1RWptQnpTNWR1QTllclluaW50Z0tmSWVIbW5DWXJoaVJlblRoN2puUGFjbEtkOTZ6VUk5ZGEtLU9vYnJOMm53Tm5Idzg0dzNJSlRXVEI1b2xIQ1BBaVVuQmthNFlremtLRnNFY2RWdjNGcHNPV3ZrQ2JOTGhNMTdKbWpfWGtRMjBEekpJS0lmejFMSUxUakFYS1FvUnVxckk?oc=5",
+    "published": "Wed, 25 Nov 2026 19:12:45 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Dozens of countries call on Russia to halt alleged use of riot agent in Ukraine war - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVFLRmpLV05rVWloZTZ2X1V3M3dsRVE2U1ZhZHloWElnNkpMN1hSanhjV0RzMnU2QnNqcmxpZmphVjhobS1PMG05NUx1cWh6MUVsbkdCd05OWE45MFhzS2gwRWYxNWVFLWZRdGNpdTdLbHN1YVNWSU5ITVlqVEt1RmpSOVpFZkk2dFRHRjkxa1pRQ1RIQkRrVjh3aVdmcFNEajJhYk96QnJaV1lWRk13?oc=5",
+    "published": "Wed, 25 Nov 2026 19:09:43 GMT"
+  },
+  {
+    "source": "New York Times",
+    "title": "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
+    "url": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
+    "published": "Wed, 25 Nov 2026 19:02:51 +0000"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Kindermarteling klinkt huiveringwekkend, daarom moeten we zorgvuldig met de term omgaan",
+    "url": "https://www.volkskrant.nl/columns-opinie/opinie-kindermarteling-klinkt-huiveringwekkend-daarom-moeten-we-zorgvuldig-met-de-term-omgaan~bbe43978/",
+    "published": "Wed, 25 Nov 2026 19:00:54 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "FvD voldoet, tien jaar na haar oprichting, aan vrijwel alle kenmerken die een partij extreemrechts maken",
+    "url": "https://www.volkskrant.nl/columns-opinie/fvd-voldoet-tien-jaar-na-haar-oprichting-aan-vrijwel-alle-kenmerken-die-een-partij-extreemrechts-maken~bf1de7d0/",
+    "published": "Wed, 25 Nov 2026 19:00:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Iraq's top court says Baghdad can deploy troops to secure borders in Kurdistan region - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGlKWlRMLUx5SDRZY3FLU3VLM19RX2JqVko0T3dBakVEVHVldFVtQ21MbGo2WEEzUXU1clEteTVvWWh3bkdkQzZPX3RSemt5eWlBVjJQZy1RdjNjNnlpT19ZZUd0ekFDc3JuVHZKVWJfX2VtTlBzU3ZTTHlBX3dkV1NNVXA4NmJMVlRGX3FidmJsa0VacW5fQ2E1ZHBZTnJrN2pVc1BkUk1aZVliX2lMdHJBcUFaYlh5WmY3a05aSVZYN1hKemFtTGFUMG0?oc=5",
+    "published": "Wed, 25 Nov 2026 18:58:04 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Experts adviseren over onderwijscrisis: ‘Het is geen leesprobleem, maar een kennisprobleem’",
+    "url": "https://www.volkskrant.nl/binnenland/experts-adviseren-over-onderwijscrisis-het-is-geen-leesprobleem-maar-een-kennisprobleem~bfb8254fc/",
+    "published": "Wed, 25 Nov 2026 18:53:19 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Vrouw doodgestoken op fietspad in Houten, verdachte is ex-partner",
+    "url": "https://www.volkskrant.nl/binnenland/vrouw-doodgestoken-op-fietspad-in-houten-verdachte-is-ex-partner~b64e06ba/",
+    "published": "Wed, 25 Nov 2026 18:49:05 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Israeli opposition advances October 7 attack probe opposed by Netanyahu - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS3ZLT2liQ2xsLWEzM3YtbnJRaVNINFJXTXhVQ2J2cXJiSjhNX0tUTE9HckFYYzhxTG45d1lYSXRZYlVsVjA1Ym9nQVlwbThQWHFZZmU5akpONHlXYkJZR3RPUmY4bEsxWFBQMWNBbVVGTURYTG9zQ2cwYVY1WTJmQ1UyUzRvbVY5d1hEejM4c011SDV4dDBMdzdkSHhaak9SQXNIZHdzU01Sa0tDdHk3YmJHY213cmZqOXpvOHNkb0o0R3c?oc=5",
+    "published": "Wed, 25 Nov 2026 18:45:30 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Walmart-backed PhonePe restarts IPO process, eyes up to $15 billion valuation in market debut, source says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbkVTQU5UZjA4Wnc3STdBc0xPZnhhdzE5VWxlbUJHTG5XWjFlRHRiZWFUcHdHeThRQTJZVkZqOXFMRWNJR0lQVnlLQkEtSllnQ1ZXVVl4ZmJhTkNxaGwwcGh6bHZIZjZDRmttX09iOU5nS3BKMDB6aWhybHNyc1BiVlRNQ1loSXBUSFB0Z1UwbXJtTW9WRW9wMVBJOU5PU3N0Ul9mT2dibTk4NXZnbVV5Ny1UZFZwdG5vc1BiZXVRemFXT0NFbmc?oc=5",
+    "published": "Wed, 25 Nov 2026 18:35:51 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Anthropic's slide tests Wall Street's lofty bets on future AI profits - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZE1sRHlKd3Y1aUpqaUVpeFQ3QjFmX191blVmM1gyS0hidW81RjFjSXJjQndnODAwQU9qb3VkYkJfZ3ppYzdBQ1J5cTRUaDMzamxvZVNsYzB6RUpiVzd2RlhxV2hKaDRjTFdhamRKZ3g3MXZDY1c5c3NMalpmc09aQ3JnNGEyQTR5NG85OW9VTEE1NW9md1VKdFYxeTlnbWNjd25UcjVwamhDX1pIaXc?oc=5",
+    "published": "Wed, 25 Nov 2026 18:35:00 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Europees Hof: pushbacks zijn in strijd met mensenrechten, tenzij sprake is van ‘instrumentalisering’",
+    "url": "https://www.volkskrant.nl/buitenland/europees-hof-pushbacks-zijn-in-strijd-met-mensenrechten-tenzij-sprake-is-van-instrumentalisering~ba693297/",
+    "published": "Wed, 25 Nov 2026 18:33:39 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Thirty-one killed in fire after vehicle overturns in Egypt - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQek1Ma05abHVBcXY5WHhUQWpvTUJKZl82T0xDWjVqc2dqdDRvdnMtNFFRLUhHdFgtU3d4eEFnd3UycFdxMTF5d3N2U010UGRuR3NPU2VHQzYzeGd1dndCSlVPWjJkeUZGZUpzcXQyM3h4aXZHRGl4eS1kV3NUVjhfYVYyZExXVnVMQmoxWGV4TUYzRFNCZHQ1YnNWMFJ3QzZweUY0SXFDeko3YnFILURaUmVvNGVqd1RkMFlfZEhB?oc=5",
+    "published": "Wed, 25 Nov 2026 18:29:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "US to cap India tariff at 17% if trade deal is reached, USTR says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
+    "published": "Wed, 25 Nov 2026 18:26:10 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "New images reveal crater on asteroid struck by DART spacecraft - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHhhREtSNUtyVllDZ0FDZ3JvSFQxemJRYXdkNXNYXzk3MkgzaGVUVExOaHVZYm0tcGFQdEdWZERObmZzVzFBNFRxXzRENFFudzYxY3d6ZHBqdmhLdll0SEw4YkRrRFdhYUpNNm9xUnZ6WkR3NzdrNHhfRVZYeG8ycFpQajNPRlBWSWhwLWhXVXpLV1NfVWNJeVI5LXNMYnhBMXFoOXZR?oc=5",
+    "published": "Wed, 25 Nov 2026 18:13:15 GMT"
+  },
+  {
+    "source": "New York Times",
+    "title": "Opposition Makes Progress Toward Ousting Netanyahu, Party Leader Says",
+    "url": "https://www.nytimes.com/2026/11/25/world/middleeast/israel-opposition-netanyahu-new-government.html",
+    "published": "Wed, 25 Nov 2026 18:12:36 +0000"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Zelensky: Verenigde Staten lijken Oekraïne te dwingen tot ‘ongunstige compromissen’",
+    "url": "https://www.volkskrant.nl/buitenland/zelensky-verenigde-staten-lijken-oekraine-te-dwingen-tot-ongunstige-compromissen~be31ef16/",
+    "published": "Wed, 25 Nov 2026 18:09:00 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Media VK: Britse leger verplaatst vliegtuigen ‘s avonds naar binnen vanwege mogelijke dreigingen door drones",
+    "url": "https://www.volkskrant.nl/buitenland/liveblog-hybride-oorlog-rusland-eu-navo~b08413ca/",
+    "published": "Wed, 25 Nov 2026 17:56:00 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Polen zint op krachtiger maatregelen na tweede schending luchtruim in korte tijd",
+    "url": "https://www.volkskrant.nl/buitenland/polen-zint-op-krachtiger-maatregelen-na-tweede-schending-luchtruim-in-korte-tijd~bb48632dc/",
+    "published": "Wed, 25 Nov 2026 17:47:00 GMT"
+  },
+  {
+    "source": "New York Times",
+    "title": "Japan’s Leader, in Break With U.S., Defends International Criminal Court",
+    "url": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
+    "published": "Wed, 25 Nov 2026 17:41:06 +0000"
+  },
+  {
+    "source": "Reuters",
+    "title": "Nvidia agrees to settle 2018 US investor class action for $290 million - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2cwWG1mYkVmSG5oSTgwZmcxcVY5SWg2ak5aTHBtbG1qWHVvcGxjOGQzTFZKZkNSdWgtOHJtbW1BenVtTWc2UmFrOFpHbTV1Mnh5MWgxWk00R0NrVG5PX0hkNWxmczRRLWdnRUtvRFBhMzVzZUlRN0FXRFVJYlNTVUJaT1U3eVY4SUwtNFd2a1MweTlBZW1ReG9mU0pQa2ZUd3RnaEZtMXNyQmhxeDV0SGN1eWRGcDN2UExZ?oc=5",
+    "published": "Wed, 25 Nov 2026 17:36:16 GMT"
+  },
+  {
+    "source": "New York Times",
+    "title": "2 Men Charged After Break-In at Prince William and Kate’s Country Home",
+    "url": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
+    "published": "Wed, 25 Nov 2026 17:33:35 +0000"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Noren en Duitsers testen ‘militaire Google Maps’ van Oekraïne, dat elke beweging op het slagveld kan volgen",
+    "url": "https://www.volkskrant.nl/buitenland/noren-en-duitsers-testen-militaire-google-maps-van-oekraine-dat-elke-beweging-op-het-slagveld-kan-volgen~bbca2b86/",
+    "published": "Wed, 25 Nov 2026 17:08:00 GMT"
+  },
+  {
+    "source": "New York Times",
+    "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+    "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
+    "published": "Wed, 25 Nov 2026 17:00:25 +0000"
+  },
+  {
+    "source": "New York Times",
+    "title": "Norway Has Closed Its Last Coal Mine, Ending a Way of Life in the Arctic",
+    "url": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
+    "published": "Wed, 25 Nov 2026 16:47:22 +0000"
+  },
+  {
+    "source": "Reuters",
+    "title": "NEWSLETTER: Where are the Gulf's pledged trillions? - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHpyV25fLUhKVmFYbDMyV2VjUGtLLUp5bXNDalFYWXUtazJrX01vUF9ISk9FUmk2U0JpUFgxbTJBYXNXbS1FeHVZSjdCQ2JNdmhNdGZrVnpreU85ZE40b0RaTXpwSGpILTcwNFRzbEVEa0E0UFdWNDVjaTExWnJhTWhpLWZJekZtWTZGMTIyaF8?oc=5",
+    "published": "Wed, 25 Nov 2026 16:47:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "UK is moving military aircraft to hangars at night over possible drone threats, media reports say - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNXk4cTJiN1hVeGlydEtUN2JpRTVCMF9CRFVBUkh3cUs2c0NJRHNnendsV1ZjWkxicDhPZUhESnlTNy1paWtzQlNHaHlSMkpLTVRvYXVGdFVDVEFGeVFGN2tQWElwRDZwREoyaXU2QUtNSm5oaGsyZ2VoSVNtT2c0aVlhbXlabU02Mm1menJtMGpNQXdzal9lM2dYeUtxZ0xFZ3lnc0FoODhBaklCa0M3eTQzbFF4dXVyNmc?oc=5",
+    "published": "Wed, 25 Nov 2026 16:34:53 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1ZBby1iVDJnTmJwX3hDYWJpU2lxTUdLTHdlWHFqRHJUcmtTOWFuQkFRTlUyZTJBcGdNMWR3N3d1YlJIV05kWk1mU21JSDZmSVpZR1BlanpqRzFXSkg3NkxkeElWcHM0Q2Y4eFJKb3Fha29XakxYNFJ4cXExZHo4MFVDOHdDbENrQWs0d0lqQ3Z5cEVDRVBQR1hNNWZxSmhiUll4NFg1amZlU01oWm9fN2hkUFBBNkdKT21v?oc=5",
+    "published": "Wed, 25 Nov 2026 16:31:00 GMT"
+  },
+  {
+    "source": "New York Times",
+    "title": "South African President Wins Reprieve From ‘Farmgate’ Impeachment Investigation",
+    "url": "https://www.nytimes.com/2026/11/25/world/africa/south-africa-ramaphosa-farmgate.html",
+    "published": "Wed, 25 Nov 2026 16:22:17 +0000"
+  },
+  {
+    "source": "Reuters",
+    "title": "Nigeria seizes more than $200 million of meth, arrests five Mexicans - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTXlORzRLcFRDS3BCajdibjhNRG15NkdjQmdrYjlZVUprZ1ZvRXlBVU5IUWxJR1RzanZOUDlhYVZYamFsdTZ5b3FkcjJnaDlMdGxxZm5qR0ZER0tiWEhRcXdBZkFPT3BxZ1dMVzdOR2xEVGl0QWhmZlJEc2xzNUxiQVhUS003aERHN3V2SURuaGlNWXV5dVhTem1Kc0JMNXRNQTIzRUF4a016M0NibXI1ZDd3?oc=5",
+    "published": "Wed, 25 Nov 2026 16:20:11 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Kleine honden, grote zorgen: aanschaf minihonden moet taboe worden, vinden dierenartsen",
+    "url": "https://www.volkskrant.nl/binnenland/dierenartsen-trekken-de-parken-in-om-baasjes-te-wijzen-op-de-risico-s-van-minihonden-aanschaffen-van-kleine-hond-moet-taboe-worden~b8689a32/",
+    "published": "Wed, 25 Nov 2026 16:13:00 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Je hoort een goed verhaal niet dood te checken, maar de podcast ‘Gerbil’ duikt toch in dat taaie gerucht over Richard Gere",
+    "url": "https://www.volkskrant.nl/films/je-hoort-een-goed-verhaal-niet-dood-te-checken-maar-de-podcast-gerbil-duikt-toch-in-dat-taaie-gerucht-over-richard-gere~b4863119/",
+    "published": "Wed, 25 Nov 2026 16:08:26 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Maak taallessen onderdeel van de werkdag",
+    "url": "https://www.volkskrant.nl/columns-opinie/maak-taallessen-onderdeel-van-de-werkdag~bb4e4a0d/",
+    "published": "Wed, 25 Nov 2026 16:00:46 GMT"
+  },
+  {
+    "source": "The New Yorker",
+    "title": "Aaron Sorkin on Hollywood’s Vision of American Politics",
+    "url": "https://www.newyorker.com/podcast/political-scene/aaron-sorkin-on-hollywoods-vision-of-american-politics",
+    "published": "Wed, 25 Nov 2026 16:00:00 +0000"
+  },
+  {
+    "source": "The New Yorker",
+    "title": "The Best Books of 2026 So Far",
+    "url": "https://www.newyorker.com/best-books-2026",
+    "published": "Wed, 25 Nov 2026 16:00:00 +0000"
+  },
+  {
+    "source": "Reuters",
+    "title": "'Russia wants more than Ukraine,' says Germany's Merz as he defends aid for Kyiv - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWUI5R19MZFluOFUyQWRCLTJnRVpNYnZfemhIT0g5bEZqblpJYXNxSVBFNk4xSjFYWGFIcldBUEZvM0xrWDlya3hrVzNRbWQxdFpXOEdXR2g0bmRDZ1FOS2t5TnlKNkE2WGhOVXp5MU9YZkRHM1hQSUhRT0hzMEx5MlU4a1dMS2lEMDZ2MVdrQ3dBeE5wZGhwTmFoLUJ2QjV0ZzEzMXJ3eVpsaGVKM2ZmYlJrNi02MWl3Q1I0UFN4VQ?oc=5",
+    "published": "Wed, 25 Nov 2026 15:57:34 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Tweede Kamer wil Remigratiewet hernoemen, omdat aan ‘remigratie’ een extreemrechts luchtje zit",
+    "url": "https://www.volkskrant.nl/politiek/tweede-kamer-wil-remigratiewet-hernoemen-omdat-aan-remigratie-een-extreemrechts-luchtje-zit~b3e1d8e3/",
+    "published": "Wed, 25 Nov 2026 15:51:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Global fragrance makers hit with nearly $517 million EU fine for taking part in cartel - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNXdKc0Fib1ktQzJ1Umx4VE9DTjFjWHhQa3czVlJ6YVlTUVBxNG5IY2p5T3pGbVpkTDRXLV9GTWk5YXB3dHBUWTUyRVpVb1VPLTBfV1p2QUFjNnZqeFBWbE4zckpScDFnY2NtTzNQVVpadTdFcWZWMDNiM2RfVzZCZ3V1YVh3ZmhtbENaVGJvSG9yUFdZU0MySDA3LWZDNEt2U3BSY01RcExfT0lwWjdCMzlLNUZ5Mi1KdkYzaEpn?oc=5",
+    "published": "Wed, 25 Nov 2026 15:27:44 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Universiteiten willen publieke betrokkenheid, maar staan ze achter de wetenschappers die dit nastreven?",
+    "url": "https://www.volkskrant.nl/columns-opinie/opinie-universiteiten-willen-publieke-betrokkenheid-maar-staan-ze-achter-de-wetenschappers-die-dit-nastreven~b5c7488c/",
+    "published": "Wed, 25 Nov 2026 15:00:08 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Walmart-owned Flipkart CEO Kalyan Krishnamurthy to step down - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFZPMzlEc053ZFF6WnE2d3lVSTEwbHAzS0dhV0k3RlRlSjNzdmktOWF2RXVscVluRktFNUR5Y3NBNWV4d0VXUUF1b0ZvOXBEeWxNZGd4WGtqUEI5SEFsTHBBU055QjlaamIzSU8yeW9rX0FCdkx1Qng2OUV6YmVDYWFrWHpJWE5LR1VRWDluVzdrNTFVMVJuXzBlYmVjUDY3UERyUHZPSQ?oc=5",
+    "published": "Wed, 25 Nov 2026 14:49:13 GMT"
+  },
+  {
+    "source": "New York Times",
+    "title": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels",
+    "url": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
+    "published": "Wed, 25 Nov 2026 14:45:10 +0000"
+  },
+  {
+    "source": "Reuters",
+    "title": "Ukraine says it struck a major Russian air base, damaging five planes - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZm1PXzlrNXY0LXdObV93VWg5QnMzNk1rby1CSHNiMHYtcVpvYUpteDBGWi1GQS1tNjU4VTV6MmVBTXpxY3I2NTdfbzVvVTdBWS1LeVBMeGpCMkdUTDVpWE1nNzRld3NBbUtYRlRoTlhPLWp4ZjdsMmRCRUdycERtcVRDNGk5UjNxR3RRUTN3V2QyU1VDT29acWEtc096cjVkS0xtN0V2dURHTmUyM0ZIbnRvcndIRUZrRnBBWmlDNDRRSng1OHdFWg?oc=5",
+    "published": "Wed, 25 Nov 2026 14:43:20 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Met een nietsontziende aanpak werd Ton Boot (1940-2026) de succesvolste basketbalcoach van Nederland: ‘Voor mij is kritiek altijd iets positiefs’",
+    "url": "https://www.volkskrant.nl/sport/met-een-nietsontziende-aanpak-werd-ton-boot-1940-2026-de-succesvolste-basketbalcoach-van-nederland-voor-mij-is-kritiek-altijd-iets-positiefs~b4ede041/",
+    "published": "Wed, 25 Nov 2026 14:40:32 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Migrant arrivals in Spain's Canary Islands break single-day record - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSzRDQUNzZ05jRTh0OEM3cm9ubjVRZWE3Nm90dVl0XzVjT242V2xoTXdXRG1Ddzhac1pwVFhBd0tHSGxQTUJ0amlGZXYtbkE0MEFmTGE3OWx3TkhoSGVUYnRvWTJtdmw3aEt4a2dfODVUVkdmY1Q1OVIxTWpBVVY0TjdUVzEwTmNLVzh0WHVMbC0ycHhpM2MtNy1tcm9YM1RKMi1UWWdZVQ?oc=5",
+    "published": "Wed, 25 Nov 2026 14:39:50 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "US third-quarter GDP growth revised sharply higher - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjZ1Y2k2ZHFiNlFJRV9fUWVWNXk5R0puemhyQTF6X2xiV0NTblNua3dFVTlQWE1keGQ0TDVMdHNSUHZlYURmbUE3cVZpRDlLdDRiSXNRTTYzZEpXcjViSGd2SV83emptZFRrUWtTczl4b3ItMVdBOEpNOHFSOVFWN096T083eV9KaWVCbXgwczlLLVl1VHNRNGZ0clRZS3NFXzRwQnVR?oc=5",
+    "published": "Wed, 25 Nov 2026 14:28:47 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Israeli strike kills Hamas official, his wife and children - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYjNlV0dRZTd0cDZJZVBnNFl6VUpTMDFlQlFIY0tJQzR5ZmNrYm9lNS1kMTRYbEpyM2FNMWp6Qms1NGh4VTU0YkxQN0NaY1FRV1diOENoQmdIQjJ0eU12VGZfamhNWHpsZUQ0MXczanBWZW1uWUZsVXpwcElhR2RXdG80RTBIcjZ1WjVHYW94MUhfUDI5dTA0ODZWRlBiVkFYNlhwR1RSaW1OZ2M?oc=5",
+    "published": "Wed, 25 Nov 2026 14:19:53 GMT"
+  },
+  {
+    "source": "New York Times",
+    "title": "How an Iranian Ally Gained the Upper Hand in Yemen’s War",
+    "url": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
+    "published": "Wed, 25 Nov 2026 13:59:32 +0000"
+  },
+  {
+    "source": "Reuters",
+    "title": "US weekly jobless claims fall more than expected - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZHpnUUFPVXFGUWhvOXVLRGk1aVJac0tCQ0hpZHNvT05Uc1c5Mks3eGVEVXRvSE9EaWZpYmhqcWxmR0VLaVlFa1NOQzMxRWdxVVRfYzVMc0NlZFlabXZoVDhfRlRaMTBZaFlIa1BROW5jUHRvb3pYOTF0cE9iX19qejVrdlMtdnp1RERadmI2WTRReHdMOG9Gag?oc=5",
+    "published": "Wed, 25 Nov 2026 13:47:43 GMT"
+  },
+  {
+    "source": "New York Times",
+    "title": "Defending Aden, Yemen’s Holdout Against the Houthis",
+    "url": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
+    "published": "Wed, 25 Nov 2026 13:39:46 +0000"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Wezens met fluwelen pakjes en gouden gezichten, dat snapten de toeristen in de Bijenkorf natuurlijk niet. Maar beren: die snapt iedereen",
+    "url": "https://www.volkskrant.nl/columns-van-de-dag/wezens-met-fluwelen-pakjes-en-gouden-gezichten-dat-snapten-de-toeristen-in-de-bijenkorf-natuurlijk-niet-maar-beren-die-snapt-iedereen~b00dec94/",
+    "published": "Wed, 25 Nov 2026 13:34:56 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
+    "published": "Wed, 25 Nov 2026 13:15:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "India says Hasina's plan to return to Bangladesh is separate from extradition request - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ3l2N19iQWhBMUdzUWZZbkFhb0VoWEpNS2xSOTE3bVJSLUVYbjF4RXdyYzJGZnlET3pmMnlCaWpROWd5dHZRa3d6b2Q1cndBWkZVUFAzaEVMQ1BDdGh5OGRlYkZ2V2tjSWo3SjMyeHZmTFk2S29oODVhcUkxY3NFTWhnVHVqVmdFSmNWalF6Q05SR242SmlPWGFQNkJVZUhXRUVxUlpnc3B3NVF5YUk1U0RYQ0VTMU1ZcmxJeDVKZkZUZjQ?oc=5",
+    "published": "Wed, 25 Nov 2026 13:12:29 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Het is genieten hoe ingenieus ‘Minotaur’ in elkaar zit: elk gesprek heeft een dubbele betekenis, de timing is meesterlijk",
+    "url": "https://www.volkskrant.nl/cultuur-media/het-is-genieten-hoe-ingenieus-minotaur-in-elkaar-zit-elk-gesprek-heeft-een-dubbele-betekenis-de-timing-is-meesterlijk~b77b3674/",
+    "published": "Wed, 25 Nov 2026 13:02:00 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Excuses voor de slavernij van toen, wegkijken bij de slavernij van nu",
+    "url": "https://www.volkskrant.nl/columns-van-de-dag/excuses-voor-de-slavernij-van-toen-wegkijken-bij-de-slavernij-van-nu~ba7f1487/",
+    "published": "Wed, 25 Nov 2026 13:00:44 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Xi's graft probe of Shanghai rising star upends traditional path to power in China - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFRBRjBBclN4REFaZHc4ZTlnbHJ2ZENzczBjZ1BCTVFOTkJXUlpHTTZoZHpEdVhFc0drVUNfYXUwTFhTbVA4ZC1FM0Vsdl85c2dJcGFaZGdxNDc1YUgxaTNUVlRmSTNNNk8xTHMtQWRyOEFZY3g1YlBJS1BDUUJaajZYSFpTaXVERVVrcU95TS1oMU5KTkZBVmx0V19QTldPS3ZyMHJHSmVYcWNhQnZObmJZWUpoNWRuRDBCeg?oc=5",
+    "published": "Wed, 25 Nov 2026 12:52:35 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Nederland wil geen Amerikaanse bemoeienis bij export machines ASML naar China",
+    "url": "https://www.volkskrant.nl/economie/nederland-wil-geen-amerikaanse-bemoeienis-bij-export-machines-asml-naar-china~bcc262190/",
+    "published": "Wed, 25 Nov 2026 12:30:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Europe plans €50 billion sovereign tech equity fund to boost quantum technology - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXB4bkpfdVM2Rkh0NTZKZmIxOHJkOEZGMnNkdy1mVHl5T2NTSmxzQVUzUHd4eHBKeFFKQU5DUnFmTG9neTRHakJCSkF2aTk3eUlPdEVZMWI2YUVGZjBoTTVjQkJqc3hmUW9ua2JQR3BsTHVKSDdoWU5oOE1qUC1hdkhYZVZRdFNMbEc2WWtQaXJHYkNxMmxPU2ZLU0EyQ0hxb2JEZjZUWEtRYXFSUUVKSm56MlZRdkMzWmlvRnBNbkc?oc=5",
+    "published": "Wed, 25 Nov 2026 12:23:29 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "BP transfers 3,000 finance operations staff to Indian AI services firm Wipro - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHhCZkhObFRGSG0tX05fMnZnM3JjbXJfakdkRWtsRFI0b1huT3BuWVZySkszSEZzejNpUFJqeVNiYXlka0k1WGpvRUQ0YldCVmljX0hWWllHVGVkR0FnWGtUb0hqQklFNmVZeThoUlF3OWZoSnZCTVBPeURyVlB5UnVsUTVZM2piRHZfd0RQV1hvNTdkRXFmUDVLVklqaW50eUpOcUU3UlRxWGQ4dTZLZw?oc=5",
+    "published": "Wed, 25 Nov 2026 12:13:30 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "De VS willen Nederland de wet voorschrijven over de export door ASML, maar dat pikt Nederland niet",
+    "url": "https://www.volkskrant.nl/buitenland/de-vs-willen-nederland-de-wet-voorschrijven-over-de-export-door-asml-maar-dat-pikt-nederland-niet~bd1ed108/",
+    "published": "Wed, 25 Nov 2026 12:11:00 GMT"
+  },
+  {
+    "source": "The New Yorker",
+    "title": "Four Books That Will Make You Hungry",
+    "url": "https://www.newyorker.com/books/what-were-reading/four-books-that-will-make-you-hungry",
+    "published": "Wed, 25 Nov 2026 12:00:00 +0000"
+  },
+  {
+    "source": "Reuters",
+    "title": "Bollywood union asks Modi to bar Netflix's Pakistani series in India - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjd6WlRJdWdFcldKRGYzUFdFNlQ0NnVIcVJWV2drcTZySFFoV1Q4NHFlWE9KV3hpbWVSa2hvU0J3bTN6bmZRZHlubjBxaXVRWUc5aVRkV0haU1RCMk1iRjRWN2NJa2R1YjNpb2dlSW5oelVveUh4OEhqLS1FaWFvN0ZaM2Q2aGtYZHFRbTE0Wmwzd2FXSXo2ZDhGZWQ2UXptUWxuUlpPemxuWk1ib1JuTUlSOWV3S3F6ZWptQQ?oc=5",
+    "published": "Wed, 25 Nov 2026 11:57:38 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Bij wolvenjager Erkens is de wetenschap het eerste slachtoffer",
+    "url": "https://www.volkskrant.nl/wetenschap/bij-wolvenjager-erkens-is-de-wetenschap-het-eerste-slachtoffer~b925a967/",
+    "published": "Wed, 25 Nov 2026 11:41:03 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "COMMENTARY: Morning Bid: Tariff fear compounds AI recoil - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTzdrbThVSVJPbGJhMzJuU1EzY194YTh4WmZScXNHZTVqcUt6QlBua2k2VTRmN3RmRTFSc3ctVGo4MkhoTjZ0QTB1cWpCa2xad0hzNjgyMV9NTzR0QW01T0hGYzhaV3dIME5fN0FGWUVoUnJhLVFTdkl0R09fc2RTOHF1R2t4Y3pFeG9pZHhwLTB0T0lscmVR?oc=5",
+    "published": "Wed, 25 Nov 2026 11:34:23 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Deze november lijkt de koudste in bijna 30 jaar te worden, met vorst die normaal pas in januari voorkomt",
+    "url": "https://www.volkskrant.nl/wetenschap/deze-november-lijkt-de-koudste-in-bijna-30-jaar-te-worden-met-vorst-die-normaal-pas-in-januari-voorkomt~b6f072bb/",
+    "published": "Wed, 25 Nov 2026 11:13:00 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Strijd om leiding van Verenigde Naties draait om twee vrouwen en verdeelde vetomachten",
+    "url": "https://www.volkskrant.nl/buitenland/strijd-om-leiding-van-verenigde-naties-draait-om-twee-vrouwen-en-verdeelde-vetomachten~b1e10bc9/",
+    "published": "Wed, 25 Nov 2026 11:10:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "US Army declares success in detonation of lead-based explosives stockpile in Iowa - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV3JaTmxlVEkyOG9FXzM3d0dwUEdpV0ZwZk1FUUdZNG45Q0xYMWxaMndSZXNib0NXdDNNN1p3UzI5MnJBRTVhdll0Rm1EamNoMUpYRHg2R2JrcFlqTXFpdE9PeTgtVWktV3YzY012TDMtclByVHpIQnFucGhJbl9CZVlCMXNBb2pLRkxveWhIVEN0eEtUampuVkNRTzhBV1NPVWRnWEswMHlVbjhkeUZSeWVR?oc=5",
+    "published": "Wed, 25 Nov 2026 11:06:00 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Disney tovert met Hexed een nieuw prinsessenverhaal bij elkaar, maar de magie wil niet helemaal beklijven",
+    "url": "https://www.volkskrant.nl/films/disney-tovert-met-hexed-een-nieuw-prinsessenverhaal-bij-elkaar-maar-de-magie-wil-niet-helemaal-beklijven~be388096/",
+    "published": "Wed, 25 Nov 2026 11:05:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Jensen Huang's return to Nvidia fuels Washington fight over China's chip access - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3BLV01MMXl1a2FaazhNYWFseVlPZ2g0ZnBwdnI5aFdkV1pHR19QdzZQWDk4YlJMOFZtZk9PbVlwbmU1WXpXWjFHaHVfX3c0SVd5WHFRM0s3eW9EcUE1S1RTYUFxLXBvQmthZFFNYkFNRy1EeHNyM2gyT0prRzNPWEVPaGVGMFo2c1E1eTljc212bU5qY3EtdnlDN01WSTdnRjZOYkZKdW1lcmttSlcwazFrSFlidExMay1iTHlXaW1TQVBIUVE?oc=5",
+    "published": "Wed, 25 Nov 2026 11:03:00 GMT"
+  },
+  {
+    "source": "The New Yorker",
+    "title": "Play Catalogues: Wednesday, November 25, 2026",
+    "url": "https://www.newyorker.com/puzzles-and-games-dept/catalogues/2026/11/25",
+    "published": "Wed, 25 Nov 2026 11:00:00 +0000"
+  },
+  {
+    "source": "The New Yorker",
+    "title": "The Crossword: Wednesday, November 25, 2026",
+    "url": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/11/25",
+    "published": "Wed, 25 Nov 2026 11:00:00 +0000"
+  },
+  {
+    "source": "The New Yorker",
+    "title": "Daily Cartoon Slide Show",
+    "url": "https://www.newyorker.com/gallery/cartoons-index-page-daily-cartoon-gallery",
+    "published": "Wed, 25 Nov 2026 11:00:00 +0000"
+  },
+  {
+    "source": "The New Yorker",
+    "title": "A Ukrainian Soldier Processes the Trauma of War in “Rotation”",
+    "url": "https://www.newyorker.com/culture/screening-room/a-ukrainian-soldier-processes-the-trauma-of-war-in-rotation",
+    "published": "Wed, 25 Nov 2026 11:00:00 +0000"
+  },
+  {
+    "source": "The New Yorker",
+    "title": "The Complicated Love Story Behind “Consider the Oyster”",
+    "url": "https://www.newyorker.com/books/second-read/the-complicated-love-story-behind-consider-the-oyster",
+    "published": "Wed, 25 Nov 2026 11:00:00 +0000"
+  },
+  {
+    "source": "The New Yorker",
+    "title": "A Thanksgiving Tradition of Rewatching “The Last Waltz”",
+    "url": "https://www.newyorker.com/culture/personal-history/a-thanksgiving-tradition-of-rewatching-the-last-waltz",
+    "published": "Wed, 25 Nov 2026 11:00:00 +0000"
+  },
+  {
+    "source": "Reuters",
+    "title": "Kremlin rejects ex-UK PM Johnson's call for a token Western force in Ukraine as unacceptable - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmFWemFoRm1velN4TUw2c1BVOFZQcW9QNmRwMXVOQzcyWklQd2pqV0tfMDlUbEFISGRlZ2ZKaUh6T01QNVIyUVhqWTROMmttWjZWU2FZU1FGYzVFTllEWWNxaF9sVFdfRENhQ2tMWFY5YW9adkpCbkV1NE9xUDJEeWVmcmNudGN3T1RmZXhKbDJZekJOZXVNU21pM2xjUWs4Rm1XLVJ1a2JQU1lOelducXRXMjlWRW83WUUzZEt0MHhlVGkxalBF?oc=5",
+    "published": "Wed, 25 Nov 2026 10:51:44 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "De fictie in ‘Heysel 85’ is soms schetsmatig, maar het archiefmateriaal komt des te harder aan",
+    "url": "https://www.volkskrant.nl/films/de-fictie-in-heysel-85-is-soms-schetsmatig-maar-het-archiefmateriaal-komt-des-te-harder-aan~b55fa70c/",
+    "published": "Wed, 25 Nov 2026 10:47:00 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Denk de eerstvolgende keer dat big tech probeert te voorkomen dat u offline gaat aan de laatste woorden van David Cassidy",
+    "url": "https://www.volkskrant.nl/columns-van-de-dag/denk-de-eerstvolgende-keer-dat-big-tech-probeert-te-voorkomen-dat-u-offline-gaat-aan-de-laatste-woorden-van-david-cassidy~b6b26cfa/",
+    "published": "Wed, 25 Nov 2026 10:30:12 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Italy rebukes Ukraine over attacks on Russian ships in Libya - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRGl5eGplZXIyMktvQUNpVzZ6LV84eU50Qnp6dzZiWEhScWZzaXZuVzVjdTNVZWlHQXVINHQ1SzRRZnRvZHRQWDZyLXJZRXlUQ3JZbkZZR0lTQWJ2RGE4S1pySVFSekZ3QnZWOFJOd1hwUkJKNkxMSF9oM2ZxM2s4VV9UMG5TRGkyRlIyRFFWcUd5a3RwSzZyZzR3NmQ?oc=5",
+    "published": "Wed, 25 Nov 2026 10:29:43 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Buy the stock dip? Options market signals say wait - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0dOWTF0OFdPY3R6M1VaWklxVjlwaGkzcDk3d1U4WXp2Q1dNX3FfYW5qYmMzZG1MbDUtRGg5elI1RUEwZzBVaGVZZnV1LUptczdWQU1teXhlVkN5cWVXNjZneXcxMkxPcEJtbVltV3VjWkVrN2pWTmNhTC1zby1sNWdDbGtCOVEyMEdXemdLNXRydHVv?oc=5",
+    "published": "Wed, 25 Nov 2026 10:25:50 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
+    "published": "Wed, 25 Nov 2026 10:08:00 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "In Paper Tiger verandert de belofte van snelle rijkdom in een nachtmerrie",
+    "url": "https://www.volkskrant.nl/films/in-paper-tiger-verandert-de-belofte-van-snelle-rijkdom-in-een-nachtmerrie~bd0e3f81/",
+    "published": "Wed, 25 Nov 2026 09:49:00 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Ariana Grande en Robert De Niro kunnen de opgewarmde prak van de nieuwste ‘Meet the Parents’ niet redden",
+    "url": "https://www.volkskrant.nl/films/ariana-grande-en-robert-de-niro-kunnen-de-opgewarmde-prak-van-de-nieuwste-meet-the-parents-niet-redden~b1c4ee33/",
+    "published": "Wed, 25 Nov 2026 09:38:00 GMT"
+  },
+  {
+    "source": "New York Times",
+    "title": "Harry and Meghan’s Life as ‘Nonroyal Royals’ in the UK",
+    "url": "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html",
+    "published": "Wed, 25 Nov 2026 08:55:39 +0000"
+  },
+  {
+    "source": "Reuters",
+    "title": "Iran says it is prepared to withstand US blockade, seeks to curb price rises - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUtreFI1ZkdfaWRTMFJZWElnOFJtM2E1ZlZ6OVhiSDlVTnFOLVQtZTExQWZjbWRvRjR0SFJ3ZUotcEV5Z3RFaE5Wb1RsUEFSdUVoVUhvaXU1bFFNckhHcHdDZjdkRTNMUVlzR0ZVcUx1VWRLeV9DSnFtQjJrOUU1NjJSM1VyTEc3QUltV2p6bFpvSGVLd3dKMXRkaXpnVEJrUWcycHI5UVBNOTAwWTIzTTloYlZSeXpiUjJIcS1HOWQ?oc=5",
+    "published": "Wed, 25 Nov 2026 08:29:22 GMT"
+  },
+  {
+    "source": "New York Times",
+    "title": "Colombia’s Leader Blames ‘Terrorist Attack’ for Power Outages",
+    "url": "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html",
+    "published": "Wed, 25 Nov 2026 08:05:15 +0000"
+  },
+  {
+    "source": "New York Times",
+    "title": "Iraq’s Prime Minister Aims to Wrest More Power From Kurdistan Region",
+    "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+    "published": "Wed, 25 Nov 2026 07:36:48 +0000"
+  },
+  {
+    "source": "Reuters",
+    "title": "Meta officials meet India's opposition Congress amid protests on content curbs, sources say - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcnhaempkSHZWLTF5eVhTNC1qNmlwandab2ZSNERLTElpWGVjMGl1OGhoc1lvUmdTaC0yWG9ydXFQRVcteFhFQ0llNGhTaTdQdXdqUVBnVVQyZm5oaVFtQW9FRFF5ZnotRHVvc2k2cV9ENlpkSzgtR2x4SXIwWWFlTDBRNzJsLTFGbHptckFOUkN1bENXV1pCUHZjcHZ1MkRrRUU5UmFCWVUyd296NXJBMVFQSFVwelk5eEc4ZWhOS1ZFT1U?oc=5",
+    "published": "Wed, 25 Nov 2026 07:33:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Yemen's Houthis claim attack on Saudi Arabia's largest refinery - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOakM0aVEtei1RVzZkTUVZYlFabWlDYWpzTktyaGU2WHZqaGRkU0hJOHdsNDFUdU5GYzNOYzdZYnkwWnFYZ2daNlNvYkJ3ZWNjeDNTRm5HOUFtNW5nRjNYSVpaaGF0SF9xbjN6S1FpbVJ6MmFBYkdUeF9CMTZKRUdJT2RITmVSelAzWUJtTEIxQTN5Ry1YZEczX29iOHVuc0Q1bllidlBoN0VDNWVzYzZqU2RaNm5JRUctRDdsdGt2ZkEydWRVMV9wQUdHYw?oc=5",
+    "published": "Wed, 25 Nov 2026 07:24:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Australia passes law forcing internet platforms to take down harmful content - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcHZFR1FPbktZQ2RvV1h2UERSZUpBQksta2w2OGhBZVhmbWE2amZHMHRaWlFnczlYbXlvNHNNVURSMFhHVVI0czJYTlpjR0V3X29qaTdacHRRRy1tbFFQaU5DdF9tRXZkM1hDbVNfQndjcEs4d2NQMGtqXzRPMlJtUTVGN2JaSDA1dDZoOERLeEY4VUt5dlB6Yy0tdFk1Zk51MFBZSTVvekg0ZFA4cldFUng1RllGNUFzcGVlR1M2di1jc2Fs?oc=5",
+    "published": "Wed, 25 Nov 2026 07:12:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Spain thought it had the 2030 World Cup final. Morocco had other plans. - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSElHNEozY1dCNFVyYUc1VWs3VmpramRCZTZMMFdnbGpVLWdCR0J3VUdESTlRNW0tay1DbDhmOE83TnFGbVBaRFFET3ZVQW9OaHJZUVVacjFDcDVTY29SWkdDYTFLeUZGdWxHSVJDTkhRSUtmWXVhRUc4NXg1VGZoTDdqZEEtLWs3TDVQSVZSVjh3VlNwalNuczNGenpEd1RxODB2X1R3STk0Q0k2d0VlM0lfc1BZUQ?oc=5",
+    "published": "Wed, 25 Nov 2026 07:03:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Indonesian company taking over seized forest land is Danantara unit, document shows - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRDVaRmM0QXg2NWlvR0tvRTJNWEdHUTQ0M2lkUFZKZnRrS2ZidjNmX0JCMC1QeHY2Z0tyaVFTMmRwVGRWNzNDczZGME9vcWRPZ1ItVERzcU1rUjN2MEJ6cFUzOFhkVy1KUXNsUEFiUFJzMllnNi1sUXI0X19ISmV3WEtwdmxOZy1QWWw4NXNXaEFZSXZBWmNzLTQ2STZCUVZCN0M0SzlRMjN6bjgyY05sLURJdkMxNC15MUVvcm5DU2tnLXNpSzNsQVJFMA?oc=5",
+    "published": "Wed, 25 Nov 2026 07:01:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Cognizant in talks to take over parts of S&P Global's Capital IQ operations, sources say - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWxlZTVjNXVZT0FNeGlwRmhwRFJveGR3ZEc2aFZSamJMRVc4VG4xZ3hqX3JtVW1iV1VPOHBuV2lPaEhlMzI5cWFuTW5YdUEzakJJWU5KMmtDWWRtUVk4QkNTQnpydThoaTE2bTVuOC1wX2RLbU5COEpINDRLak90X29mZ013QzI2dmJvMENhcFJtdnl1a2I0Q25WYW0yWk5QUnR3ZDJHOFBzelF4TGdUNlZ6RWllYzYzbDdVdzhPZlQ?oc=5",
+    "published": "Wed, 25 Nov 2026 06:37:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXNKWVJFdGJPenhtYnNFM2VnNnJGdUpjaUlfVDMycE9TWlVUOWJwNVNmU0dyMC1OUF90NzQ1TUZwdDlERUc0RENMRU44MVo2eGhsT1V3MTFpLXh0OTM3cW1hWkNZbGFzc3V5WVdFenoxTE5uZkZoaDNXdW41cmFzVThQZnVNYUR2N3hMcE1EeUQ4cGotR3FVYjJKV0FudldtekoyZUQ3b2NlNTUxWmNfODdPd3RHVlNZM2tsYWpwSFVjZGFY?oc=5",
+    "published": "Wed, 25 Nov 2026 06:13:00 GMT"
+  },
+  {
     "source": "de Volkskrant",
     "title": "Acteur Jules Croiset (1937-2026) was de man van het voluit spelen, zijn naam is voor altijd verbonden aan de Fassbinder-zaak",
     "url": "https://www.volkskrant.nl/films/acteur-jules-croiset-1937-2026-was-de-man-van-het-voluit-spelen-zijn-naam-is-voor-altijd-verbonden-aan-de-fassbinder-zaak~b2b9ca78/",
@@ -7,9 +1021,27 @@
   },
   {
     "source": "de Volkskrant",
+    "title": "Acteur Jules Croiset (1937-2026), die gretig en voluit speelde, bleef zijn leven lang verbonden aan de Fassbinder-affaire",
+    "url": "https://www.volkskrant.nl/films/acteur-jules-croiset-1937-2026-die-gretig-en-voluit-speelde-bleef-zijn-leven-lang-verbonden-aan-de-fassbinder-affaire~b2b9ca78/",
+    "published": "Wed, 25 Nov 2026 06:06:00 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Amazon to launch Amazon Autos in UK in early 2027 in first expansion beyond US - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWEtzNzh2NUdSdE41Yi1FYUY2Unk4Q3Z6bGlrb1UxVkxScVV5cmJzRmNZaUp4VFhCSEUwcWNOVHM2aUU3LVByVG81UEhHSFBnWWlmbnFqbC10QzhmVW5JMk84Y0RiVXpvZ3dUWElUNWVnWFBYZEN6Nk8xMVFHWlVPOUxPYi1MdHFSa3NXeVJ0ck9RdHVWYTdXSVJHZzBTZ3lNdFdzUU03MzFjaThMREZxaDUwdm8wQ2JjM25UNlR1ODlOb2c0Vk9DRHRKR3Y?oc=5",
+    "published": "Wed, 25 Nov 2026 06:04:00 GMT"
+  },
+  {
+    "source": "de Volkskrant",
     "title": "Nederland heeft nog stevige financiële banden met bedrijven die de Israëlische bezetting steunen",
     "url": "https://www.volkskrant.nl/economie/nederland-heeft-nog-stevige-financiele-banden-met-bedrijven-die-de-israelische-bezetting-steunen~bd66a895/",
     "published": "Wed, 25 Nov 2026 06:00:07 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "African insurgents take war to the skies with off-the-shelf drones - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON0RjeHRWcGl1ZElENEhBX0x2blI3b2w1OC1vZ1U3SklwRTV5ajRTWVRXczVBTlBrN0JkQldfZEozLTU1b3AxUDJTM3dnX3FoTldYTmZVZWF3dW4xSFM0c2gtWS1yTWRvSmlsRDhMa1ZncXIybHVKaXlhZE9FSHNaanRCckd2RHA0cHVOVldWUmVKMGhUV1JUZG95amFmQ3oyWjBYNmZVSl80ZzhT?oc=5",
+    "published": "Wed, 25 Nov 2026 06:00:00 GMT"
   },
   {
     "source": "New York Times",
@@ -27,7 +1059,7 @@
     "source": "New York Times",
     "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
     "url": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
-    "published": "Wed, 25 Nov 2026 05:24:35 +0000"
+    "published": "Wed, 25 Nov 2026 05:24:36 +0000"
   },
   {
     "source": "Reuters",
@@ -75,7 +1107,13 @@
     "source": "de Volkskrant",
     "title": "‘De meeste nazi’s waren best aardig, weet u.’ Met dank aan de algoritmes klinkt er nazigebral in de klas",
     "url": "https://www.volkskrant.nl/columns-van-de-dag/de-meeste-nazi-s-waren-best-aardig-weet-u-met-dank-aan-de-algoritmes-klinkt-er-nazigebral-in-de-klas~b69bd0c5/",
-    "published": "Wed, 25 Nov 2026 04:00:41 GMT"
+    "published": "Wed, 25 Nov 2026 04:00:00 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Leert Europa dit keer wel van de energiecrisis? ‘Vier jaar later zitten we in dezelfde situatie’",
+    "url": "https://www.volkskrant.nl/politiek/leert-europa-dit-keer-wel-van-de-energiecrisis-vier-jaar-later-zitten-we-in-dezelfde-situatie~b94b9ca1/",
+    "published": "Wed, 25 Nov 2026 04:00:00 GMT"
   },
   {
     "source": "Reuters",
@@ -91,7 +1129,7 @@
   },
   {
     "source": "Reuters",
-    "title": "North Korea expels Swiss representative over sanctions related to children's camp - Reuters",
+    "title": "North Korea expels Swiss diplomat over sanctions weeks after office reopening - Reuters",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNUNWNUd3TUtJYTY3OEc0TGI5U1NhNDdFREhNdzVxU3pnV2ZoaDgybzlaS0lvbVRXNWVxeG5uZFRRVEswT2s3V25GLWppMEJtLUZvSTJ3UVVVTE8tMUtGVFVSempYNmhyMmdjTXJGb0RGTFdMcVc0ZTJaUkVENC1tWk1Mbl9LYlBGZUYyRUJqejhCRXdyWGdhVVdxNnJjRTA1dlVmdUxHd0JOalNrWXBLQ2hGQktJalJjQmhqMkVBT1ZNWlFqa2xWeHFiMWdaRmZtRV9EYkNibTczZw?oc=5",
     "published": "Wed, 25 Nov 2026 03:19:00 GMT"
   },
@@ -133,7 +1171,7 @@
   },
   {
     "source": "Reuters",
-    "title": "Oil slips over 1% as supply glut prospect offsets Middle East disruption fears - Reuters",
+    "title": "Oil prices rise after Houthis claim attack on Saudi refinery - Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGl4Nzdfc01ReTB5TnAxUkVLTXlaRVFvbGM5aTZDOEtVUXlrVDQtMHJwcWh2WldoMnVyb0QxU1pEQUoyN09sNU1SZXR3NVUzdTZXeWpkdGNTZW95MUtmdjV3dWFxTEZsRW5WUlF1djVTTWZxUGVxcHhPNEptMnBEcmZ0MURhX0JxTDFqc19HblpWd2hLSEs5SXRYTXB6bzFwNzZqOUFTc1ZOM3ItVDFZWmM2a0R5YkxsdnlsMTZWQ1ZEUQ?oc=5",
     "published": "Wed, 25 Nov 2026 01:58:00 GMT"
   },
@@ -145,7 +1183,7 @@
   },
   {
     "source": "Reuters",
-    "title": "Stocks retreat as AI rebound stumbles, tariff threats loom - Reuters",
+    "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades - Reuters",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5",
     "published": "Wed, 25 Nov 2026 01:50:00 GMT"
   },
@@ -163,7 +1201,7 @@
   },
   {
     "source": "Reuters",
-    "title": "Gold holds steady ahead of US inflation data - Reuters",
+    "title": "Gold falls to more than one-year low after data shows US inflation rose further - Reuters",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1p3ZkduX2FrdGJhMEMtbmNXNTgxN05HeDFsX2xxNDBkWXZQVkFWS3NzNFpITzZ2RnRyYXVZQ1k5bmthekYzdG9aSDVxcGZGS1RxMnNTTHNRRkQyQWFoWm1zNXVfd2hVQW96VHQ1ZFd4eU04cXNTRWk0cFJ4LS1PLUd1eUFmN3Y4ZjJQbXZpVkd3UQ?oc=5",
     "published": "Wed, 25 Nov 2026 00:49:00 GMT"
   },
@@ -174,14 +1212,8 @@
     "published": "Wed, 25 Nov 2026 00:42:52 +0000"
   },
   {
-    "source": "New York Times",
-    "title": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
-    "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
-    "published": "Wed, 25 Nov 2026 00:38:35 +0000"
-  },
-  {
     "source": "Reuters",
-    "title": "China's Shenzhou-24 docks at space station with Pakistani national as first foreign astronaut - Reuters",
+    "title": "Pakistani astronaut becomes first foreigner to board China's Tiangong space station - Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbUNDa1I5NlZaa2hiOFJGSHJlOHkyU3QtMEl0S2lvbGNlTWhJdGd6TzA3TV9VV0p2azc3OUZWeU0zLWtZbjZ3dlc5SXAxSklBbmlOeU5GcFdhMzZWbnJPTExMWG9KcElUOUotS3BGMDJmS2xVVV95MjFiYzdFTEcwOE1DU0tRY1ZmTzFHQ2pvYmFQUVY4dmRCb2tERDZZZV9IMWpLUTA0NXFNYnlwMm1UaTJyaXE2bThCMDRza1JDZlg?oc=5",
     "published": "Wed, 25 Nov 2026 00:27:00 GMT"
   },
@@ -258,6 +1290,12 @@
     "published": "Tue, 24 Nov 2026 23:08:00 GMT"
   },
   {
+    "source": "Reuters",
+    "title": "Tarantino-Fincher collaboration 'Cliff Booth' came with pressure and fun, cast say - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMFJMSloyenRCMzF6NXhBeUYzU19wYTc5TEpfaTE3ekpac0xGZUYwWE1mV2E1b1Z0MUlrV2VIMlQzbUdxS2Z1YUxFdWJoUFVYblZJa21qeDdjaGFTT3JvNGhpOFRJRWpia1N0YnJXQTRvLVN6SjZ3ZlUtSnNXUjBrSGY5MnMyNW8tNWJRbEZJQjhkZmU5cFVyZ3VWVWpEVldHTU1oNjA3YWV3VWczVHdLb1VmbzF1bUJRUXZlbnFqV1o2TFYtMWt0OEU0bHJpeTQ?oc=5",
+    "published": "Tue, 24 Nov 2026 23:07:00 GMT"
+  },
+  {
     "source": "The New Yorker",
     "title": "Meeting with the Kings of Cocaine",
     "url": "https://www.newyorker.com/newsletter/the-daily/meeting-with-the-kings-of-cocaine",
@@ -274,12 +1312,6 @@
     "title": "Chinese techgigant Huawei in VS veroordeeld voor stelen van bedrijfsgeheimen en bankfraude",
     "url": "https://www.volkskrant.nl/economie/chinese-techgigant-huawei-in-vs-veroordeeld-voor-stelen-van-bedrijfsgeheimen-en-bankfraude~b7e20edbe/",
     "published": "Tue, 24 Nov 2026 22:52:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Israel's Eisenkot clinches first coalition agreement in bid to form government - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbVR5QS1fSDJ5YWoyNmRLQ0t2Vm1lZTdWdDlXaU5MakhodlR5QmJyRlhKLTc0dmZuZ2pTYVNwYllvQTIxblMwcm1FZHhPRUl5RWJfRFoxRWNjREZLWjh1MGFlSUUxeDlHdVpIeWlxQmY4dFlDZE55SHFtZkVXazhXWFZiVVZXbkZSX2xySnE1MWtOLWk5ZldQSU10eUtuUjJwM2VEOEc3TExPVDBRekZZc1FsSmhfYWFMYjNZRlVPWGdVWFE?oc=5",
-    "published": "Tue, 24 Nov 2026 22:39:43 GMT"
   },
   {
     "source": "Reuters",
@@ -304,6 +1336,12 @@
     "title": "Trading Day: Nvidia bounce fades - Reuters",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY0FNNm9mVjIxcnlXT3czU2xOVGZlSzNmZURtXzMzdjZERU1wQjFodjV0QlRZZUpSdEJGUWFsMlcwYnBFaXAwZGhvVkk2Z0x4Z3gzUVZESTJDbkEzV0JvU2pHaktSMWdjVnZoekEzOElIcjlOZWRiM0JWbGZpemNHbWVQTGdUYlgyQ2JwZXVtemg3aG50MVEtQ1MxbnFXMGRxdmVxRzJ3?oc=5",
     "published": "Tue, 24 Nov 2026 22:18:25 GMT"
+  },
+  {
+    "source": "Reuters",
+    "title": "Israel's Eisenkot faces new coalition challenge as left-wing faction suspends talks - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbVR5QS1fSDJ5YWoyNmRLQ0t2Vm1lZTdWdDlXaU5MakhodlR5QmJyRlhKLTc0dmZuZ2pTYVNwYllvQTIxblMwcm1FZHhPRUl5RWJfRFoxRWNjREZLWjh1MGFlSUUxeDlHdVpIeWlxQmY4dFlDZE55SHFtZkVXazhXWFZiVVZXbkZSX2xySnE1MWtOLWk5ZldQSU10eUtuUjJwM2VEOEc3TExPVDBRekZZc1FsSmhfYWFMYjNZRlVPWGdVWFE?oc=5",
+    "published": "Tue, 24 Nov 2026 22:18:00 GMT"
   },
   {
     "source": "de Volkskrant",
@@ -390,6 +1428,12 @@
     "published": "Tue, 24 Nov 2026 20:40:00 GMT"
   },
   {
+    "source": "Reuters",
+    "title": "East Coast storm to bring rain, strong winds on US Thanksgiving - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb0pUdklTRTRidkl0Y3dHUXU1RGxJWEtyM0Z1UHJZUEhJcGNPSWdYNzZNRjFfUUxLeW02UV9lcVRuWW5feUFLTTVXdF9ydV9pbEJoNmI5Ry1TZXB3aTd6cy1jTURSOUhyVmZYM2RCV2x5bXRlV2tEcWJQTUhjeVk0VTU3UHVpdzlxeHQzQW5TTk9FUENmSEo1YmZxNFZ1dWhqTW9jQTBqV29PSU9CaXJyTUVOUQ?oc=5",
+    "published": "Tue, 24 Nov 2026 20:32:00 GMT"
+  },
+  {
     "source": "de Volkskrant",
     "title": "NYT: Amerikaanse inlichtingendiensten getroffen door datalek",
     "url": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
@@ -453,7 +1497,7 @@
     "source": "New York Times",
     "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
     "url": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
-    "published": "Tue, 24 Nov 2026 19:18:15 +0000"
+    "published": "Tue, 24 Nov 2026 19:18:16 +0000"
   },
   {
     "source": "Reuters",
@@ -477,7 +1521,7 @@
     "source": "de Volkskrant",
     "title": "Amerikaanse jongeren liepen en masse over naar de Democraten, en dat komt mede door Disrupt. Hoe is de beweging dat gelukt?",
     "url": "https://www.volkskrant.nl/buitenland/amerikaanse-jongeren-liepen-en-masse-over-naar-de-democraten-en-dat-komt-mede-door-disrupt-hoe-is-de-beweging-dat-gelukt~bd469900/",
-    "published": "Tue, 24 Nov 2026 18:59:08 GMT"
+    "published": "Tue, 24 Nov 2026 18:59:00 GMT"
   },
   {
     "source": "Reuters",
@@ -538,6 +1582,12 @@
     "title": "Nvidia's Huang returns to cheers in China, but political hurdles mount - Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2I2bERDWFVzTGY0OFhwaE0xVHRxaFFWM0REVzVOVjBsRkIyQjdwTlVEdnBzSmtqc2FlRFlJOERuOTc1Q1ZDV2U4SWRFa01fQTNHMnZJTjRXOW5VOUVMcjA1WDI4eW5vZ0FFbmRiNEc4aGdsSDQ0Zm1TNFBiVE5Pb0tIVm1SSzRIa3BVTk5GQ2NPY0JhMG1HLVpHamtrVWswd09ONFJCN3JSZDlBd0pYdGxwTE9tNm5sQ0FB?oc=5",
     "published": "Tue, 24 Nov 2026 17:57:26 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "En weer verdwijnt een culturele vrijplaats. Hebben zij nog een toekomst? ‘De rafelranden raken op’",
+    "url": "https://www.volkskrant.nl/binnenland/en-weer-verdwijnt-een-culturele-vrijplaats-hebben-zij-nog-een-toekomst-de-rafelranden-raken-op~bce1bef2/",
+    "published": "Tue, 24 Nov 2026 17:55:00 GMT"
   },
   {
     "source": "Reuters",
@@ -631,7 +1681,7 @@
   },
   {
     "source": "New York Times",
-    "title": "2 Men Arrested on Suspicion of Breaking Into Prince William and Kate’s Country Home",
+    "title": "Prince William and Kate’s Country Home Is Broken Into; 2 Men Arrested",
     "url": "https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html",
     "published": "Tue, 24 Nov 2026 16:31:07 +0000"
   },
@@ -660,10 +1710,10 @@
     "published": "Tue, 24 Nov 2026 16:00:20 GMT"
   },
   {
-    "source": "New York Times",
-    "title": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels",
-    "url": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
-    "published": "Tue, 24 Nov 2026 15:37:35 +0000"
+    "source": "de Volkskrant",
+    "title": "Lina Attalah is het laatste gezicht van de vrije pers in Egypte, waar de persvrijheid tot een nulpunt is gedaald",
+    "url": "https://www.volkskrant.nl/buitenland/lina-attalah-is-het-laatste-gezicht-van-de-vrije-pers-in-egypte-waar-de-persvrijheid-tot-een-nulpunt-is-gedaald~b0d17495b/",
+    "published": "Tue, 24 Nov 2026 15:26:00 GMT"
   },
   {
     "source": "de Volkskrant",
@@ -676,6 +1726,12 @@
     "title": "Nachtelijke duisternis is gezond. Waarom komt er dan steeds meer lichtvervuiling?",
     "url": "https://www.volkskrant.nl/beter-leven/nachtelijke-duisternis-is-gezond-waarom-komt-er-dan-steeds-meer-lichtvervuiling~b423d57a/",
     "published": "Tue, 24 Nov 2026 15:21:23 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Jessica Rosval is de beste vrouwelijke chef ter wereld (en laat Italianen pasta met ananas eten): ‘Ik was bijna altijd de enige vrouw in de keuken’",
+    "url": "https://www.volkskrant.nl/koken-en-eten/beste-vrouwelijke-chef-ter-wereld-jessica-rosval-ik-hoop-dat-deze-prijs-over-10-jaar-niet-meer-bestaat~b3b4e03b/",
+    "published": "Tue, 24 Nov 2026 15:18:00 GMT"
   },
   {
     "source": "Reuters",
@@ -738,20 +1794,8 @@
     "published": "Tue, 24 Nov 2026 14:13:17 +0000"
   },
   {
-    "source": "New York Times",
-    "title": "Norway Has Closed Its Last Coal Mine, Ending a Way of Life in the Arctic",
-    "url": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
-    "published": "Tue, 24 Nov 2026 13:56:53 +0000"
-  },
-  {
-    "source": "New York Times",
-    "title": "Harry and Meghan’s Life as ‘Nonroyal Royals’ in the UK",
-    "url": "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html",
-    "published": "Tue, 24 Nov 2026 13:40:55 +0000"
-  },
-  {
     "source": "de Volkskrant",
-    "title": "In ‘You Can See Everything’ deconstrueren de makers op verrukkelijke wijze de documentairevorm",
+    "title": "In ‘You Can See Everything’ decon­strue­ren de makers op verrukkelijke wijze de documentairevorm",
     "url": "https://www.volkskrant.nl/films/in-you-can-see-everything-deconstrueren-de-makers-op-verrukkelijke-wijze-de-documentairevorm~b24da185/",
     "published": "Tue, 24 Nov 2026 13:26:00 GMT"
   },
@@ -918,12 +1962,6 @@
     "published": "Tue, 24 Nov 2026 10:37:03 GMT"
   },
   {
-    "source": "New York Times",
-    "title": "Japan’s Leader, in Break with U.S., Defends International Criminal Court",
-    "url": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
-    "published": "Tue, 24 Nov 2026 10:35:30 +0000"
-  },
-  {
     "source": "Reuters",
     "title": "China Southern orders 50 jets in Boeing's biggest China deal in nearly a decade - Reuters",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeko4UlRESEhUV2xFR2JHbnFic04yTlZiMkpaU2FVS2w0TzV3djlxNHVicmFNUXpDV2FfamtPWlh2NW5HOUdfOXpDWEpmWlY3dUlhSFVwb2FocWtVR1Rjd3Nramp0VVJhSTB1dzJBS0UzWmx5VVptamdRbkhtcDNfSVZwN3dFOENnOFRnUmJILTVvRXM5YlZyMzQ0ckNFQUczX1RRd0pNZXkxUUhCbklaeFRR?oc=5",
@@ -1053,6 +2091,12 @@
     "source": "de Volkskrant",
     "title": "Sir Steve McQueen, die vandaag de Erasmusprijs krijgt, kaart al zijn hele kunstenaarschap onrecht aan",
     "url": "https://www.volkskrant.nl/cultuur-media/sir-steve-mcqueen-winnaar-van-de-erasmusprijs-kaart-al-zijn-hele-kunstenaarschap-onrecht-aan~ba380cb0/",
+    "published": "Tue, 24 Nov 2026 04:00:00 GMT"
+  },
+  {
+    "source": "de Volkskrant",
+    "title": "Ongepolijste ‘tired girl’ De Groen heeft dankzij literaire hit ‘Corpus Britney’ meteen een cultstatus",
+    "url": "https://www.volkskrant.nl/boeken/ongepolijste-tired-girl-de-groen-heeft-dankzij-literaire-hit-corpus-britney-meteen-een-cultstatus~b4e8529e/",
     "published": "Tue, 24 Nov 2026 04:00:00 GMT"
   },
   {
@@ -1753,6 +2797,12 @@
   },
   {
     "source": "de Volkskrant",
+    "title": "Prentenboekenmaker Loes Riphagen (Coco!) trekt kinderen in Museum Kranenburgh mee haar ieniemienie-universum in",
+    "url": "https://www.volkskrant.nl/boeken/prentenboekenmaker-loes-riphagen-coco-trekt-kinderen-in-museum-kranenburgh-mee-haar-ieniemienie-universum-in~b64340d3/",
+    "published": "Mon, 23 Nov 2026 13:58:00 GMT"
+  },
+  {
+    "source": "de Volkskrant",
     "title": "Voor iemand die compleet zoekende en somber is nadat haar geliefde haar in de steek heeft gelaten, is Rubinstein toch heel helder en grappig",
     "url": "https://www.volkskrant.nl/columns-van-de-dag/voor-iemand-die-compleet-zoekende-en-somber-is-nadat-haar-geliefde-haar-in-de-steek-heeft-gelaten-is-rubinstein-toch-heel-helder-en-grappig~b9e2ab20/",
     "published": "Mon, 23 Nov 2026 13:56:00 GMT"
@@ -1852,12 +2902,6 @@
     "title": "US Democrats require 2028 candidates to reject dark money to make debate stage - Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOTBnNVJuTGlTM1pXYzA5bWE0LUZlWC1YOWFFNm54TzEwdnJ3ZUJnak03RzRpV253ZFI2RTRWWXlXNGE0SlQ1X3dwSG40SDh1QkhrZHROeEdQd1gwRkpjWElwckRBbDJzMzRZVXVma3E4b1lVX1ZVbzlUMjdmMm5QeTIydi16UUJUbDBWQkRUVU1ZeWZxQVVRZ2wzNVFtS0QzS1JWVkt5bmV4ZmFDeGE5a2pCZjJLLXh6?oc=5",
     "published": "Mon, 23 Nov 2026 11:05:04 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Honderden scholen in Duitsland en Denemarken krijgen bommelding, onduidelijk waar dreiging vandaan komt",
-    "url": "https://www.volkskrant.nl/buitenland/liveblog-hybride-oorlog-rusland-eu-navo~b08413ca/",
-    "published": "Mon, 23 Nov 2026 11:04:00 GMT"
   },
   {
     "source": "The New Yorker",
@@ -5410,1061 +6454,5 @@
     "title": "Why China's EVs could throw a wrench into EU, UK trade talks - Reuters",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
     "published": "Thu, 19 Nov 2026 07:03:00 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Putin Returns to APEC ‘Family Photo,’ Testing Western Leaders",
-    "url": "https://www.nytimes.com/2026/11/19/world/asia/putin-xi-trump-apec-family-photo.html",
-    "published": "Thu, 19 Nov 2026 06:46:07 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "Ukraine was main topic at Trump-Putin meeting, Kremlin says - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNDJ3ZUp3ZjhsQ01rN3VaRGlJNkx3SVpycUdaVENpLUtwT01aQmJ0c01ielVrbW0zcUtjVHlMbjlXc1IxaFFCYnhyWHpoY19vY0N0MVk5dXplemZKM0hSaWpIMndSMzBoZ3lndFpyeEhhUE5pTWVlRWpjMDhDYXpmNEJqZVRiMXgzWVRtNHE4cE1LNE1sWTNSM0lRQ2w5cU00MDE5dmdn?oc=5",
-    "published": "Thu, 19 Nov 2026 06:38:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYjJyUW83NEllOTVXWDNHUnY0UW85MjF2dzVVQ1NxOVBGaW1EY0trbjRZZU5zZWFLUnZnQ1RGUkhiM3ZmZVA2VUxZNm5UQlpJR2F2OXotX0EzOUJJdHNkZlhCUXVnM2xqaEZ1Zmh6R19sSmUyelZzSVJSSkVTZHBvd2ZUQkNJOFZPaEZ6amhLd1BGWlcxd2M4N0pLa0J5Z28taFE2M293Z1puMWViY3FhZDh6WXd4SjFsNzg0dkZ3?oc=5",
-    "published": "Thu, 19 Nov 2026 06:29:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Saudi Arabia overtakes UAE as India's No. 2 oil supplier; Russia retains lead - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOGFFLXpheVdRTVdEZmh5dzNVdWpQR3RJRnJSbjZMMkNscHBaZWlNWTFLT0RpN3RGVU5xbHh1WFJoYTQyVGROQnRDcjZxaW9QaTZKZ2tkWGhDdUpRWnNHNXY5ay1PN3BZcmY2TFcxYnF0OFBtWUUxZzlfblZrZU9tVFZ6aDRaOFhuZjlyX3ctVS1wQ3h0VzFrRUd3eWNvRlJTakkxZjMtOWFsaVJjWDBLVnZ5aFV1QVMxb044M1pYbS0?oc=5",
-    "published": "Thu, 19 Nov 2026 06:29:00 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "A Visual Tour of President Trump’s Visits to Asia",
-    "url": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
-    "published": "Thu, 19 Nov 2026 06:28:34 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "Migrants fuelled Spain's boom - now investors fear an anti-immigration government could stifle economy - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU0Q3SEdsRURCR25kZEEwX3NUQWtNd2tvaVR3MkVuUF81MGI1U3JWQ0EzRFI5R1FEVTBTMlhuQ2dYT1ppNVY0WkwyTFd2bmxSOXZhX3poOW1femJNelJJQzBNRkdHQXJZYWhfalgyYVV5ZXdlTUVOQ0tjUzJwRUlrNVpLVzR1NEV3QnRxVG1GT012VHd1YlFfX21PRGN1eUhsNzlrUzFtMzlaRlJFelExYVNHbmpET3lXZWtnTkNtZWpURHVVbEhSUnBHaw?oc=5",
-    "published": "Thu, 19 Nov 2026 06:03:00 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Undoing Brexit",
-    "url": "https://www.nytimes.com/2026/11/18/world/19int-theworld-brexit-trump-xi-putin.html",
-    "published": "Thu, 19 Nov 2026 05:48:05 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "Loading ... Claude and GTA VI - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lUWNXaXNEZTRSNUV5T2VRdk45RzFYdHVwSUFweEJlaW1RSVlsNXpNdGFQNGE3aFUwdHZ6OTloMnBTTndXVkViYWlkSE1UWlFGRjFYbW5tck9fR2ZkOVo4NjBhQnIwNmR2Wm42YjZ4bko5TnJqd0pEbmcwd0RzSE0?oc=5",
-    "published": "Thu, 19 Nov 2026 05:35:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "'Choosin' Texas' singer Langley beats Taylor Swift on way to Country Music Awards sweep - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNjVfa3NFRjlPRVFHT2hoMmVDNG5fUnJmc3RfN0MzRDZoTWphUkhjcS1Xd3BEWnpncEJ4RE5TZGRtNy0ybzlGZk1zN3JWWndzdWJLQm9sbXBEb21uRC1XZ1k3dDR6WnBqUWZFS0N4UklCVlN4azBPY2Q0clFOTDZBYnpmcWtsTi1qX2VBNEVWdGhUTmpULW9nSjg2MWo5eXVmZ2lTcTVXNjlPWEZoZ3hFZy1UckhvUk5lNzlRRkQ1bWNESEFTNWdfczYzVWpUbEF4Y0pZ?oc=5",
-    "published": "Thu, 19 Nov 2026 05:27:00 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Persorganisatie: Israël demoniseerde Palestijnse journalisten en doodde ze erna",
-    "url": "https://www.volkskrant.nl/buitenland/persorganisatie-israel-demoniseerde-palestijnse-journalisten-en-doodde-ze-erna~bd96d2f5/",
-    "published": "Thu, 19 Nov 2026 05:25:00 GMT"
-  },
-  {
-    "source": "Follow the Money",
-    "title": "De vergeten oorzaak van de huurcrisis: de koper woont in een fiscaal paleis",
-    "url": "https://www.ftm.nl/artikelen/analyse-vrije-huursector-krimpt-door-fiscale-bevoordeling-koopwoningen",
-    "published": "Thu, 19 Nov 2026 06:00:00 +0100"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Reusachtig opgeblazen spuugbellen vol loos gekrakeel",
-    "url": "https://www.volkskrant.nl/columns-opinie/reusachtig-opgeblazen-spuugbellen-vol-loos-gekrakeel~b363468e/",
-    "published": "Thu, 19 Nov 2026 04:00:54 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Wat we als de wiedeweerga moeten leren: omgaan met onzekerheid",
-    "url": "https://www.volkskrant.nl/columns-opinie/opinie-wat-we-als-de-wiedeweerga-moeten-leren-omgaan-met-onzekerheid~b0939e2e/",
-    "published": "Thu, 19 Nov 2026 04:00:53 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Het verhaal van de blauwe kater die de hele straat onder de duim had",
-    "url": "https://www.volkskrant.nl/columns-van-de-dag/het-verhaal-van-de-blauwe-kater-die-de-hele-straat-onder-de-duim-had~b5739b87/",
-    "published": "Thu, 19 Nov 2026 04:00:53 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Grote vraag naar thuisbatterijen nu voordelige salderingsregeling eindigt",
-    "url": "https://www.volkskrant.nl/binnenland/grote-vraag-naar-thuisbatterijen-nu-voordelige-salderingsregeling-eindigt~bb4b2b51/",
-    "published": "Thu, 19 Nov 2026 04:00:51 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Moet de EU de Britten weer omarmen?",
-    "url": "https://www.volkskrant.nl/columns-van-de-dag/moet-de-eu-de-britten-weer-omarmen~b225d7b0/",
-    "published": "Thu, 19 Nov 2026 04:00:49 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
-    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
-    "published": "Thu, 19 Nov 2026 03:58:59 +0000"
-  },
-  {
-    "source": "New York Times",
-    "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit",
-    "url": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html",
-    "published": "Thu, 19 Nov 2026 03:58:57 +0000"
-  },
-  {
-    "source": "New York Times",
-    "title": "Florida Man Found Guilty in Plot to Kill Haiti’s President",
-    "url": "https://www.nytimes.com/2026/11/18/world/americas/haiti-pastor-assassination-moise.html",
-    "published": "Thu, 19 Nov 2026 03:36:55 +0000"
-  },
-  {
-    "source": "New York Times",
-    "title": "Tracking China’s Intensifying War of Words Against Japan",
-    "url": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
-    "published": "Thu, 19 Nov 2026 03:32:40 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "Japan says PM Takaichi, Putin held talks at APEC summit in China - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGFYWEJrZkpsMjh1dWNROWxsODdhQzUxYmR2WEhqNFIxRjNLM2l6QWlNZ2lHSlFIeGhQQnJBQTN4MGNpVXBIVkxSU1lLOVZkTk9LRXJfb0RDeXJKaFM5X245bFg5WnQ0WEtQQktxSzhGbjNPMVNFRmNLb25zM1JqcUE1Z1dFSXRjSjJUS1hzZXpEREFiejN4V1dWc05kbnA5Yi1sUjBUcjU?oc=5",
-    "published": "Thu, 19 Nov 2026 03:25:00 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Colombia Rejects Joint Plan With U.S. to Target Drug Gangs",
-    "url": "https://www.nytimes.com/2026/11/18/world/americas/colombia-us-joint-military.html",
-    "published": "Thu, 19 Nov 2026 03:23:24 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "Riyadh’s tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUVVMURmUjNxMHVQNThNQkRiUElQbkhnNVJNdkdVejBqLVVIRU1hUl9DWDhpYlFVWUtFZlo5dGNOSnFqTFU5VE93bXdGY3NaOEVmSERoWlJNOWhQN25NN3E1bGF1MEprczBsWFlkOHBDTUVLM21CSFJydjFzUFFaM2ozQU8wSTdnSENadVQ2UTNmSWhOMFBHNE1ZaDB5MURkMFM0cHZuU1BySDl0ZlQ2aDBEUEdmNUE5MnNzTnl2T2VBaV9sWUQ2Zg?oc=5",
-    "published": "Thu, 19 Nov 2026 03:19:00 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Elon Musk: Zelensky liegt over beperkingen bij Starshield",
-    "url": "https://www.volkskrant.nl/buitenland/elon-musk-zelensky-liegt-over-beperkingen-bij-starshield~b11373d3a/",
-    "published": "Thu, 19 Nov 2026 03:15:00 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Was China Sending a Musical Message to Japan’s Takaichi During APEC Welcome?",
-    "url": "https://www.nytimes.com/2026/11/18/world/asia/japan-china-takaichi-song-sukiyaki-apec.html",
-    "published": "Thu, 19 Nov 2026 03:03:43 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "Global inflation calls for monetary policy tightening in many economies, IMF head says - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNek12QlczdG01emR1MWtEdU8zWXFZalNKUWE3cDR4Vm9YbFNVaU51Y3RxT0Ywak8yV2FrSUQxelVFRDBRZlFwblRqMWctbmw5TUFja2xjSEh3UW1PQUJtTEVmb0FkMVpoYkg0UWVFYkNOZXhSSU54RUJxOTVOdDNQaEk4N2FqUjdWQjNpSk1yZndSZjhzcURKc2dUT2RLOUVqb3dwUGExZG1KUm4tdk05VzBDN0N4SGhvbFdxZg?oc=5",
-    "published": "Thu, 19 Nov 2026 02:43:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "US dollar hits 19-month peak, Aussie drops after soft jobs data - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0NIbEViM181TUJsZHFhV2J5d0lLbkVXVlBRYVJlb3YtMC1wVTlyc1NBV0RMQ0dBTXZlcHFvdnkzQm1SUWo3NFl3eGZ0SzgwTXhxTVQ3Y2VYSHg5LXZtRG9vUUp3eVlEQktJMk9JSllaQ1hRRjRuWmx0WGNJSFBLTHRpUS1tTVFoakw2dHlVRExKTU1jWE9McGswRWc5V05CYU4zR3JDdm9Jam4wTDlyNTlXRno0cXc4NVE?oc=5",
-    "published": "Thu, 19 Nov 2026 02:01:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Asian stocks fail to get a lift from Anthropic's IPO pricing - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKVlNYZ0xucjVqQUMzV3BSemlBQ2ZPcmxTejY2bXF6bzUyZTR3OEhOc3FoQW5JS095Uzl2LWhJcDdpVXpoeWF3c245cllBNFRjeks3eTdta3kxU3BiWm1IcG1ScWIweFVBdTk0eFpURlFDZi1kUmVIQ0dVTQ?oc=5",
-    "published": "Thu, 19 Nov 2026 01:53:00 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "India is not in the room in Shenzhen, but it’s watching closely.",
-    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/india-is-not-in-the-room-at-shenzhen-but-its-watching-closely",
-    "published": "Thu, 19 Nov 2026 01:47:16 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "Trump says he referred to ex-Nvidia boss Huang's situation 'briefly' in talk with Xi - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGVNM0xjMGtxNjE0aEFnRWU2QURJZy1TSzZGSkFXNVk0eTM0bkhOZWF4cXJjWGhyZEVfZjNuWjZxVVlqUWh5cDUzckE2QTdISldZeThRZG9sZTB3dzdIU1ZOX2RJV0FMQXJ4V2dKS0U3V0t1YWNpcXE4R2FuZVVRVFJaUUNnYmZkS1pQXzluQ25WaUROQ2NVQk5wNHpPa2NheXhUZFFiQ3o5cjNxcHFWUWRVS3FCNm1meTltX0xiMA?oc=5",
-    "published": "Thu, 19 Nov 2026 01:46:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Arizona says it is investigating OpenAI, other firms over possible rogue agents - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWlhZGtUbEFjczdrQzZ5YnM2MEJiSkdwYUx3YTB2SkhQUVV0WnBBNU51aHM4ZFFvaXBEMzRWY1hGVmZtbGVYVmV0ZGtLbWFHaWt4Yk1kWWx4blBVTjVNUC1Ld1JpVXdHcWlfek1ickphT3M5Q1FYRE1LV2NkZDRXYWRBcmlnOVQ0QjVtTm5CS3FYUFVSMXotdkdzX0JkVGNJQTYtenA3eHdqTE9PYjNPR1RuZk52dTR5anp0RkdTYm5rMHNpVk8zVTNFMGtWcG8?oc=5",
-    "published": "Thu, 19 Nov 2026 01:45:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Islam forecast to soon exceed Christianity as world's biggest faith - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZzhzMHplMEVtRTFScDNDeERNU05DOVY1TXVIeDl3Uko3bkcyU3NLYlJPRTVITEIyNHg1TGtZVVJhOWVlUFNYU1hTUk5CaldhMW04UXM4MEJsNjJ2WG02bG56bGJjQW91b2dBUDlHSm5WMnpxbkp6WkFqbjBiUk1tLXczSm9FWEMzZE1YNDRCdU54ME1LS3B5YmhZNVBSeUZ4WXZwN2hvbTBvcjRsQUpCNjBjNDM?oc=5",
-    "published": "Thu, 19 Nov 2026 01:34:00 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Het duurste schilderij van Van Gogh: ‘Bloeiende kastanjebomen’ brengt 190,4 miljoen dollar op bij veiling",
-    "url": "https://www.volkskrant.nl/cultuur-media/het-duurste-schilderij-van-van-gogh-bloeiende-kastanjebomen-brengt-190-4-miljoen-dollar-op-bij-veiling~be250f9a/",
-    "published": "Thu, 19 Nov 2026 01:32:43 GMT"
-  },
-  {
-    "source": "The New Yorker",
-    "title": "The HBO Documentary “When a Witness Recants” Is Now Streaming",
-    "url": "https://www.newyorker.com/news/press-room/the-hbo-documentary-when-a-witness-recants-is-now-streaming",
-    "published": "Thu, 19 Nov 2026 01:28:16 +0000"
-  },
-  {
-    "source": "New York Times",
-    "title": "Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62",
-    "url": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
-    "published": "Thu, 19 Nov 2026 01:14:12 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "Fiji declares state of disaster amid El Nino-driven drought - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1dfbGxkWnZxMTdBR2tnVW9OMDVBcTRtLWw3TUJjRDBzbHpHcjEyamZRdWR1bjdocXhpUDFlMjdTN3pkdVZkOVg2UEF6a3pyNzBkMTFoeDJrMjl0WGszbTE3TnBPRU5PLXBBc216MlItU1JzZ01WRGpJdTlJRHF3cWZxa1FjaGRWRmFKVmpnbFBKRUx4R2l3U054dzFNX1U4eVl0UVo2bXRBRzdlem8taUtybw?oc=5",
-    "published": "Thu, 19 Nov 2026 01:07:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Musk says he felt 'pretty foolish' about scale of midterm spending after Republican rout - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTl9SMXVYalFha1V6ZW9BWWRQTUl5TDE3cUlRcjVFTVdSM3VmNUFxbFhkUWlleTFyaG5KUl9ObFE5dkM1NXk1UkNMZHFVRTNHLXVxdF9DRTN0NUdENEtVbUthWTNHVWkwQk1uZUFIWkp4Z21EVkZmdmRLd1FNUHpMSEIxNzY3b29fTWtsMTduYXJveEhPZmVBdjBPWXFPSXg0bjc0bUU5ZWQyck1QZTltSUdPdE5sLTk1cGZacjY0QVRjTWVTdFctMHYtX3NUdnFHVGIw?oc=5",
-    "published": "Thu, 19 Nov 2026 00:56:00 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "The Shadow of Yalta Hangs Over Trump’s Summit in China",
-    "url": "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html",
-    "published": "Thu, 19 Nov 2026 00:52:53 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "Ukraine's European allies meet in Berlin in show of support - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWHBhRURfZmJHUzhfMW53YjcxYUNlVE1rbFZtTmV2S2Jfcm5hYXFweEJaQlZHbmE0U2Q5Y2IzM29LUExzUUx0UlIyVTNMamhzT3NPS25rbmp3bzZuZDhId1B4YzZXYWZXRkU0clRpUm9scVV5ZXRvMnBSTUlTZlVtTDJlSnFlREg3YTZpM0xVOXl2cV9xaWZpcnF2M01zdw?oc=5",
-    "published": "Thu, 19 Nov 2026 00:03:00 GMT"
-  },
-  {
-    "source": "The New Yorker",
-    "title": "Anyone Can Dissect a Human Body",
-    "url": "https://www.newyorker.com/newsletter/the-daily/anyone-can-dissect-a-human-body",
-    "published": "Thu, 19 Nov 2026 00:00:00 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "US Department of Justice charges Russian for targeting Palantir as foreign agent - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGdHSkFlZGJKSElDLTZOc3R5NVByOU9zYUxvV1MxZEpla3VwbmFJdVRUb2YwZjJfVmIzZWFXNkoxSVM3N24tY2g4YU5tbXR0N2xDcjJ2UFg3SFYyWW1wZWphS3FJQmlSYUFjQ284Nk5SdzZvakdzQmNwN1hibFVBUEpCSDMxMXpNOUM0ZlYwQ3BlbG9tcVlaRl94bUxEajlRUTV0SGRia0dlaFJwbUdCVjl5SG1OREtTeHBWdFdFTEt5TjZR?oc=5",
-    "published": "Wed, 18 Nov 2026 23:56:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Trump makes third trip to Supreme Court over Venezuelan deportation protections - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSllLNWJzWnktNEVWYTV0WGE1Vm5LV05YR0t0Z0ZxODRqNnVFNnI2SDFGZ1U4Z3Fpd0VIS3EtZjh2X2ROUXVMUmRPcnFyYXFCdkozRi1YSExzSWNsdXBpcFFIaG5TdVVibVZDN2lYN3RtN095QnFra1UydFMyMkhuODc5cUdNZGNLUV9MRnNNNThYdkdzckdSM0ZsRElzWkdfQ0VEd3VRbm9zcUFOR2lFVS1mWExvNEVJNlVQQ1N6Uk5wOUE2WWxkNg?oc=5",
-    "published": "Wed, 18 Nov 2026 23:54:34 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "How We Broke Open the Nvidia Investigation",
-    "url": "https://www.nytimes.com/2026/11/18/insider/nvidia-jensen-huang-spying-plot.html",
-    "published": "Wed, 18 Nov 2026 23:52:05 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "Takeaways from Day 2 of Trump's Asia tour: Putin's handshake, fried chicken and high-stakes diplomacy - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZURieEZtR2ttUWZVdGRYNEF1UGYyNHBNZTlCXzlUUm5vRTB0RWVON2pJendGa3daSWVWMVhUMDh0RW1vdGphMGxWbUhWV3JjVUYxdzQwS0puNmtJYVdpNDk0UmVzZ045ellsZHhIT3hranMxM3pCTGYzRndWd2lvbEhVcWpYXzhmT0xjR2JFX3FMTjJJLUg0b0owS1VLalRMa0FoZUl0SWc1X1d1RTVZMWtmUmt5VnBvaVp2SzVXOA?oc=5",
-    "published": "Wed, 18 Nov 2026 23:24:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Democrats probe whether Lutnick helped Cantor Fitzgerald avoid Nvidia-linked losses - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONTZfWHVZQkZBSHhzWl9pY3ZMUk9HQVhEUmtmckJNcVBYUXFHQ2ZDZF9XUkpESEF2bjM1cjh3S2R6T3N4cG8xeDJCS0NOQ1JLMDRRcFZvUjl0X3YzREVxM1RheFRESF9QekdKTnpFRC1oaW51Mkwwb0w1REYwSngzRjh1VXA1ZVJick5SczdmTjltWExrV0JEeXRVUmVpbDhEQ0lORlAzWGpWaG50UWJFOGpValMzd09jZGhQNQ?oc=5",
-    "published": "Wed, 18 Nov 2026 23:23:41 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "EXCLUSIVE: Anthropic clinches biggest-ever IPO with $81 billion offering - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnFyUlh5WE5VSFRRSWxnVGRUXzlROFRSb0VOdmZwamRWYjJ2SWhvTGp4ZTB3eGNYYWZtdkR0WkJLMDIxX2RZa20wOG4yY2xjdVhuTFpWakVUVDJ3X0NJQURrVkNuR0xPZmxtMm56NDQ0OHl2TzdZVDVSc04yYUlmY2hPSHJ1U2JLamhzallLeEZDVWozbGVObjBEWWNvY205Rmh3Rk9lTWE?oc=5",
-    "published": "Wed, 18 Nov 2026 23:19:26 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEpRTFc4Q3Nsa085U2xoZldyY1BXSmlhSy0yT00tRzF4eU5QekdiUENlSTQyajA0eU5PVWl0MUpoejlXdXJMVVFPbHRVaGFlZmxoWFA5SHN5VXBpWHJvLUFLMjZISk96bVRuWWs0V3NSblpmWTM3VVZNQ3VHQVNpQTNUOFM5VzdwZ0ZOcHlFX3hmcEJ5ZDhRVXlCS0dCZEwxbXZ3Z09zVjB4N1FGMHo4Qkc4WWEwTG5LdHNWbk14NA?oc=5",
-    "published": "Wed, 18 Nov 2026 23:13:48 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Trump, Xi and Putin release 'peace declaration' from unprecedented summit - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdzN3ZEpqNW0wZlBtajBvdU9pSzk1MG9RQ2NhVlBuaFMwaVZBWVhkLVNiMnZHTTBRS2J6Z2xkdWkxRERWakdCc0JBdGtUUlhVbHJlR2dMcVVTV0lCNWVGNi1XSG5zVTVrRW84V0JVZUhOVGhKT0FZMk1uRTd3anM1RFhPUWxWNFdQWFF2WjhhYVFCdnpPMGlLYThjMDExVC1fVFJfeFZ2ZXM?oc=5",
-    "published": "Wed, 18 Nov 2026 23:05:00 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Aantal hiv-diagnoses stijgt voor vierde jaar op rij, zorgen over toename bij jongeren",
-    "url": "https://www.volkskrant.nl/binnenland/aantal-hiv-diagnoses-stijgt-voor-vierde-jaar-op-rij-zorgen-over-toename-bij-jongeren~b8ef0a93/",
-    "published": "Wed, 18 Nov 2026 23:01:41 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "How the Anthropic IPO stacks up against SpaceX - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkdlbW1ReWtyUXdHSHFPaWw0Q25WdThvUlFSTDY3cGI2THcyNUtSNzVhNVZUdFVkcVF1Rzh3SWl4dVRiTEk3Z3JyLWpGeEx2aGFCYWZ3bTA2SXBia1lXcVBFd2xrRFdNQTllNUV4RGxVOWZreFlLWENXNzF5Njdsa1ZLZ0NWcEVRbzRJdnNuSm0tLTVUY280clRCaXVzOGhSekhNMkhBdGF2Wmc?oc=5",
-    "published": "Wed, 18 Nov 2026 22:54:09 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Lawmakers urge Trump to press Xi on detained Americans, political prisoners - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNm8zS3NFY28zdlZ3M2xoYnlSakdGUVU2d1hCWW5MX1U3bkM2TGN2dHE2QXlUWUplMDJua19PSUcybm1UdFpnTjYzYXFhYjBKYk1JcGJHUUY5TWtQSEVJRC1hcGt5SlhfUUdhVmtHTGYwd05zemRlM2dfaWU4V0VCdDc2QVZGTWN6RWQzenFFWjBkUTRPdnBldXJCeFpJZkFqM09GZEt4V1l1d3EyUkstSlN3OVZobDBCRzZtY05R?oc=5",
-    "published": "Wed, 18 Nov 2026 22:52:09 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’",
-    "url": "https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html",
-    "published": "Wed, 18 Nov 2026 22:24:50 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "Nvidia retreats as strong outlook fails to dispel uncertainty - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVnb2FaQlk2WUUtQ3dtaUlBRF9oSnFadkhYVUNwSzRKdnFQNENDUmgyMXBFV1NKaDhUcXJYTGF3Z21LM1F0OEZMVTJZU0lhWHlhOHBCb0t5WVRmMVRMU1ZCRTlJRUpYRlFCZ3RBYVV4WlF0Nms2Q1NvbkVjU0p5NVVQbmFrdzdfZmdLdVgxZnZBUkRGbkpZMTNR?oc=5",
-    "published": "Wed, 18 Nov 2026 22:17:53 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Anthropic biedt aandelen voor 83 dollar aan op dag van beursgang",
-    "url": "https://www.volkskrant.nl/economie/anthropic-biedt-aandelen-voor-83-dollar-aan-op-dag-van-beursgang~b9839dd9/",
-    "published": "Wed, 18 Nov 2026 22:12:11 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Youssef M. Ibrahim, Who Covered Iran’s Revolution for The Times, Dies at 83",
-    "url": "https://www.nytimes.com/2026/11/17/world/middleeast/youssef-ibrahim-correspondent-obituary.html",
-    "published": "Wed, 18 Nov 2026 22:05:53 +0000"
-  },
-  {
-    "source": "New York Times",
-    "title": "Grand Theft Auto: An American Icon, Born in Britain",
-    "url": "https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html",
-    "published": "Wed, 18 Nov 2026 22:05:43 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "EXCLUSIVE: Trump administration weighs forcing US firms to disclose Chinese AI use - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRDZYbWdKS2hHRWRxVU9jRTZmUW5GdUZXdXNnMW43cnNKNmV1d2JIcnByM0dBWVBKbkd0TkkydWpQSkdZVkNWQ1RnS2JRQmI1TFE0ODRrX1lCdXkwejVvN3Qwa0taTDZtMkt2VWlTblJqZ0FQeVlMajlocTZ5UE95V29GQ19xQUlkNDh6WVRKVXJDbjM2ZUdaM0c4X25lUlFWRk1qakhGSkwzMGhKdWxFNlBsSnVhVE0?oc=5",
-    "published": "Wed, 18 Nov 2026 21:53:07 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Data watchdog probes massive Deutsche Bank leak - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLUs3dGNkUWtlLXg5WGdnMVhya2NRY3FLWmdXQkdXZjRCZl9LWklodUZsTE9YZVZNUmpyS3VxUWFRZEJmcjRGdW8zQnRpTEhMZllnZUJQT09jQ3dEenduR1NfRXBYTGJPUG9VUnVTQzlMYi1qWFprWnRqSms0ejh2QWlsNHdCV0V1dnFkaFhvYm55bHBYWExVcTgtaWpRaUhKbHRrMUk4SDFGMk9SN1pXNjJCWQ?oc=5",
-    "published": "Wed, 18 Nov 2026 21:32:20 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "UAE court orders freeze on crypto tokens stolen from Binance wallets - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVlN6ZktkUTBHWUpjSTdjUmFSZUVMZlBwb05IaVdWX1FzVGlHdnF4cUpYVkNTMHVnYTlLZ0w1M01xTnlVNDV4dWg4SDNtRDJIYjNzOFBiTDBOODhVcDFzY0tQa2d6YV9Oc3BDTXNYLTNSOTNtaEcxZTRESmxfcXdxS0VtZnRPdzBFNW1LYThBdlRsc0ZmYXZtQXRGMlFCdHk2ak1rRml1TUpobFdGNnJwY0pDUGl6dVBXUjBMYThwOA?oc=5",
-    "published": "Wed, 18 Nov 2026 21:26:59 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Judge extends block on construction of Trump's triumphal arch - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmVRdG1JVzZLUGVCQVVXQnEzdW1PQ3dra0VWVlQ3NGJaNDdIOVoxc0hzNzBFZnNsTy1tbi13Q1EtRHJ2WEYwTTJSX1YwTWJodGpnMjVETE9zLVYxc3Noc3BZNnJUc3MwR3h4YnJsZnJ1MDg0UGdPNUFTOGFGaUxsQU5ldC0wd2VTVk41VGFXWmZydEFldk9hYUt6aGlXLWZFSTVtRDVwbnNqeHNmY2w0?oc=5",
-    "published": "Wed, 18 Nov 2026 21:19:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWp0U1B6TG9KQU5oY25mQTRtbk5hTUZxNnI3azdIZDNNcU9iN1hzSndVckt3eU5ReUZockwxa1JOMVYyNTQ5d281c3NnU1pEU3pKaEZMSUZEdFQ3bG9DaXk4Umx1NG5WQ3ZvMko2VzBYdlgwYUI0Rm9ud1kzU1VMeWdZNXlkd3FJWTBvc25qV1ROWDZubGV4SF9QUk1EcG9BWGprZzRxcU9xa2g5TmRiUDRqR0FoYmNreUNicmFiWQ?oc=5",
-    "published": "Wed, 18 Nov 2026 21:15:02 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Palo Alto raises annual forecast, signs $4.5 billion deal for Applied Compute - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZW5sQ0s3NEtGMUtHWHpjajhUZjB3WW1PcGNIOF9IdktwUTVFbVh6V2VsMVFsWFRBMlE5VmtyUXlPMUtfZlk2UU4zbGxoZ19ocThmVjNudnNUWFhNR3BlT0V5dUxuYVk5VXUyT2EwZHI3QmtTS1N1ejVTV005UmNvdV93MjVEVDBkQldGU3E2bTBzVHpUbWZNY2wtbWx6TzA?oc=5",
-    "published": "Wed, 18 Nov 2026 21:09:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Newsmax sues Fox to unwind $22 billion Roku takeover - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkRHNENCN3owQzhxeDBoSTRib2picHRTTzF1SWhUcGNtUmFlRnFKYUp2ejF5dDNmRVN3Wk40azhTQmE2SVZvdTR4SmN5Rm9YaUx6S3owaWo3TjFWd1BxNGVBQVIyV1dXc0x5Q1E3aE9uWkxBQnZsZVVjWUdBb2FEZGZLZENsSExlbUkwRnM5RTJOVktacll3azhZTFV6dGtkTEp6TEh6Yw?oc=5",
-    "published": "Wed, 18 Nov 2026 21:05:46 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVo4R08zb1NLcnBSUHZjUEl2NV9jZGZ1SG1oTXZNakY3MXliTVZIcDIzUHo1U0pwdElJSGQ3aUR2MHc1cUdJUURGQ3RCSzVJM0owUWE3SmEwMHNERXhVMEt0VVFFQVlGMDA1VXBURl9jX1JRVGpKYTBJUTViRm1yenJEM2FyN01TZ2ZseVdsSEVrWVI5RGRUb3MzVEtQemN1MUdoa1B2VHdPRjNPMXhPbmZla2FkTFE?oc=5",
-    "published": "Wed, 18 Nov 2026 20:58:10 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Anthropic IPO to mint thousands of millionaires - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdW1QU3VfRndFeVFEODFZbWVTcUVkcE1CelRpYmJWZ0FleXRVd3EwbjFXeHRmbUJQUDBsQXFQc21iVjdCRHFscy1qQjZWeWhIMnF6d0NBR3gxQmRERFdyLXBDNFFpZDQtY05mT3REaThpVWdVSVQzLUtmOUpweHZmc0dvWEFjbmpxWDdadjNzaFI4ajNmNUZsVVlhb05hWm5qRFdNTV9R?oc=5",
-    "published": "Wed, 18 Nov 2026 20:48:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Israel launches ground operation in central Gaza, dozens flee - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVdVck4yZnVKU01QQ0Nrd1c2VXRReEloTk1IS0xKWjRkcUdrR3BiTlAyU2dQVm1POVg0MmM5anI0YWlIa0txYms3Sjh6QW9kRjU3bmk0ajlHZ3BZbHM5eHBqazVBbVRvYkt4NENBZ0VuU3NEREFaVGpEOXFyMkdPWEktNE41aUIzY2U3enZDX1dmTTZkQzJPNHh0WktQUV80M2ZTb2o0ZDBYUHR0YmIxRWlB?oc=5",
-    "published": "Wed, 18 Nov 2026 20:43:20 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Democrats nominate Hakeem Jeffries for next US House speaker - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSFJMeDVVWnRDWmUydUhCQ0lieV9kZjdRc0xKbHA5ZDlMeG1WZ29rTWJpcGxLSE1EZEttb1Vwd2Zrdl8tX0Q1RVNEbGR0OEZqdWxLdnpkZnFBenNBclduTWhENTdhYnY1WXdjZ2RGRTVDMjFPVkpnZnJVZEZ4VngweEtJWTVlakU2ZEtDWUxTMTliZktETXlvcXFXWTFhdU5GeUIyRUxqUkV4aGFX?oc=5",
-    "published": "Wed, 18 Nov 2026 20:31:31 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
-    "url": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
-    "published": "Wed, 18 Nov 2026 20:29:31 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "Republican Senator Cornyn blocks Trump judicial nominee in Texas - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR0NHZWwycF85Y1NfZ1lEV01yWEpOUWJacnJPRlhBeXNReGR5VXlBODhDMzF3di00amFSNjFVVkNZSGViMkxYWFg2WTBxU0kwdEN5c0FReTZoZk9rVTltSEs5Ym9vRlVQMXVVRkNVSFRXNXBjQnJsV21KVTdGWWhLNUxOMkxseE1kQ29ZOUNBTWdDUnQ1VXNQMDNiM2FHTnBMYlZYY3RiT2s2SGlBeGdjSnJWQjk?oc=5",
-    "published": "Wed, 18 Nov 2026 20:21:22 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Wall Street prepares for Anthropic IPO frenzy, despite broader AI stock slump - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONkZkRVdESVU1UERiQmhZWmp5cl9Vel9VQlJOOWtLM3ZfVjFVVU5rYUZVWk5UVF8xU0t3SU0ybEF4UDNBOWFNeVI3RjlGMzZVdUhMbnV4UU9JQXpqM1FxZk1reHJGbFM5Qm1VcTMwTl81SEtvWVRYNjJRa0JPZ2xkamZfR3I2elFGWnhlNUFsMWNYMW5MeWJYR3o4SFg5NWhxa0tjYzJtMVpaelVhMUREQnZJa0huN1pzSlUzdTBHWm9ackd6Q0w4?oc=5",
-    "published": "Wed, 18 Nov 2026 20:16:28 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Nepal Came to COP31 in Dire Need. It’s a Test for the World.",
-    "url": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
-    "published": "Wed, 18 Nov 2026 20:08:36 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "Britain, EU drop 'trusted partnership' term from summit draft - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ1dqbjcxS1NvVGZBUEJYTDd1alo4YWNzRG9aMVZoVUE2b1ZibW95VlhQWDQ5dWNZTTFkbXBnbHVob1JMT21UMElBbnlQb01wT2Q4NXdHRi1GWGFfQ040NGRCRFlzcFNUTjJJMGRPT1FEWF9sTUJUZVV2MU90dUZOXzAzbmlnZWxwOG5YOVFNcUJOdGF1aEl6dERxSEhJMDA?oc=5",
-    "published": "Wed, 18 Nov 2026 20:02:37 GMT"
-  },
-  {
-    "source": "The New Yorker",
-    "title": "Laura Kolbe Reads Robyn Schiff",
-    "url": "https://www.newyorker.com/podcast/poetry/laura-kolbe-reads-robyn-schiff",
-    "published": "Wed, 18 Nov 2026 20:00:00 +0000"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Myanmar hoort donderdag of het schuldig is aan genocide: uitspraak kan ook gevolgen hebben voor zaak tegen Israël",
-    "url": "https://www.volkskrant.nl/buitenland/myanmar-hoort-donderdag-of-het-schuldig-is-aan-genocide-uitspraak-kan-ook-gevolgen-hebben-voor-zaak-tegen-israel~bf70bf05/",
-    "published": "Wed, 18 Nov 2026 19:52:18 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Steeds meer landen claimen geld bij rijke landen voor klimaatschade. Nepal krijgt nu als eerste – een beetje – uitbetaald",
-    "url": "https://www.volkskrant.nl/economie/steeds-meer-landen-claimen-geld-bij-rijke-landen-voor-klimaatschade-nepal-krijgt-nu-als-eerste-een-beetje-uitbetaald~b46814bd/",
-    "published": "Wed, 18 Nov 2026 19:52:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Pennsylvania confirms eighth measles-related death amid US outbreak - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUWNYcFY0Y2ZRYXUzLU9Hc3Fuc214enY5NHF3SUx6THdGdFlwdF9aWGhGS1ZYVmpzaHEtRnZxUFpWZHQyVUl3SEJDckw1WWZQUXNPS0VnNE90Q3FieVFZazZ5SGxmV3JOeVB1amxURDUyQnQtcWdLbDVabW1XWWhLT0FHYVBtQVFBWkp6R3ItUlZiS285cWhhQzBDZFhLaGpSNDB4Q0N3UTBVVVlVa3hNZGU0bkZMRW1FOFNQbzVFeUF0VlItS3ZrUG5OOGZGWWZTVUE?oc=5",
-    "published": "Wed, 18 Nov 2026 19:52:00 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Hoe blijf ik goed bezig met mijn geld?",
-    "url": "https://www.volkskrant.nl/economie/hoe-blijf-ik-goed-bezig-met-mijn-geld~b95430e6/",
-    "published": "Wed, 18 Nov 2026 19:38:51 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "US tightens Iran blockade with curbs on oil transfers at sea, advisory shows - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS21BSEJXWHdIUGpZcWRtZm0tT084cTd5WFpvbFZUeE9wdHkyelI4Y2pFamp5YmY3S09BRm9zMWQ3VE5NcHVnSGZNM20yZ3B5NE1mXzZ4VVg3NUZ5RTVuQ2owQzE4MkxpaTBIcEhCNng4MDE1ZnpyTUVOMUVHVFdzcm14Mkl2TlNGZmNuVFQ1NFMwdGFOT1JSTEFURDNOQ005cWVaUG5ybmtyNWQyTW1QMG82SHhGQXNmb3VMTUtB?oc=5",
-    "published": "Wed, 18 Nov 2026 19:32:18 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Top House oversight Democrat to investigate Trump family corruption, Epstein files - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYWJhSXJEajB4YzJrLTRxcThCTDh2VjJzRURpRHJ5NmJVczRjeFIwQnctTmRMdzdha0V1RVhFRHZjamlkdVpfM3JRbVdEVmRPWks0NVJWV2EwZGFmNnVwdW8zN1FoZEkzanlSSUNaUFBXLUZ4eVpIT2pxUjlfcE5FOG43RVNwSEJReUZpckpHT2N4em9fMTlVYVRyV05qQmdhTXFLdno0VXBlSWZOTmxsNWQ0akhqbkJNQm9YMi1ycEhwY1lDUEtnc3NhQQ?oc=5",
-    "published": "Wed, 18 Nov 2026 19:25:21 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Ford ships first battery cells using CATL technology - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTBMV1ZFVURFMmhJNEl1SXNETWpmMnNadDQyWEo1UGZRNXZjWE5yR2JQb2VyeDJoZEItQ0Fjd2RRNnA5aHBtNUtnbXVPUm40SW8tSjJHTkJsaTcyNk5uYlMyd3pMM2V5VHdIYVVFZHBSSHhjYTNKYkdReERNS095Nnp2OFdKNGtqNndnOWRZblltN3AwaDcwSy1aSGhhN0dhd0xsRXVaZTJ5c1BGM2M1cTZaUmNHUlZGQVE?oc=5",
-    "published": "Wed, 18 Nov 2026 19:25:15 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Afschrikking van asielzoekers werkt tot op zekere hoogte, maar is dat moreel wenselijk?",
-    "url": "https://www.volkskrant.nl/columns-opinie/afschrikking-van-asielzoekers-werkt-tot-op-zekere-hoogte-maar-is-dat-moreel-wenselijk~b63d2e19/",
-    "published": "Wed, 18 Nov 2026 19:00:22 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Klimaatonderzoeken met ‘overtuigingstrucs’ zijn juist minder overtuigend, blijkt uit weer ander onderzoek",
-    "url": "https://www.volkskrant.nl/wetenschap/klimaatonderzoeken-met-overtuigingstrucs-zijn-juist-minder-overtuigend-blijkt-uit-weer-ander-onderzoek~bf524dc5/",
-    "published": "Wed, 18 Nov 2026 19:00:21 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Het is tijd voor een positieve herziening van het woord ‘belasting’",
-    "url": "https://www.volkskrant.nl/columns-opinie/opinie-het-is-tijd-voor-een-positieve-herziening-van-het-woord-belasting~bcb6a68f/",
-    "published": "Wed, 18 Nov 2026 19:00:00 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Bij de verkiezingen in fusiegemeente Hilversum proberen de VVD en D66 kiezers af te leiden van de kabinetscrisis",
-    "url": "https://www.volkskrant.nl/politiek/bij-de-verkiezingen-in-fusiegemeente-hilversum-proberen-de-vvd-en-d66-kiezers-af-te-leiden-van-de-kabinetscrisis~bc3668e4/",
-    "published": "Wed, 18 Nov 2026 18:58:00 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Eerste Kamer zal box 3-wet ‘zorgvuldig’ in vliegende haast goedkeuren",
-    "url": "https://www.volkskrant.nl/politiek/eerste-kamer-zal-box-3-wet-zorgvuldig-in-vliegende-haast-goedkeuren~b4e8472e/",
-    "published": "Wed, 18 Nov 2026 18:54:13 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "'GTA VI' publisher Take-Two jumps as gamers relish blockbuster release - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTms1VVZUOTUyUjBnS3VLVjFBZU5SeW1UWDZNRDJqY2w1N3dlT2Z6OEU2MDNIdGRaMG9XRzZMZVZZWDhERVRWbVpSVnkxZFVtUU9wVmxhVTl4akNIN2p6d0JWSHJ1RzlpNnljZkFXTjBySlRHMVNaRXMtbDM5eFctekpJay03M1ZJM0JzdkpfTml3MWJOcVh6YnBvaVk3QTYyS2Rha2cxYUtpWF9TWjdr?oc=5",
-    "published": "Wed, 18 Nov 2026 18:31:56 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "EU governments authorise signature of trade deal agreement with Indonesia - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXJIdmxPSUc3bmRtUGRnWk5CZUFYcG9vaHh5bUpHNnZZYmpSd0ZiR0lYV2FIZGdxeXhSR25rWkE1MjNYbkNTeC1KNlpNWEg5UGtMX1h0djhUXy1vZW9wQjk3WV85UHQyWmRCeXYxWE96aFZCRnViUFd6dmRnVVU5V09FekktbVNzT0RObXg1S0hPSHdSVzM3a292OEpJRzhzTHN1UzBEbm9paFlRbXlIRGVyNkVYbkY1c0N0UVdCT3c?oc=5",
-    "published": "Wed, 18 Nov 2026 18:31:23 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Hegseth, in Caracas, announces US-Venezuela military partnership agreement - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZV9uT1R6QjFJeHlkYmhUeTdIQ0F0Ync2akZibV9hdmhtNEZMelUzSkk1WlFTNTJUd2NKdC1ILW9rWHZJb3JZemxwT2dwNlc5QjNIYzlNS1kwVkt6aDl5aVl0VFdvRUNPYzBMeXJtMnM4YVJPWjdvSzZ6eWlQNXVFdGdhNkw3YzhpQ0V4Yk11dlFKS21RREIxZVcwUFJxS0xKZ25TMDE1bGtDRUJ2aUp2VVFBVkUtSDU1VXBLNENB?oc=5",
-    "published": "Wed, 18 Nov 2026 17:58:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Putin and Trump expected to hold bilateral talks at APEC summit - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmphYzlHTmtWY2ttZUFFb0VmdHRaTUtId2RKT1luZE96cXF2ZjFYTDk3WTlVNEZ5Q0hTc0JrSFpLSEwzSV8wblVNOE03R3BXdXU3bnhxUnpvb2FJd2hSMG1uTU9yMmNQLUdtNW5vTmxrSUNyb1REWDlzRl83SUx6QlE2Y09rSGFjY2JTb1JQRXNISTFoWTFRamF5U2VWNGJpM0JEMkhsLUs3VDJCdEVoMzBoZzFjZWgw?oc=5",
-    "published": "Wed, 18 Nov 2026 17:41:25 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Kabinet vindt steun voor asielbegroting bij Pro, maar komt het beleid wel langs de rechter? ‘Ik houd mijn hart vast’",
-    "url": "https://www.volkskrant.nl/politiek/kabinet-vindt-steun-voor-asielbegroting-bij-pro-maar-komt-het-beleid-wel-langs-de-rechter-ik-houd-mijn-hart-vast~b52cd77f/",
-    "published": "Wed, 18 Nov 2026 17:31:33 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration",
-    "url": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
-    "published": "Wed, 18 Nov 2026 17:21:50 +0000"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Het vogelgriepseizoen laait weer op: honderdduizenden dieren zijn al gedood. Volgen er meer uitbraken?",
-    "url": "https://www.volkskrant.nl/economie/het-vogelgriepseizoen-laait-weer-op-honderdduizenden-dieren-zijn-al-gedood-volgen-er-meer-uitbraken~bdd984a3/",
-    "published": "Wed, 18 Nov 2026 17:20:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Anthropic options could begin trading on Monday, expected to draw strong demand - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcVUzU0FxSzRpM0VvbEdCd3p4TC1rMWdtMXVXZ0R1bHFFMlVycms0R19tMl9mano2LWJCVzlYMEM2eHI3Y2xQTk1SWXc4bG5XbUVIYmxyZDVDX1AxbGRlZU1zNmhuR0NpYkk2dVpiRG5XMVhmeW1rUmo5YTl4MUxQNmhTLTQ3UWV1US0tWDJUb2tmUllwZkp0ZUtxR3FkSzlwUy1aQXRfYW1QdndYcDBUN1JZdmNIX0gy?oc=5",
-    "published": "Wed, 18 Nov 2026 17:14:26 GMT"
-  },
-  {
-    "source": "The New Yorker",
-    "title": "“Sense of Water” Is an Iranian Exile’s Love Letter to Farsi",
-    "url": "https://www.newyorker.com/culture/screening-room/sense-of-water-is-an-iranian-exiles-love-letter-to-farsi",
-    "published": "Wed, 18 Nov 2026 17:11:53 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "Surge in software patches likely behind recent tech outages; bank regulators on alert - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbG5MRktqdzhYemc3QU9Yd0xudG9uN1lSbkd4YTd3dG44VUlfcTRzcW5WQ19qb2JTX0o0QVV6VHNuV0oxRFNzYUZSX2wySm9WRmk1S2swN2djcWNJc3I0S0FqbzBrV09oZlAzbVFGQUI5bWktb2ZYU3ExYWdCd2hNOHZIei16QU9UZXJDQ0FNRkk0S0FjRG85UUlXX09KTmFtYzQ4SVZQOXBXcHY1VVlzcV9wdGxTR1Mw?oc=5",
-    "published": "Wed, 18 Nov 2026 17:11:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Bulgaria uncovers five-year cyberespionage operation - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVWdlako3SVZrMWU4Nm5hRzEyRWpYLWJXRlhWaV9BZ2Raek81UmNyNHZadUlDcGl1ZVBwY0lLRUJHTkh6eGxaLWE0eGxtQndaSmtLa25MZ1BwNXI5aVBhSGF6Yk4yNlZmOHcyaTlUcVAtVm9PVUgtRm5ocEdmTC1ZaHJvUGczNkdpTWNKM2FsY0l3QVdpaHQ4b3N1M3RmUDV4eHpMcWVyWVo?oc=5",
-    "published": "Wed, 18 Nov 2026 17:04:11 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Threats from Iran have increased substantially, US intelligence director says - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVVIOHhPWnFWVF94TVJ0cTI0YU5hNERTcWNyU0phOVlSejlUbVFmYmkwSlZUNGNHenVpZHlydHpHdW9kWHc2UFF6aXJfQVZYcElYVlFsT0Y1RUV4Wnl2aVloNU1nY196aHRMNmV0NTFhWDhtVFlSV19MTElzZVRpUEJNYkpKcURQLUtFd1JfNlB3cmRvYmtONW1vNzBHTmgtYXhmMnNLNE54c1hpd2dZNi1mSlRnOG8?oc=5",
-    "published": "Wed, 18 Nov 2026 17:04:00 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Schandalen dwingen Nvidia tot koerswijziging, maar familie Huang houdt grip",
-    "url": "https://www.volkskrant.nl/buitenland/schandalen-dwingen-nvidia-tot-koerswijziging-maar-familie-huang-houdt-grip~b6b03054/",
-    "published": "Wed, 18 Nov 2026 16:58:40 GMT"
-  },
-  {
-    "source": "The New Yorker",
-    "title": "Daily Cartoon: Wednesday, November 18th",
-    "url": "https://www.newyorker.com/cartoons/daily-cartoon/wednesday-november-18th-greg-outage",
-    "published": "Wed, 18 Nov 2026 16:55:07 +0000"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Generaal die landmacht moet leiden is dol op Trump, maar weinig enthousiast over drones, die het moderne slagveld beheersen",
-    "url": "https://www.volkskrant.nl/buitenland/generaal-die-landmacht-moet-leiden-is-dol-op-trump-maar-weinig-enthousiast-over-drones-die-het-moderne-slagveld-beheersen~b79499a2/",
-    "published": "Wed, 18 Nov 2026 16:50:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Trump envoys Witkoff and Kushner expected in Berlin for Ukraine talks, says US - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1JGY2Q4VWJWVTF2TTRXNVVlOE9CZDRyYXZ1NXVUTng1cGNLVVZFLXhUQU1hT3FqVFRCT1lRNVJ2M25lc1NSNEVrWEt1R2MtbTM1OHBFd1BUSThNb1JvTlVIVjhzVnlDVkVFTEhWQVBKaTlIT2cxekJ0ZEhObmQ2QTlzZzFnOWxWdWpxakhwZUl4dF9BV2l4bDhoY01vU3FIUU5sam1Pdk5GRzgt?oc=5",
-    "published": "Wed, 18 Nov 2026 16:38:47 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "UK's BAE Systems to cut 1,000 jobs from head office, air sector - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZnR6dkQxcVVWVUUwYXhhZ2dLcXQ5YzFYSUx4Tl9qWjE4cWZ5bWhZb0tTNFB0NlJKU092MG9hUWthZGVvbnVIQld5V0l2N1JCMEJJUFhTcWpURHpScEllVVQ3bzZvTkRfQkRyeE1QRVpvQXNXUU9kdDVTNUppODN3OFVpZmZMM28wUUxfV0tiS3pOZ29kQ0lkOHRDQnRBS2RNdkIyOWY0STJXUzc0SnVXag?oc=5",
-    "published": "Wed, 18 Nov 2026 16:30:16 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Global patent filings hit record high in 2025 as China drives growth, UN agency says - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX21fSEZwSlpHUWFuby1pYnF1X0R0SVZUdEVENG1ITG1SVlJYMmpIMzhRLWxWbXREbVBWeC1jV2NmbUxQS0RGbjVWSlJYcE1zY3lockx1aWJGMUtGRmFINEVEYkxRQVAxc0VTaVdXWi1WaEs2ZzEzVGo5cFdiWW5tSDhibFhhaHdtRy1qX3NEaU81Mkx3alVKbFFZYlN3d0Y4V0xKYmpvTVRQWG1zUnRQXzBWbmIyME0xUzNjdUVVV1hKVnhZOWRuSTd3?oc=5",
-    "published": "Wed, 18 Nov 2026 16:13:56 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Verkoop schilderij Van Gogh kan tóch doorgaan, Sotheby’s verwacht recordopbrengst",
-    "url": "https://www.volkskrant.nl/cultuur-media/verkoop-schilderij-van-gogh-kan-toch-doorgaan-sotheby-s-verwacht-recordopbrengst~b0add672/",
-    "published": "Wed, 18 Nov 2026 16:03:04 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Rekenkamer: Europese bescherming tegen pfas schiet tekort",
-    "url": "https://www.volkskrant.nl/politiek/rekenkamer-europese-bescherming-tegen-pfas-schiet-tekort~b8c4bc1e/",
-    "published": "Wed, 18 Nov 2026 16:00:56 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Partijprominent Forum voor Democratie was aanwezig bij geheim vechttoernooi van neonazi’s",
-    "url": "https://www.volkskrant.nl/binnenland/partijprominent-forum-voor-democratie-was-aanwezig-bij-geheim-vechttoernooi-van-neonazi-s~b43d6ec6/",
-    "published": "Wed, 18 Nov 2026 16:00:00 GMT"
-  },
-  {
-    "source": "The New Yorker",
-    "title": "The Best Books of 2026 So Far",
-    "url": "https://www.newyorker.com/best-books-2026",
-    "published": "Wed, 18 Nov 2026 16:00:00 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "As criticism mounts, Trump administration says tech outages not coordinated - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbEE1dGhXVGJrYlFUZHZySzRlNDdaQ0dKckl1MFpkdE94V1JaODhValBDZDYxUjl3NXhTc1c2SS1xQUIzZ2hDWUoyYi12T2RCdV9HczFJZnhKZGpsZl80dzB2bnpKMU5yZ3BtMVVhRGJXRHFONE1BQVFQMzFaNlA0X1ZQNXh3RUJKR0JvcF9GVkVYY29sREppRnlmRGVjZ0NmY19MOGlWdWs0a0QwYk5mTzloODFUQ2VVU3liQi1JS21FUzBYN3VJNA?oc=5",
-    "published": "Wed, 18 Nov 2026 15:54:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Israeli spy chief lobbied for joint Iran strikes on US visit, sources say - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkJqT2oyYk82bDFiWGJYTVlhX2hxNWs5NzFWY01GTUZVLV8zbWgycFhsTjhuOEcxUTF4Y1BiTWNxUWp4THZhdjBYVnMxd1lCY0d0YlpIWlltUV9JckxaMG5zSURFaW5VV1hGVnBzcm04TENiQWpjWFVwU211MW9qYTdwbERzX19CQkY4UVNseVFMSERmemJPTGY5bmRScXRmaUNEOGhhbm4yOHVGRmtZLXgyN1VBRnJvVngw?oc=5",
-    "published": "Wed, 18 Nov 2026 15:46:19 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
-    "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
-    "published": "Wed, 18 Nov 2026 15:37:11 +0000"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Een van de beste series van het jaar vind je op Mubi, een eigenzinnige streamingdienst die met aandacht films en series kiest",
-    "url": "https://www.volkskrant.nl/televisie/een-van-de-beste-series-van-het-jaar-vind-je-op-mubi-een-eigenzinnige-streamingdienst-die-met-aandacht-films-en-series-kiest~baa8c1a2/",
-    "published": "Wed, 18 Nov 2026 15:11:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "EXCLUSIVE: Drone attacks nearly halve Russia's November oil refining, sources say - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWZxREZPaThlNEtsN1Z2V2s3bVpMbkpiOEYyV19nS2paZndRczh0SG5pcURzTmFSMzYyNDlPbDJFRTIwZTBScFpSLUVrMDNtWm9xMndPT1JHdk00WTFNVlZOdGE1LS1TdHJJX0hsMXI4eEV2cEhEVTkzWVp6ZkNxWVdMbl9lS2FqRnl3TWlEbnRDb1NqLU1iYmtvSkxDa19GWEJpckk1bEI3U09TcDdvQ1ViS25jRXZTZ1U5RA?oc=5",
-    "published": "Wed, 18 Nov 2026 15:10:58 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Here’s the latest.",
-    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest",
-    "published": "Wed, 18 Nov 2026 15:05:28 +0000"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "De terugkeerhubs in Rwanda zijn een peperdure pr-stunt",
-    "url": "https://www.volkskrant.nl/columns-opinie/opinie-de-terugkeerhubs-in-rwanda-zijn-een-peperdure-pr-stunt~bd242987/",
-    "published": "Wed, 18 Nov 2026 15:00:17 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Irish Man Sabotaged U.S. Military Plane With Ax and Chemicals, Prosecutors Say",
-    "url": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html",
-    "published": "Wed, 18 Nov 2026 14:59:03 +0000"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Vrouwen die ‘paranormaal onderzoek’ deden bij kindergraven in Leusden vrijgesproken van grafschennis",
-    "url": "https://www.volkskrant.nl/binnenland/vrouwen-die-paranormaal-onderzoek-deden-bij-kindergraven-in-leusden-vrijgesproken-van-grafschennis~bee22347b/",
-    "published": "Wed, 18 Nov 2026 14:56:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5",
-    "published": "Wed, 18 Nov 2026 14:52:22 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "EXCLUSIVE: Saudis preparing for Yemen campaign to last well into 2027 - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0txUndxQmRJNU1nMUZSVFc5d29OSDkwSWMyOHB5VC1iVVZwY3IwaEs3VlRkbEtHVGRmazVueE1YSjA4N0N4OElZRVdfM0trQ0dnaVptanRtRWVoWERLMWlUUjlac2ozVlRjMWdqMDQ1ODBOZEtPb2FKVFA0UXJpeGdjck1OMDMzdEhhQ2piTDd4QnFXcm12Vlh2MHVKcXNQUTdJWVZlV1E?oc=5",
-    "published": "Wed, 18 Nov 2026 14:43:54 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Gen Z: Tell Us Your Political Hopes",
-    "url": "https://www.nytimes.com/2026/11/18/world/europe/gen-z-protests-politics-what-do-you-want.html",
-    "published": "Wed, 18 Nov 2026 14:22:31 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "Hoax bomb threats force evacuation of several schools in Spain - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMDZSN1l6SEx3bUd6UVNNNk5NaDM3YVlhTXVRMmZSSWhKSy1zRllaRGQ0cmYwdXpUNjNDV25kUUFjQXVOejl5NVRCY01ITE1QalY5ZHhLb3lEUGhTNEhfMm1oeGZrWmRSaXlOUEViaGZRLV9tQW80UWJURV9Yc3U5WWg5SnlqeGlEYlZGdGpIUHRoOUx6U3d1QkhRd3BPaVRNNnVhZFctUzg?oc=5",
-    "published": "Wed, 18 Nov 2026 14:16:43 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Voters Are Punishing Autocrats. But Many Still Embrace Them. Why?",
-    "url": "https://www.nytimes.com/2026/11/18/world/europe/autocrats-psychology-support.html",
-    "published": "Wed, 18 Nov 2026 14:16:41 +0000"
-  },
-  {
-    "source": "New York Times",
-    "title": "Putin renews his warm bond with Xi.",
-    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/putin-renews-his-warm-bond-with-xi",
-    "published": "Wed, 18 Nov 2026 14:14:34 +0000"
-  },
-  {
-    "source": "New York Times",
-    "title": "Big Money, Existential Risks",
-    "url": "https://www.nytimes.com/2026/11/17/world/18int-theworld-anthropic-ukraine-nvidia.html",
-    "published": "Wed, 18 Nov 2026 14:09:54 +0000"
-  },
-  {
-    "source": "New York Times",
-    "title": "Leaders of China and Japan Meet Amid Political Feud",
-    "url": "https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html",
-    "published": "Wed, 18 Nov 2026 13:46:45 +0000"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Gehypnotiseerd naar ‘Interstellar’, in de hoop de film opnieuw ‘voor het eerst’ te zien: ‘Ik was die scène he-le-maal kwijt’",
-    "url": "https://www.volkskrant.nl/films/gehypnotiseerd-naar-interstellar-in-de-hoop-de-film-opnieuw-voor-het-eerst-te-zien-ik-was-die-scene-he-le-maal-kwijt~b2d4817b/",
-    "published": "Wed, 18 Nov 2026 13:39:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "IAEA says North Korea is expanding uranium-enrichment plant at Yongbyon - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ0Q4Sk1xb2tRUUdUMHdVNm91OGZEeDMwTkV5dlFfTTI3QXB4RUFuUERvSmpIQXAxRVpiVENsUGt4eWE3My1EU3Jxa0hOY1pwVDlSVHJFVDFJZ0N5WEFZbnZfeDg3WUwzSUVnUkdoSE02SUZ2N2t0R3I2emNZampxMlJiaDFsZkpGc2FqcE1Tcll6TzFVZlVwRkpfNnM4Z2VuX1NESTBBSVpCSGVUT1pMbnN6YjViYzA?oc=5",
-    "published": "Wed, 18 Nov 2026 13:38:52 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Trump and Marcos Share a Moment Over Jollibee Fried Chicken",
-    "url": "https://www.nytimes.com/2026/11/18/world/asia/trump-marcos-philippines-fried-chicken-jollibee.html",
-    "published": "Wed, 18 Nov 2026 13:29:27 +0000"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Ondanks Trumps opmars in Latijns-Amerika halen zijn rechtse vrienden de banden aan met Xi",
-    "url": "https://www.volkskrant.nl/buitenland/ondanks-trumps-opmars-in-latijns-amerika-halen-zijn-rechtse-vrienden-de-banden-aan-met-xi~b59be6c2/",
-    "published": "Wed, 18 Nov 2026 13:27:42 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNlY3ckxpdlVSS1dCVmhacndwQnBDTFBtRTVhVjJGOEJwdlVkUlVPRjJ5MUZTdE51WDRXNXNjQ25Zd3M4WEd5N2pvdjNxZzIyUU9wLW1uakxQN1E1YWhCX0JtN2dpZk5jUl9RX2s5SnI3RThHbnRXTlBoMnBfdVF4dlVQQW5RTUhwU25vNlFQbVplUWI5SjBRdUt2Y28xc0M1WmZSNmhNUm5qU2Y5a0tJc0lYLTg?oc=5",
-    "published": "Wed, 18 Nov 2026 13:26:41 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Brits toneelstuk ‘Giant’ over Roald Dahl nu in Nederlandse bioscopen te zien",
-    "url": "https://www.volkskrant.nl/cultuur-media/brits-toneelstuk-giant-over-roald-dahl-nu-in-nederlandse-bioscopen-te-zien~b8dc9f8c/",
-    "published": "Wed, 18 Nov 2026 13:24:00 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Fried chicken and a chat with an old friend: How Marcos catered to Trump",
-    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/fried-chicken-and-a-chat-with-an-old-friend-how-marcos-catered-to-trump",
-    "published": "Wed, 18 Nov 2026 13:17:06 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "Ethiopia and Eritrea amass forces along border, heightening war fears, sources say - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEJBNVB0dkdmX1h1VU1fRTJkVGdQN3oyWWZlOTBqaFVPOHBIcWk2YlJ1M2poeFpLcWxlNV9rOHBQYTRwdzRaN2ZKbkNveGgyMkFBRmY1b2t4REJSampnVjdaZnlmYVA3Vm1oU0o5T093T0t0QjNQZU8xeHRzWGZRaERvVXJpUFNqZDhQcjZfSVFHSktmVGZ5anIzZWpxMXlfU0VqR2VybTFlSzl1R0M1R01IY1BEanRJSFJQQU5pLWFXMGs?oc=5",
-    "published": "Wed, 18 Nov 2026 13:04:03 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Over drie weken is er weer crisis in de coalitie. Dat kan Buma niet oplossen",
-    "url": "https://www.volkskrant.nl/columns-van-de-dag/over-drie-weken-is-er-weer-crisis-in-de-coalitie-dat-kan-buma-niet-oplossen~b6fe5f7f/",
-    "published": "Wed, 18 Nov 2026 13:00:00 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "De fiets die aan de andere kant van de stad achterblijft, dat is niet zoals het hoort. Je weet: dit gaat morgen een probleem worden",
-    "url": "https://www.volkskrant.nl/columns-van-de-dag/de-fiets-die-aan-de-andere-kant-van-de-stad-achterblijft-dat-is-niet-zoals-het-hoort-je-weet-dit-gaat-morgen-een-probleem-worden~b7a525d1/",
-    "published": "Wed, 18 Nov 2026 12:47:58 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUo2UWtYUkdWbUFwMVlzSHJwTVNrZlhyMzVuVnk3YVFXLW9mN1g5ZU44SmpMZG9kUUc1NFhacHEwbFJBN0lTQUdaMzFmNXNyd0RQaHNsaG9vY1lNRHRzV2pqV1dmT0Q0dXdWVDdORjZCVDczU2NueUdWaVZNd01GSXdBa05pQ0E1ZmkwRWFENXdlckFVLUdHVUFSNmhwa29oU1gyS0NJaTU1S2dJa3U5VmtKWQ?oc=5",
-    "published": "Wed, 18 Nov 2026 12:36:03 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Russian military aircraft deployment sends potent message to Asia - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeHRMTlJNQ2lnMHZSWWRZbEhEajhhdUtWR1hCb0wyVDRta3VsVTVCVFExZE5ZZTk0NzBSY190ci1IbTl4NGlBUHNqMTAta2w2NU0zVm1PSlJxRWFjREhTUGZTV1RXSm5iakFSU1FSLUp6REtlcFkyVDlrMUltaEJmMWNNcUJkNzBqOXVDa1gtaVB4SUc1VGFhdW9Wb2xwcXVpU2M0aUVESnBMUVJJRkdXWndrQUNSeGMtcDNKRG1vUk51Z0E?oc=5",
-    "published": "Wed, 18 Nov 2026 12:34:50 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "China seeks advanced Nvidia chips for AI weapons despite US curbs, report says - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0Vsd0FkMFJLZl8zbklveDFFQW9XSEc3Q3dHMEZ6NjJFZ0dyYUIzOVdkam50a0lSYy00NEt5OGpCaG8wQTZ4RDlyTGVvaU1VMTlGNjk3aTdiZHVXcnloamEyTUZqbEhJWTlHbFJqTHNDWmVGN2JBT2FYTG44bWRIVXFfQ1E3LVdmeGRlczZETDFIUXlUSy04RXk0bDBlTHlIVm1ld2V3TnltenZZSXdBTm1ZV3NxUFVnTTRZWWRn?oc=5",
-    "published": "Wed, 18 Nov 2026 12:25:43 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Een budget als dat van een wolkenkrabber: feiten en cijfers rond de duizelingwekkende populariteit van ‘GTA VI’",
-    "url": "https://www.volkskrant.nl/games/een-budget-als-dat-van-een-wolkenkrabber-feiten-en-cijfers-rond-de-duizelingwekkende-populariteit-van-gta-vi~b4a679cf/",
-    "published": "Wed, 18 Nov 2026 12:11:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Nvidia stops shipping US-approved AI chips to China - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0dHN3dEWU8xaElLV21veDdXMWI3eUpBYWNYV2ZXSWZTUkJLX3dELUNmeEZhSGtlczFEMWFjXzZMTWhNRUJrZnlHT0VqN0ZYcXZwQ1dXTzJLSnJCREtWZXhQWVlQY20waTh4WlVZNmVTemVLM1l4UXNrbUJDd3p4OUhweklHT2F2SDRXTXpiWTRab3dIalpnQjVJNmc?oc=5",
-    "published": "Wed, 18 Nov 2026 12:08:59 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Italy set to introduce social media curbs for teenagers - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaTMxUFZ4ZGV6NlFxTmZLUUVpcVc5ZFNzaVJUZ0VJbVc0VkNhWUtiSDhmbEZMX1dlU1Y1MFFIbFM3dEZJUVZEUkd2dDBkaVg3STJlTE5qU0hORXYtN28zQnpjalpvYS1tQTFZeXJPR01zLWFDOXFjYlRacXl3OFktMzZfZkdJTWFWVmYxZXNHYXlpTXdERVotaDlOYnNocU1ORGZJ?oc=5",
-    "published": "Wed, 18 Nov 2026 12:02:30 GMT"
-  },
-  {
-    "source": "The New Yorker",
-    "title": "“On the Calculation of Volume” Enters a New Phase",
-    "url": "https://www.newyorker.com/books/what-were-reading/on-the-calculation-of-volume-enters-a-new-phase",
-    "published": "Wed, 18 Nov 2026 12:00:00 +0000"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Vader en dochter zwijgend in de auto: je blíjft ernaar kijken in de meesterlijke roadmovie ‘Fatherland’",
-    "url": "https://www.volkskrant.nl/films/vader-en-dochter-zwijgend-in-de-auto-je-blijft-ernaar-kijken-in-de-meesterlijke-roadmovie-fatherland~b34cb82c/",
-    "published": "Wed, 18 Nov 2026 11:41:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Speaker vote gives progressive Democrats a chance to vent at Hakeem Jeffries - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSDBfd0trb3NUaDhZTmVNUThEWnd1OFFpR3l1ZFViV0c1MVVJWnZqaXJXSlJtQzNscEFWODJCOWJ1YUZmbjRKei0tLVZzY3RhM0NUNm11SElMOEtGSjRCTmllZ25kTHBnUVlIUE9JSzlsaW9nendQcHI3VWV1aEV4NnBDb1ZTYnZqOGNHRXdBcFV3SmxvWl9pTHpZSE1ZdXJmYjlBejZhQ2hEUGZTemwzOVNWMy1IX1ktdGdCd1hB?oc=5",
-    "published": "Wed, 18 Nov 2026 11:38:38 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Brussel wil nieuwe miljardenlening om Oekraïne sterke positie aan de onder­handelings­tafel te geven",
-    "url": "https://www.volkskrant.nl/politiek/europese-commissie-wil-nieuwe-miljardenlening-om-oekraine-sterke-positie-aan-de-onderhandelingstafel-te-geven~b06bafcf/",
-    "published": "Wed, 18 Nov 2026 11:32:51 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "As Meta bets big on Muse AI agent, early safety mishaps surface - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzFCWVhTaXRGa0xoLTRJUUVKTjNaYXZzU2FhbHYxR2tyallCbFJsUFM1U21lbXN0UVN2U3FfZnlsWWdGWERVTWRBdmhHVmZaS0Z3X0REWFhvaXhQYXpoNHRlTG0wbHp0WHd5b3N3dnpOYnJONWE4bWVXdEJObHFqZTFYd2szQ3p1SU5LV1JxODNpSVpoWnZTdXVWRDJTSUl0MTRvQnotcjJrUUE?oc=5",
-    "published": "Wed, 18 Nov 2026 11:23:13 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Gastronomie, hartzeer en troost komen op miraculeuze wijze samen in het meesterlijke ‘Midnight Diner’",
-    "url": "https://www.volkskrant.nl/nieuwe-series/gastronomie-hartzeer-en-troost-komen-op-miraculeuze-wijze-samen-in-het-meesterlijke-midnight-diner~be9454d84/",
-    "published": "Wed, 18 Nov 2026 11:21:00 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Xi Greets Trump on the Tarmac as He Lands in China for APEC Summit",
-    "url": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-china-arrival.html",
-    "published": "Wed, 18 Nov 2026 11:14:00 +0000"
-  },
-  {
-    "source": "New York Times",
-    "title": "Putin Arrives in Asia With a Show of Force: Nuclear Bombers",
-    "url": "https://www.nytimes.com/2026/11/18/world/asia/putin-taiwan-japan-korea-vietnam-bombers.html",
-    "published": "Wed, 18 Nov 2026 11:08:23 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "Grand Theft Auto VI draws rave reviews as gamers enter Vice City - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVVqRHRmV1VIanMwYjl6bHB4R0FTSWZOVFY5RXVYSmtaOVZQMVhXNkoxVjM1NF9ZUUZYa2hneUMxeTBzRC1WTFJQZVJBOTAweVhHOFhfZFJIVmt6cTdHMGxwYnFDUjZaYUZJVGlvV2dOVGFvVWVDY3FaX2VHQWZ4dlhlRGxQdDhETVN5aFA0OG9hOVVHMFBYbHFESkxEY0ZPeUV0a0U3LTFvZFRnWk9oQkhwdTVSbmdGQUZHSk02UzE?oc=5",
-    "published": "Wed, 18 Nov 2026 11:03:00 GMT"
-  },
-  {
-    "source": "The New Yorker",
-    "title": "Gifts for Foodies and Other Loved Ones Who Eat",
-    "url": "https://www.newyorker.com/culture/gift-guides/gifts-for-foodies-and-other-loved-ones-who-eat",
-    "published": "Wed, 18 Nov 2026 11:00:00 +0000"
-  },
-  {
-    "source": "The New Yorker",
-    "title": "Will the New Democratic Majority Get Off the Ground?",
-    "url": "https://www.newyorker.com/news/the-lede/will-the-new-democratic-majority-get-off-the-ground",
-    "published": "Wed, 18 Nov 2026 11:00:00 +0000"
-  },
-  {
-    "source": "The New Yorker",
-    "title": "Play Shuffalo: Wednesday, November 18, 2026",
-    "url": "https://www.newyorker.com/puzzles-and-games-dept/shuffalo/2026/11/18",
-    "published": "Wed, 18 Nov 2026 11:00:00 +0000"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "‘The Year of the Ghost’ is met geen enkele andere documentaire uit China te vergelijken",
-    "url": "https://www.volkskrant.nl/cultuur-media/the-year-of-the-ghost-is-met-geen-enkele-andere-documentaire-uit-china-te-vergelijken~b1325ea5/",
-    "published": "Wed, 18 Nov 2026 10:54:25 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Bangladesh deploys paramilitary as unrest grows over Hasina's return - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR1dVRWRwQ1k1VHhrUmpzX1pIdEpZcXdpLTFpUktTSzRHTFNZcUJ0X0pfMlVBd2NVWDRWM04yZ21IaUhwV2cwVi1DaERxU2w0TkVwemVSMzFhYlhBcXpjc3Y3YlJMdGd1SDJPcHpBXzdwS2ZrYVR6dERHejNSMzBmdkVSblBVUkxYTkk2U0h4T2FvbU1Pb2ctWDlJRS02SUQ4NjE5QWUxMzRXc0ZKaC1YRGdaN0VKUmhFcUxJ?oc=5",
-    "published": "Wed, 18 Nov 2026 10:53:43 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "US senators warn White House that AI-enabled cyber threats are outpacing defenses - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdzI5cndBYkVfZHo2YU9EX19XUklYMzg0TWwySGlMeDV6Z2NBZlZsd1BTVTFmVm8tNllyaUdIdjM3TUFnVDFBaU4zWENEWW95ckJvZWo3M0lhSDBJOUlNT0xsZVpqelJSZVQ4MjR2NEJ5U1BLc082bTF5UlRPTGhuVUhFUUU2OTk4Qy1sb3psUGNONkFpRWtSUkdlSGlpOXR2ZkV1c1pMclp2SFgweEhIODFLTEJxdG1ZY29nQ2xWZDAxOUE?oc=5",
-    "published": "Wed, 18 Nov 2026 10:47:09 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Zelfs mensen die machinaal denken zijn nog te prefereren boven mensen die een machine voor zich laten denken",
-    "url": "https://www.volkskrant.nl/columns-van-de-dag/zelfs-mensen-die-machinaal-denken-zijn-nog-te-prefereren-boven-mensen-die-een-machine-voor-zich-laten-denken~bab74aff/",
-    "published": "Wed, 18 Nov 2026 10:31:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-    "published": "Wed, 18 Nov 2026 10:28:00 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Alleen de wonderlijke dansbeelden maken uitputtingsslag ‘Colony’ bij vlagen interessant",
-    "url": "https://www.volkskrant.nl/films/alleen-de-wonderlijke-dansbeelden-maken-uitputtingsslag-colony-bij-vlagen-interessant~bcaec761/",
-    "published": "Wed, 18 Nov 2026 10:23:05 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "NASA Voyager 1 probe believed to have reached 'light-day' milestone - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZElsVDJXZEEtTmRRNDZYN1hiZUt0SndSYXpKSlNLWlhZWjFOT1l3N2hLMU4ydWh4U2lsbjBSazB0ak9pcV9fUVZVS3dkaVVEUUxUM0o0bHNGSmFGbXJLZExkczk0WWMtMjF1Ti1mWFFJaWF0dWk1UmtBVVZqdHdoMDRUNnBhRmJsX3hMYTdqa1RuMl9mVEo1ZTZUWFNKX2hPandoa255bW1OUQ?oc=5",
-    "published": "Wed, 18 Nov 2026 10:21:49 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "‘Hunger Games: Sunrise on the Reaping’ steekt flets af bij de voorgangers",
-    "url": "https://www.volkskrant.nl/films/hunger-games-sunrise-on-the-reaping-steekt-flets-af-bij-de-voorgangers~b19f578a/",
-    "published": "Wed, 18 Nov 2026 10:16:10 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Elke scène in ‘Fausse note’ voelt onnodig opgerekt",
-    "url": "https://www.volkskrant.nl/films/elke-scene-in-fausse-note-voelt-onnodig-opgerekt~b9c9b304/",
-    "published": "Wed, 18 Nov 2026 10:06:47 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says",
-    "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-putin-ukraine-war.html",
-    "published": "Wed, 18 Nov 2026 10:03:56 +0000"
-  },
-  {
-    "source": "New York Times",
-    "title": "What to Know About the Myanmar Genocide Case at the World Court",
-    "url": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
-    "published": "Wed, 18 Nov 2026 10:03:51 +0000"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "De documentaire ‘Time and Water’ toont de herdenking van de eerste IJslandse gletsjer die is doodverklaard",
-    "url": "https://www.volkskrant.nl/films/de-documentaire-time-and-water-toont-de-herdenking-van-de-eerste-ijslandse-gletsjer-die-is-doodverklaard~be65ccd94/",
-    "published": "Wed, 18 Nov 2026 09:55:45 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Trump Briefly Met an Old Friend in Manila: Imelda Marcos",
-    "url": "https://www.nytimes.com/2026/11/18/world/asia/trump-imelda-marcos.html",
-    "published": "Wed, 18 Nov 2026 09:52:56 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "Five military officers injured in Jordan's helicopter crash, army says - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZlNsOHNTUlpqakhGa1lzZXpqM0Z0dXlSR1FoMG5McXIzUXQ0NWRLSHBpdTJBOHNzb2s4c2JCQ1p2aVZxd0xBMGtIYnRSUW90THB5Q1RGbjlXWlRMTXVwX2VhdXRZNmRCZlpTVEhLVEZ6N21tWlZlekxuRUY3YV80S3hCRzVkZDlPbkVpWG81ejl2N2dXQndWSjhMOUc3UjljZUswbVFSNWt4TndHX2dwYmVFbk9XYWxmLTlQblo0TDRFQklOSFpzMEExZw?oc=5",
-    "published": "Wed, 18 Nov 2026 09:40:16 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Samsung Electronics downplays concerns about neocloud firms and AI bubble - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZUNyLVVjeVRlazF5djhJOTlXeGpvODRMeGJSWmFqRWJpSE9nZjk3WEpvRkhmVG41WDc1R3VoNVVDbHFwaDNBanpXWE9xWDJZbGlsU2NoaGpGMlhFOVlBN3B1QlQzSjdOaGhTZklFdFZVTXBuY0IwdWZnS3lSUWFvNi1LODN2NXRoem9IWXFoREljdmxfanZsc0ZxLVlKM01HWmlXYjhBMlBKR00xU1YyVGM4MWtBYkpxOGNFZ2VOY2lZUQ?oc=5",
-    "published": "Wed, 18 Nov 2026 09:09:00 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "A tropical Chinese city is half-empty and ready for the summit.",
-    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit",
-    "published": "Wed, 18 Nov 2026 08:04:02 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "Rockstar promotes GTA VI in China despite lack of sales approval - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVmEzTWFRSTRmdDg5emtqSER1aTNfQVNMd1pWV3FzVFRZR0xGSzRBTzZ3aV9WRmN3Q2F1eDdHTlp6OW9vS0FrZll2MldBVzFaa1hFVURoSjA5cFc0cGhZN21DV2RGdTFEdHpILW5kVk5JdFNuaEdzbEhfdzJVVDY1eVpkbTRmLUxrYmliYURCSU81NV92Q2c1VF9NeHFYamQxSkF0c0x1a28?oc=5",
-    "published": "Wed, 18 Nov 2026 07:57:00 GMT"
-  },
-  {
-    "source": "New York Times",
-    "title": "Rio Tinto to Pay $250 Million to Address Mine’s Environmental Damage",
-    "url": "https://www.nytimes.com/2026/11/18/world/asia/rio-tinto-papua-new-guinea-mine.html",
-    "published": "Wed, 18 Nov 2026 07:46:33 +0000"
-  },
-  {
-    "source": "Reuters",
-    "title": "UAE's ADNOC L&S says one crew member missing after attack on its vessel in Hormuz - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0otMXozQUNrekhJLWlpdzg1WW8tcVJZVkhPVkNrTWNRNmY0MDBPLVZnWXNraWJ0X3drck5ST0RHMThaazY5Vmk2ZWVCZVY1UlltQjVOTU5MeEh1N2F4ck5TaVRQYk0yNjlYeERUNU1fQ2dOOEd6bjUzME44dGdiNkpUSEl5Tm5uT3JYZW5nMTdVZEZQVllVaVFScHRxM1BibUk2SXZiZWZoUjFnZEFjbWpoTFNHMk5kRElfWi1CQVhFTTFlT0E?oc=5",
-    "published": "Wed, 18 Nov 2026 07:41:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "After $6.3 billion crypto heist, Binance plans Asia expansion - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbnZiblFkQkE2ci1kNUpEUVB1YnE1SFZmSmV1VzEyUVN2ZmZkVVlvZW1UbEIwOVFMUi03OUVUQlFZYlViSy03WlFWd2JwTlpDaHhiMXJzMXJ0NUd1c0o0bUpsMENLMFNlbnRGT0NfbmNNZXg5ci1ybXVHRjNrcjN2LTNGaHJLZGRqU3B3bUVaM3dyeTc4SWowSzRYbF9QNVh2eTVnNnRQc3p4ZUxRa3VEZGRvbGtLWnNSYVB3d2Fmeno?oc=5",
-    "published": "Wed, 18 Nov 2026 07:40:00 GMT"
-  },
-  {
-    "source": "de Volkskrant",
-    "title": "Russische gezant na gesprek Trump en Poetin: ‘Europeanen staan in de weg van vrede in Oekraïne’",
-    "url": "https://www.volkskrant.nl/buitenland/russische-gezant-na-gesprek-trump-en-poetin-europeanen-staan-in-de-weg-van-vrede-in-oekraine~b30fd54d6/",
-    "published": "Wed, 18 Nov 2026 07:33:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Soccer-After Orban, Hungarian football's state-funded boom faces reckoning - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzRpNjU2UVJlUlpmakJfYzBicS05U0kyYXFJY0JLc18wM1RLVHJ6Si1hSkxqT3ZpUHo4b0JFRFFfV1lqMFBtN1d5ZGRQbVVPYmRnclRJQ19Eb05rZkdxR1lLNDZUdGpLdFhVcHhjclNhS1ZEb2hsdW5lenI1MHM3Y3FoZjM5S2l0VTJHTGkxcGhJb0UzTEZSZ2R4aS1GVDdLRENsNmxoVklvLUt1ZFlscjhybnE2UQ?oc=5",
-    "published": "Wed, 18 Nov 2026 07:12:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "Operation Vivaldi: Ukraine melds man and machine to repel Russians - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPazhESEU0enF3SmZRQ0ZNdTd2Ti1OeWpFeF9OODZETlZDUnVJMDFRMjlfdU05UkRpc3JOZ1FheFZiVWZSSFcxY0NZWjA4MjEzaERrMGpqR2JONHQyeTBOYjhHX09aam1IUFc3Y0ZabE9sQ09iZElGY0hjSkZwRmJHV1QwT2FVYmxFMGl1aU8tbFBTbklBbE5lSE1pSE5ueUpoYkhfeDdvZjlMQS13Y0ZkQmoxVmZiR1ljTmlER0NR?oc=5",
-    "published": "Wed, 18 Nov 2026 07:07:00 GMT"
-  },
-  {
-    "source": "Reuters",
-    "title": "COMMENTARY: What the last two bubbles tell us about the AI boom - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdDdsUjlxY1dzNFk4ZDNDZFRFQWdTTVRiTlZYOW44MEZtNXVORUVyMnN0d3R6ZXd6b29uLWtreVczVzg3Q0dDcnJFTmFsNURNSGcyMm9aQmNiSkdoRVNPeGhxZ1A4VThody14Z3QxVDc1X3Y2U2hTV3BGdkhZS3AtdGJpcGN1NlpDSXZvNmFiZ0ota0lHOEZOQ3NGQko2d1RhU0lfV1REYzRFVTRvVFVUb0tfVVYyR0Zua21lam9CWm5rTXVFZzBr?oc=5",
-    "published": "Wed, 18 Nov 2026 07:00:00 GMT"
   }
 ]
